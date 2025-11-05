@@ -1,0 +1,1642 @@
+cfb6e70e-ebfd-4f11-9a6b-fd3c956f13ba,152 - Pujades 121,amenity:bicycle_rental,41.39927149999999,2.1974421
+a6c88aaf-061a-485a-8c03-b54ada67e91b,45 - Marina 66,amenity:bicycle_rental,41.3920007,2.1904046
+1331e69d-055f-4d6e-b35b-47bb55a20b69,Farmàcia Salvador Solé Palmira,amenity:pharmacy,41.3923144,2.189737
+bc62053c-8e31-4da5-802d-150e77ffc47f,Estació de Servei B-Oil,amenity:fuel,41.409511599999995,2.2016952999999995
+e47ee9f9-7d2d-4486-bde7-1a3ab6b616bb,Lidl,shop:supermarket,41.412791399999996,2.1974089
+8d5aa6d6-008f-4b1a-8cda-245b9446781c,Bonpreu,shop:supermarket,41.41244329999999,2.1967739
+b0b4d167-111b-4f33-ae54-f2830c709470,Condis,shop:supermarket,41.413891099999994,2.2020633
+edfab49d-2447-4dc0-adfe-a4033a1b33de,Farmàcia García Coma Xavier,amenity:pharmacy,41.4114535,2.1990606
+3b5420c3-d53b-462b-8245-0ef88995342d,Caixabank negocis,amenity:bank,41.40480689999999,2.1961029
+fd0c09b5-f0a5-40ae-b2bf-a771437f966a,Marco Aldany,shop:hairdresser,41.404652899999995,2.1962971
+7970bb9f-4e5c-4275-888c-539d2f8580f6,Rambla Poblenou,amenity:cafe,41.4046882,2.1967694
+dd9c520f-993f-41e6-a28c-e755eed62c2f,El Fornet,amenity:cafe,41.404858,2.1941868
+92b2f6d3-c8ed-4aab-b1a8-6ccdb9d3a253,Restaurante UN-ZA,amenity:restaurant,41.40537,2.1934837
+2a4aebbf-d4ce-4a4c-9c4e-eb9090833f80,Planxados,amenity:fast_food,41.4035018,2.1977648999999997
+b6804101-a6b9-433e-9e96-f5e8d4c14afa,braseria xorus,amenity:restaurant,41.4029,2.1986522
+0619f9b1-2c80-4f26-a15c-1c494a1ed27e,La broqueta,amenity:restaurant,41.40272689999999,2.1989008
+23605694-06af-4a00-a087-0f0de76ec370,Mercadona,shop:supermarket,41.40234180000001,2.1991561
+8d75e3ab-85b3-41d3-bbbc-6a9422ff99e5,Gerència del Sector d'Urbanisme i Infraestructures - Biblioteca d'Urbanisme,amenity:library,41.40454689999999,2.1908792
+b397618a-2224-4b0a-8857-cfd033e2b1ff,Glòries Multicines,amenity:cinema,41.40537139999999,2.1928801
+e2ed12be-d4b7-4714-8094-9e6f43999b2f,Bar Restaurant Angela,amenity:cafe,41.4043015,2.1949428
+cdf121dc-e3cc-4825-abe5-3de0110e9088,Repsol,amenity:fuel,41.399888999999995,2.198611
+596d2822-b17c-48c3-b10c-8d27ac33c6a2,Repsol,amenity:fuel,41.39313309999999,2.2041976999999995
+90922c52-bbe8-4159-b25a-1b1b3f840c29,Centre Ecumènic,amenity:place_of_worship,41.394084899999996,2.2018588999999995
+407b5609-b17e-450c-9af5-952101973829,Mercadona,shop:supermarket,41.4107728,2.194425
+feee2234-6a9a-4213-a24b-bdf754bdbcee,Cal Fruitós,shop:greengrocer,41.4048148,2.19663
+b11faa8d-7ec2-4cb7-bc8f-ef28f7835286,Culleres,amenity:restaurant,41.4063985,2.1959204999999997
+f4158cb6-790a-4535-80f8-79a4f20e1bdd,Mannà,amenity:restaurant,41.39480060000001,2.1940578
+b9139cfa-dac4-4ab9-979b-46f31d352194,Forn,shop:bakery,41.4064857,2.1904601
+de95f747-2d4f-4273-b7ce-9139a73ec685,Cafetería universitaria,amenity:cafe,41.403743299999995,2.1938343
+d7584a3a-953e-4f3a-98c5-584061b33b06,Moeve Clot,amenity:fuel,41.414581299999995,2.1905251000000003
+3c196b63-917d-47be-aea9-1a50a9b61066,Istobal,amenity:car_wash,41.40948629999999,2.2008520999999996
+90c37b02-cbcd-45e2-84cb-43d2db0b8e94,Centre d'Atenció Primària del Clot,amenity:clinic,41.4116248,2.1928706
+06297b51-d43b-4994-a438-988add88a72d,Bed and Beach,tourism:hotel,41.3940651,2.1982123
+cef9092c-4338-49b1-903a-cbc670d55712,Ugarit,amenity:restaurant,41.39074279999999,2.1979509
+57fe6925-c4c1-4de4-ba68-0e5d350ba4ac,George‘s Bar y Cafetéria,amenity:cafe,41.39045099999999,2.1981964
+06294f46-560f-459b-aa80-0a3db2adc4a7,Farmàcia Xalabarder Miramanda Avel·lí,amenity:pharmacy,41.4045602,2.2043058
+47be2d56-4e1f-4882-b1bb-c8d88817ddd8,Floristeria La Torreta,shop:florist,41.40420819999999,2.2036426999999996
+41be85d2-3b80-41d8-bfc3-609b172897d3,BSM Bilbao Llull,amenity:parking,41.4018768,2.2050179
+59e28cfe-9925-4bbe-bfc0-bdd8c7ccec7a,BonÀrea,shop:supermarket,41.400417600000004,2.203854
+f86244d3-2c2d-4c05-8233-af9b0057c98a,Casal de Barri Bac de Roda Poblenou,amenity:community_centre,41.4064328,2.2034686
+5ad15624-f41e-46e9-b95a-b9300d2090fd,Market & Store,shop:gift,41.40022979999999,2.2025218
+200158ab-2f96-4dff-824f-75a492a8aa6f,Farmàcia Oriol Carreras Marina,amenity:pharmacy,41.40124010000001,2.2023
+6e385e4b-8e3b-4c88-bee7-7a9a40abc70b,El tío che,amenity:ice_cream,41.4000638,2.2028423
+c85fcc26-5322-4bdc-8f94-0418b9a86a9a,Caixabank,amenity:bank,41.40067109999999,2.2020594999999994
+8188a49b-d28d-4a75-860f-791963f169b1,Caixabank,amenity:bank,41.40326359999999,2.2048363999999996
+790ba8da-47bc-4983-aeb4-06f8c4c97081,Farmàcia Prats Genis M. - Centellas Prats M.,amenity:pharmacy,41.4000842,2.2027303999999996
+e2336291-99fd-46fe-a056-0676a9fdd684,Ester Optics,shop:optician,41.4001253,2.2026593
+d0ad8165-a849-4ee2-a7b5-180a0ab0fa9f,Farmàcia García Moros M. Pilar,amenity:pharmacy,41.40288429999999,2.2044579999999994
+46a92df2-cef4-41a6-bdb8-7f32af124610,Farmàcia Pérez Fleitas Dàcil,amenity:pharmacy,41.4055342,2.2019129
+c176681e-51ab-4ae3-8510-57c893b1fa39,Oficina de Correos,amenity:post_office,41.3925834,2.195657
+6b16a73c-aba8-48fc-afcc-8536026e6f54,Oficina de Correos,amenity:post_office,41.408896,2.18964
+97aa3522-23b6-4f4f-a1f2-934e46c3a336,Cafeteria UPF Jaume I,amenity:cafe,41.3900298,2.1901117999999995
+6cc53333-a574-4182-84c6-e7d9afef1935,47 - Ramon Trias Fargas,amenity:bicycle_rental,41.38994069999999,2.1910676999999996
+08f11931-69db-4f4b-a39d-1fbe45249b7e,392 - Ramon Turró 4,amenity:bicycle_rental,41.3906627,2.1907023
+39e5573a-7062-4347-ba77-fd0ad6240b9c,El Forn del Metro,amenity:cafe,41.4035591,2.2028601999999995
+c213d95a-c7fd-477b-bd7d-b270600539c9,Restaurant Pipa,amenity:pub,41.39974610000001,2.2003004
+f2937704-7649-4bbb-b81f-d0b07c756f53,La Mossegada del Poblenou,amenity:restaurant,41.4012569,2.1966826
+61abb3d9-fd8c-455f-aa48-6992358ca30a,Campio Trofeus Esportius,shop:gift,41.400316700000005,2.1979282
+c6c2c74a-6dc5-4d06-bc97-359d5cf8f5c0,CEM Nova Icària Esports Club,leisure:sports_centre,41.3921938,2.1976965
+a6d82948-58e3-4753-9688-a3add73f9b4b,Centre d'Atenció Primària Vila Olimpica,amenity:clinic,41.39023809999999,2.1947063
+07cb45fc-78a1-4ca0-8d1a-ab68b1d782cb,Arce,amenity:restaurant,41.4027075,2.1977648999999997
+c1a0cb4b-48a2-440a-889f-0e75b88b4a6f,Bambú Beach Bar,amenity:bar,41.39069049999999,2.1983305
+545a8ec8-9f58-4918-887a-6cc766a47766,Consum,shop:supermarket,41.390608,2.1977378
+dfd621c9-c84c-4c8d-921b-a841a9baad74,Supermercat,shop:convenience,41.3909239,2.1987775
+253e3383-6cc9-4fb7-b219-2ce59cac0829,Els 'Pollos' de Llull,amenity:restaurant,41.3910559,2.1909418999999994
+bcd50a6f-abd2-442f-a986-a55430854f5c,Sorli Discau,shop:supermarket,41.3915206,2.1907386999999994
+f434cbce-aa04-42fd-bdc0-861162751455,Brasseria La Collita,amenity:restaurant,41.391629,2.1916632
+5914b208-29e9-486a-bb2f-0f0229cca7c7,Caprabo,shop:supermarket,41.39192039999999,2.1895606
+9afe560c-d7bf-4920-a2c0-b303adb06409,Farmàcia Fando Reynes Neus,amenity:pharmacy,41.39089549999999,2.1945017999999994
+89f4bc52-4ff5-4b6a-ae40-4eece5f35043,Farmàcia Diagonal 197,amenity:pharmacy,41.4041272,2.1912931999999996
+f3d69b3f-5369-4607-9167-d278e63791a9,Sopa,amenity:restaurant,41.40234159999999,2.1952788
+3a49f151-6ab6-44c1-badb-957a9fb65df4,Copiservei,shop:books,41.404643599999986,2.1944581
+5b9bc1c0-bdb9-42ba-ad8b-ae4076efd4b3,24 mm,amenity:bar,41.4047259,2.1943414
+a4818f5a-fe10-460f-8a77-2c72d5850a13,FRATELLI LA BUFALA,amenity:restaurant,41.405594099999995,2.1932194
+9a765476-edd2-421e-9a1d-2bd7428cb750,143 - C/ Sancho de Ávila 170 / Llacuna,amenity:bicycle_rental,41.403008899999996,2.1958373
+0783b0dd-5543-4a93-910b-7ef75b62bbc4,El Catacroquet,amenity:restaurant,41.4017897,2.196068
+41901b24-8ef0-44bb-b5b2-852b5c1058df,Restaurante Huang Qingfang,amenity:restaurant,41.4065574,2.1938191999999996
+df94917d-70d2-4695-a5de-bf1f71266317,Banco Sabadell,amenity:bank,41.4052775,2.1936878
+54ac46d1-34f8-492a-9e61-d61e303a6084,Frankfurt Diagonal,amenity:restaurant,41.4053062,2.1939024
+ba1c0ca9-8598-40dc-ba3a-cddf263bce79,Dell' Arte,tourism:artwork,41.4031633,2.1950204
+bcff408f-4bd7-4098-9c61-72d76917f9d0,Portobello,amenity:restaurant,41.40349199999999,2.1960854
+4a04a2aa-3812-4b38-a3f8-1b4d15485048,El rincón de Glorias,amenity:fast_food,41.4054932,2.1943451
+efdcec2d-615c-4178-b630-76efe734037b,El Duende,amenity:cafe,41.4055556,2.194455
+d598adf5-69fa-4513-b4d9-ef86f4a54ab3,Banco Santander,amenity:bank,41.40292409999999,2.1979768
+2eb7f944-2b3f-4090-96be-1fd3dc25372e,Ibercaja,amenity:bank,41.4048847,2.1974976
+6bbbf951-0932-41d5-94c3-57f0f23f75c8,Can Pizza,amenity:restaurant,41.404334399999996,2.1967134
+3cebd6cb-a9b1-4548-b9b9-e9bc8deb5c05,Beercelona bar,amenity:bar,41.40326,2.1985353
+59321051-9dd0-4bb3-9542-f1f805fcd0f4,Ikebana,shop:florist,41.405130199999995,2.1952659
+008471c6-48bb-45e9-a7fc-141d36df8ddd,Lunala Thai Massage,shop:massage,41.40330229999999,2.1979634
+a86dc869-f32e-4249-8f3b-0f218ee0c3cc,Farmàcia Nolla Winkel Ingrid,amenity:pharmacy,41.40460530000001,2.1968957
+acd659be-b1b0-4bab-886b-00d458be313d,Condis,shop:supermarket,41.4036886,2.1982690999999996
+f3ac574f-c6f6-4018-b30c-d097cf7a4613,Sant Martí,amenity:cafe,41.4049762,2.1976093
+61b73df8-d524-487c-aa8d-4adb3db3e333,Keisy,shop:supermarket,41.40589189999999,2.1946588
+2ec6bf09-2b75-4e4e-9f9d-bea396a036ff,BBVA,amenity:bank,41.4028418,2.1990982
+b90937bc-6523-4089-9b75-265027acabee,Espress a Té,amenity:restaurant,41.40362629999999,2.1981912999999995
+551681ff-2ce7-4c96-a774-ebb055c4b1ba,Activitas Infantils Centpeus,amenity:kindergarten,41.4048144,2.1956962
+b4512216-8549-4b1a-ae75-d7cbecae28f9,Banco Santander,amenity:bank,41.403181599999996,2.1978561
+c61e753f-311c-4aff-b099-f2463b3ecf82,Xantala,amenity:kindergarten,41.4030111,2.1980368
+02d59f3c-e82f-4d08-b084-9a5990bf7a39,Braseria Julian,amenity:restaurant,41.40273299999999,2.1969736
+669cb024-bbaf-4a8c-aa75-85bbf97df81b,Banco Sabadell,amenity:bank,41.4029201,2.1989879999999995
+ec21a799-18a4-4170-a004-c172ae8eb5ba,Llacuna,amenity:restaurant,41.40266259999999,2.1971936
+36c6a856-e91c-4f3b-9211-6acca920c558,L'altre Romero,amenity:restaurant,41.4021933,2.1993723999999997
+713581a3-1db9-4dca-9554-59577c117eca,3E sushi,amenity:restaurant,41.4045879,2.1958203
+e3fe1bf7-9e61-49e6-a9f7-434b83ca4d97,Farmàcia García del Cerro Carolina,amenity:pharmacy,41.40298289999999,2.1966379999999996
+e50d2f9b-bac5-4daa-9ae0-0c727598e333,L'Enxaneta,amenity:restaurant,41.403495299999996,2.1962007999999997
+09db7961-d5aa-4ea8-80e6-d0c01fcb8660,Carrefour,shop:supermarket,41.405634,2.1917031000000002
+8e40b1be-e78c-4826-be3c-80e888a09f8b,Burger King,amenity:fast_food,41.405107,2.1919659
+f2354456-a810-4bd1-9245-b112a01171ae,Happy Way Poblenou,amenity:kindergarten,41.40127379999999,2.2019777999999994
+2c16e087-ae7a-457f-857f-2d8a1c657909,Renault,shop:car_repair,41.401575599999994,2.2015834999999995
+a122a0a0-769d-4b3d-a257-999706570e3c,Tierra del fuego,amenity:restaurant,41.4016702,2.2016399
+ee33bd27-3824-4e83-98b5-156ca8bfdfc5,Cruixent,shop:bakery,41.40184120000001,2.2007225
+d57c73b2-fac1-4449-a219-feb858dbf845,393 - C/ Llacuna 86,amenity:bicycle_rental,41.402159100000006,2.1976058
+c81e492e-1664-4b63-9ec9-0cb21ec8ebb8,El manduxot,shop:greengrocer,41.40191360000001,2.2008136999999994
+9e4312fd-a99d-40ac-adcd-6804e4b80dd9,Informació,tourism:information,41.395390699999986,2.2017832999999998
+11925359-8f84-4d10-9b8b-b34d1614213a,McDonald's,amenity:fast_food,41.3926063,2.2037697
+7588e90b-1475-4cfd-881c-d2f8cae7ecd6,Llda C. Casanovas Casado,amenity:pharmacy,41.4145634,2.1898093
+9de0152c-7e2f-4cbf-a4a2-1d8cae53ee2f,El Pati,amenity:restaurant,41.4006365,2.1961224999999995
+df6d4ec3-9942-4d23-a0eb-1f55c3239fc3,El Manolo,amenity:bar,41.4148588,2.1946058
+0fd648cc-e98a-47d8-99ae-ae259fd8f9d0,Iaia'Nita,shop:bakery,41.4133402,2.1951346
+12bd592b-e78b-4e7e-b77c-39933623f778,211 - Sancho de Ávila 60,amenity:bicycle_rental,41.3988206,2.1902197999999995
+97f5b624-5dd6-42ee-8180-7eeddeed859b,Quinabarra,amenity:restaurant,41.40216399999999,2.193314
+f46c3391-fd9f-482f-8fce-51e562121f18,Caixabank,amenity:bank,41.40334630000001,2.2025442
+a61ce5da-24d2-429c-bbb1-21610a5a9f72,La Torrada,shop:bakery,41.3932368,2.1936985000000004
+79cc36e7-2b2a-4c0a-ab55-017491e35502,Farmàcia Renedo Igal Gemma,amenity:pharmacy,41.39330520000001,2.1935309
+09d7713b-ad6f-4f55-8ddb-acea44d126f6,Alimentacion,shop:convenience,41.4003612,2.1959358
+9155c0c9-7f47-4563-93f1-c4f149859972,165 - Carrer del Doctor Trueta 221,amenity:bicycle_rental,41.39919900000001,2.204263
+a7fe211f-8d61-48d3-93c2-7c3c545f4933,KFC,amenity:fast_food,41.4058852,2.1929942
+214487dd-4390-4cda-88ba-96dd2e62cc44,ePTV-BikeBoard,shop:bicycle,41.39088379999999,2.1906989
+0b70c89f-1d3f-42ae-8c9c-abfaf12edce0,Orlimarc,shop:photo,41.390814799999994,2.1906004
+658af0a2-550a-4f01-b245-43799c650261,Equo Catalunya,office:political_party,41.3975228,2.1993035
+3ed0664a-43e9-4705-9eb0-653d72cf9113,Cuquis. Parlem de Pa,shop:bakery,41.40437969999999,2.2038712999999994
+a46d06e2-b7ec-4e93-98de-c025b0a7bd80,Bugaderia Autoservei Lope de Vega,shop:laundry,41.40442999999999,2.2037496
+ff0dffb7-922d-4632-969f-78b6eaf3de5b,Lidl,shop:supermarket,41.4047978,2.2033032
+56ee358b-73c9-4909-8864-b390f8e51e42,McDonald's,amenity:fast_food,41.404928500000004,2.1919361
+533e6401-9fc7-49b8-9238-eef46ff88498,Europcar,amenity:car_rental,41.3900835,2.1977602
+5fbdeef7-1b6c-48fa-8f8c-609dc483c3f1,Little Ones,amenity:kindergarten,41.4085941,2.1956125999999996
+57fa1af7-c18b-45df-98e6-417ded1dc182,Condis,shop:supermarket,41.41648,2.1901456
+a949c2f3-a8cc-45e2-bac8-f4e43e740868,BonÀrea,shop:supermarket,41.4174986,2.1980155999999997
+c0593c9d-73c5-4f6b-ac42-e704158bf5f5,Superverd,shop:greengrocer,41.416266699999994,2.1950090000000007
+d8a4bccd-5238-4da8-b65d-13e1adfa62cb,Ferreteria Luma,shop:hardware,41.4165017,2.1952103999999997
+e159c7b9-8bc3-4873-bdb6-9645aaaaf714,Dia,shop:supermarket,41.4159831,2.1948555999999995
+18d69e42-ada4-4387-83ac-d4d6d8bc0698,Pai Mei,amenity:restaurant,41.4052109,2.1931116999999998
+5114feb7-880f-4103-bd7d-f6c073e9c63d,MCRIT SL,office:company,41.39178929999999,2.2004729
+73ac37f6-e4f7-43aa-8fa7-6bd8ab929b97,Bon Gust,amenity:cafe,41.40074210000001,2.1991333999999996
+30ed8c1c-0fb0-45ac-923e-db538e531a96,Granier,shop:bakery,41.4033811,2.2031684
+ae3a3107-8543-4d3c-a78e-027ccc0e9279,382 - Lope de Vega 79,amenity:bicycle_rental,41.4039469,2.2041266
+a6c62628-2d7d-4f01-9143-dc84564207bd,154 - C/ Pujades 191,amenity:bicycle_rental,41.4024162,2.2015745
+80f36f2e-a75c-4c96-aa7b-5d584737e904,153 - C/ Pujades 173 / Rambla del Poble Nou,amenity:bicycle_rental,41.40183079999999,2.2008143
+06e4d56e-cf5c-494d-a343-4abe89ce08ce,150 - Espronceda 124,amenity:bicycle_rental,41.40658169999999,2.2030353999999996
+53408e4b-d5f0-4215-91fa-d5d21e11585b,144 - Castella 28,amenity:bicycle_rental,41.40562249999999,2.1976010999999995
+3b5a3bbc-3a4e-4266-ae2a-d749a3cb2397,286 - Bolívia 76,amenity:bicycle_rental,41.40310079999999,2.1914095999999996
+c66339a6-7ba9-4fd9-a04e-ec2ff8eb0734,KUMON Centre de Matemàtiques i Lectura,office:educational_institution,41.392150099999995,2.1928696999999997
+b1c7ca59-9609-46ce-90b0-2044d4c07ab9,La Sirena,shop:frozen_food,41.413478399999995,2.1953378999999997
+4d3bfa02-fb6a-4485-b2d3-a4515e10aecd,Nice Spice,amenity:restaurant,41.40321349999999,2.2024332
+40d629a6-499f-495d-8e12-ea45d57feff7,Marea,amenity:restaurant,41.4032756,2.2025154
+56dac766-e99a-4a3c-b0cd-8b2f26263e01,Life Informática,shop:computer,41.403623,2.2026664999999994
+ae3ffb07-3d44-46ac-8f2c-80889830856e,Bar Restaurant Vendrell,amenity:bar,41.403587200000004,2.2033968
+3a2eff00-6bcc-42e5-872b-ae8e71b0b368,Rafel Pages,shop:hairdresser,41.4035015,2.2033088
+3c881ae2-0c8d-493c-af34-1ebe3b4b7e1a,L' anxoveta,shop:seafood,41.4036578,2.2034945
+d1ae9595-cfc7-47b9-83a6-fb99e54724be,Modernmóvil,shop:car,41.4038233,2.2037377999999994
+49a42270-0308-47b2-ad18-de2d821eace6,Nupur,shop:gift,41.4035545,2.202997
+5ab8736f-74a5-4002-9c0a-be89d8f60154,home i dona,shop:clothes,41.403600899999994,2.2030413
+6ec126fc-ad5c-458d-8097-267a1749f8c3,Bar Trébol,amenity:cafe,41.4037406,2.2032408
+4da29d52-24b0-4cc7-869e-87da4ed5d4c6,Menjarbé,amenity:restaurant,41.4037907,2.2033082
+2ec52bc1-cb02-4628-a47a-daabcb9a0da2,FOODIES,amenity:restaurant,41.4038148,2.2033407
+5ccbde07-fc34-4b89-afe3-c8681435ee7a,La Clau,shop:hardware,41.4039925,2.2035749
+0d3a35e3-f60b-4df8-a2d6-a0003e7f52f7,Tecno-Key,shop:locksmith,41.4039707,2.2035447999999995
+417d06f6-4997-484b-a978-5df2e1c0feb5,Spoon factory,amenity:restaurant,41.4011887,2.1998376
+c72e9fdc-140d-4b8e-9c46-201a539b8d64,El Capritx,amenity:bar,41.402288600000006,2.1998883
+0ffdb618-5a99-42b6-ab4e-fab78e7296a9,rico,shop:supermarket,41.4023159,2.1998443
+5b5fa14d-c215-4387-af91-ac6eb7079716,la buena vida,amenity:cafe,41.400844299999996,2.2013841999999997
+efcf51d9-0f2d-4276-8878-f8efcfcafac9,Fruites I Verdures,shop:supermarket,41.3991782,2.2035838999999995
+a482c295-1fbf-4331-88ac-7ffc86e43ff9,Galaxia,shop:department_store,41.3993411,2.2037098
+af3b6d7e-ddfe-4b06-91a2-c79cc8165141,Ceferino,amenity:pub,41.39725849999999,2.1916090999999995
+e51320d9-b85b-4d65-acdb-d75c9e3de3c8,Frankfurt El Racó de la Mel,amenity:restaurant,41.41222109999999,2.1935879
+759c0ac0-6fe0-4467-888e-5da391425810,Castellers de Barcelona,leisure:sports_centre,41.4113296,2.1924168
+831ae703-6b8b-4885-b796-00ea0636e74a,Golf Restaurant,amenity:restaurant,41.41163989999999,2.1933139
+d0e7e707-3e77-477f-8d4a-2473b0954f14,Bar Restaurant Virona4 Pizzeria,amenity:restaurant,41.4115483,2.1931733
+b6e75e61-2674-4711-84f3-8dcb3e35482f,Celler Ca la Paqui,amenity:bar,41.4086673,2.1927392
+127ab5c3-f5a5-4417-8c90-2855a9ff1fee,Farmàcia Plana Mendo Joan Josep,amenity:pharmacy,41.4122977,2.1933087
+5ce3feea-3f88-4dfe-a2ea-8521ce792c4d,Timesburg,amenity:fast_food,41.400719899999984,2.1997228999999994
+e677383f-86d8-489f-8c14-10fca0834265,Farmàcia Malo Castan Beatriz,amenity:pharmacy,41.39964160000001,2.1961974999999994
+db70f295-47ce-4b8c-8db8-560fcc4a2898,Farmàcia Grimau Guardiola Cristian,amenity:pharmacy,41.409910499999995,2.1946527
+1bc8c80a-5a07-47f2-b376-fe4d29d9b047,Farmàcia Laura Safont-Tria Jové,amenity:pharmacy,41.417164799999995,2.1938763
+ba500298-9e78-4372-8c7a-0a63ef5a63f6,Farmàcia Planas Lasa Rómulo,amenity:pharmacy,41.4053916,2.199688
+c9d6011f-b15f-43e4-8614-13af602cf332,Farmàcia Estevez Luaña Manuel,amenity:pharmacy,41.407045,2.2028529
+0b113bc8-fdb8-4fb9-9a8c-3d453ffce0b5,Farmàcia,amenity:pharmacy,41.4096023,2.2030267000000006
+196bc073-9da3-4e74-9c8d-a61603087fc6,Caixabank,amenity:bank,41.4091346,2.2036597
+e2ebe143-4d10-41e7-9436-24233510bdf8,Farmàcia Bardina Cortés Josep M.,amenity:pharmacy,41.40372829999998,2.1986425
+9832879d-c487-4161-9a24-61ba76705fa5,Farmàcia Varela i Mato Concepció,amenity:pharmacy,41.4069487,2.1949495
+9d9e7a37-04fd-47f2-b160-e61878ed0844,Condis Express,shop:supermarket,41.408812499999996,2.1949826
+66428c43-e6b7-4a96-a8ea-ccf6e55598c1,Forn de pa Gil,amenity:cafe,41.408928599999996,2.1951206
+b1375c8f-9301-41c5-bc4b-27f91dff8392,Caixabank,amenity:bank,41.413222999999995,2.1988597
+0732e17e-b38f-4038-aabc-514a1b18f549,Farmàcia Garcia Forester Pau,amenity:pharmacy,41.4086654,2.1947634
+56f2305c-8726-4ab2-ac5a-f45880f0c3c2,Dia,shop:supermarket,41.4143356,2.2005776
+f8cfeef0-9d88-488f-b5d8-6e0830e1a244,Farmàcia Moreu Reñé Xavier,amenity:pharmacy,41.41354379999999,2.1984761
+2d79d4cc-0b26-45cb-b3cc-512c87db50aa,Farmàcia Brillas M. - Trilla Reig S.,amenity:pharmacy,41.41510540000001,2.196296
+cda068ef-7835-4bc7-82aa-8547138b4222,Montse Villar Merchán,amenity:pharmacy,41.39874639999999,2.2041057999999993
+15cab1f7-cecd-49f5-a2a2-0e57a0624335,Casa bona,shop:general,41.40315569999999,2.2033448999999994
+2f411e59-74f9-4f41-9942-28e31c89a6ac,le cinquante huit,amenity:bar,41.40044269999999,2.2022947
+deb061a6-4aaf-4769-a0d7-d06d8f96d587,Ideal,amenity:bar,41.40091939999999,2.2037905
+7c6cd171-260e-4ce2-a309-9ca600adf453,L'Aliança del Poblenou,amenity:restaurant,41.3997067,2.2032275999999995
+fa3e99d0-c869-435c-8958-be22faf9f800,Kutxabank,amenity:bank,41.39958019999999,2.2027397999999994
+dc8222a9-eefb-4444-b7eb-304c68aabc8a,Villarroya,shop:shoes,41.39996519999999,2.2025126
+e962ab5b-3f3b-4f6f-8508-cc2b56292690,Farmàcia Arbones Rosa.M..- Braun Joan,amenity:pharmacy,41.4027562,2.1997385
+c601e18b-0aeb-4f86-8271-264535f33dd5,Recasens,amenity:restaurant,41.4024271,2.199798
+38716394-21da-495d-87a2-ad17bf6d8492,Kiwoko Mundo Animal,shop:pet,41.4002178,2.2025911
+93c9b119-f255-4520-9024-3cc05dc2a444,Triomf,shop:confectionery,41.3995954,2.2028652
+a7656a97-7ee9-4070-95cf-2c14e3167318,Clarel,shop:chemist,41.4088068,2.1895824
+cd0efb18-6327-46f7-b8b5-eb5d67e88662,Farmàcia Maria Pilar Arranz Bayod - M.C. Sallés Arranz,amenity:pharmacy,41.4108485,2.1918632
+742fb0b6-2fb7-4495-91d7-4ed645c62c07,Banco Santander,amenity:bank,41.4112068,2.1897449
+4995c32f-b332-4f91-81a1-f71bf5b08a18,Figuls,shop:confectionery,41.412857,2.1898469
+4a2450f9-ed7f-4d65-8069-6073d1de272c,Genaro,shop:seafood,41.41294359999999,2.1897943
+07d15de8-d50c-4582-9dd6-4b483e0748aa,Aroma de cafè,amenity:cafe,41.4130977,2.1899669
+ddad6a1a-d562-4ed8-b5ff-6dbd14780663,Luar,amenity:bar,41.4132792,2.1904647999999995
+617277cb-dd85-4888-ae2e-1d2b35bcea22,Hoppinness,amenity:restaurant,41.3979154,2.2006807
+ebdd0a43-7175-4b4a-bdcc-98766e3fe6ec,Farmàcia Anna Sunyer Bellido,amenity:pharmacy,41.39619369999999,2.1958873
+055025b0-c4f1-46a6-91a2-745717464917,Ivan,amenity:restaurant,41.3973403,2.1997469
+6a13b3d0-1d80-4099-abac-26849988a4cd,Granja,amenity:cafe,41.39753499999999,2.199655
+dad26d13-2210-4061-829f-0f199d78b865,Farmàcia Giró Loperena Jaume,amenity:pharmacy,41.4024113,2.2014915000000004
+d433257c-60a8-4f30-91c2-0635ec25bb86,135 - Gran Via de les Corts Catalanes 981,amenity:bicycle_rental,41.411906200000004,2.19785
+1dee15bb-abd0-45ed-aa23-71b6af244d2c,Farmàcia Jorge Trias Banyeres,amenity:pharmacy,41.4131435,2.1962962
+aaad0d07-154c-4f3e-a1cc-73c416bbf2fc,Farmàcia Josep Maria Muntané Rodrigo,amenity:pharmacy,41.4161511,2.1904557
+8f12581a-960b-4a42-bf77-9d0f4b446ae1,La Familia,tourism:artwork,41.40134,2.1938844999999993
+47970aa8-db08-4aae-aef2-09b133c0c74f,Farmàcia Romero Reche José,amenity:pharmacy,41.408965499999994,2.1923671
+c20b79a0-b2dd-49d2-aeda-6877b20d324c,Llic. Carles Domingo Ortega,amenity:pharmacy,41.41422779999999,2.1939015
+7aa6f6e9-e832-4cd7-8ac9-32ed8e65ac83,Barcelona Culture World,amenity:cafe,41.3975779,2.2023219
+0e1dc3d6-0baa-4a80-9fcc-d836b4061522,Naralabs,office:company,41.41089159999999,2.1919065
+48449c2d-7542-4076-a6b7-f7b0a23c9336,Estética Duende,shop:beauty,41.4160078,2.1957837
+6b0068ec-772f-440d-bc07-15facdd8184e,L'Escamarla,amenity:restaurant,41.392497999999996,2.2046843
+3e8d944c-1773-41eb-8ea9-618c2ef5ff4c,BBVA,amenity:bank,41.3909874,2.1939650999999993
+75077592-e6b6-4a9c-aca3-ac1fd10a6350,Condis,shop:supermarket,41.402782499999994,2.2034307
+4dc527ba-2ff4-4290-b081-cc7b2c6961a9,kurz & gut,amenity:fast_food,41.4051386,2.1928962
+2090e54d-bcdd-4047-8b5f-3052a9c3c142,iaia 'nita,shop:bakery,41.4108993,2.1928895
+5033dccf-2444-43fd-b5df-c714d5817252,Menssana,amenity:restaurant,41.3907358,2.1903752
+53ab8260-bac1-410f-8094-0070e6c1c9fd,El Rincón,amenity:bar,41.3908977,2.1900669
+0c30abd9-2178-4531-90e3-4bafb03822cc,Jaume's,amenity:bar,41.40654980000001,2.2032261999999996
+40cc45d5-e120-425c-8b07-6df0bea630d7,Partit Socialista Unificat de Catalunya Viu,office:political_party,41.416962399999996,2.1950988999999996
+d40d60eb-40f3-42a7-8acd-a6bdb372be18,Romauto,shop:car,41.4118649,2.2042956999999994
+c6986849-b308-4f2a-ab5f-917d408c5f7e,161 - Ramon Turro 91,amenity:bicycle_rental,41.3950989,2.1964629
+c9bf0bfa-238d-4ce3-92be-99fc8f934218,163 - Avda. Icaria 202,amenity:bicycle_rental,41.3942437,2.2007074999999996
+435de58a-8760-452d-9826-80d0ab28550e,MUHBA Oliva Artés,tourism:museum,41.40835189999999,2.2015251999999994
+6342018b-9fca-4408-b92b-d976d488926a,Bodega Marieta,amenity:restaurant,41.39599869999999,2.1990598000000006
+13377460-f4c3-49e5-86c6-f642cac319b9,Bar Restaurant SAVIGOVI,amenity:restaurant,41.39534849999999,2.1994374
+a9540765-8c12-4646-aaa6-1b3a8aeea26c,Racó de la Vila,amenity:restaurant,41.397437100000005,2.1990673
+30cd3ad5-a0b9-44c2-a5e3-f211ff113214,La Bona Cuina,amenity:restaurant,41.39489379999999,2.2009561
+1ac0e8d2-daa6-4c03-990a-270824736b41,Frankfurt Tito Paco,amenity:fast_food,41.39486709999999,2.2005669
+0e9e7ce5-22a2-491a-bc64-443bbb6045b3,El racó de les Glòries,amenity:restaurant,41.3986109,2.1978895
+47d2257a-c39d-4954-8621-440bc4ea6c95,Talleres ORGAMA,shop:car_repair,41.3952396,2.2000493
+ab3509ee-2076-411b-9990-cd42e12fff1c,Restaurante Los Martínez,amenity:restaurant,41.3955044,2.1997210999999997
+fbec5cbb-b175-499c-b923-ebc885ee673e,El Santet,amenity:restaurant,41.3947968,2.2007640999999993
+568c343d-b372-4a91-b2aa-14f257a415ff,El Pibe,amenity:fast_food,41.39959519999999,2.2029521999999995
+a442e536-5b9c-475a-a4ae-667ed387dc51,Le Fournil,shop:bakery,41.3957571,2.1990075
+9b14a86c-ee00-4e25-8201-61884026ceac,Bar Andrade,amenity:restaurant,41.41068909999999,2.1948579
+ab6f1add-c149-42d1-8f79-808866f233fa,El Timbal,amenity:restaurant,41.4034227,2.19997
+bd13715c-e701-422c-9038-fae96e0c6780,Nollegiu. Emprobador de llibres. Llibreria i café,shop:books,41.4005327,2.2047851
+ee091119-1507-4391-b7b1-e6090f996c5d,Direcline Software,office:company,41.41678139999999,2.1935014
+bafe01eb-38a6-4b87-9c7c-f2c3591957a1,Matt & Marshall,amenity:restaurant,41.3993348,2.1997769
+eb5d3169-4ee7-4692-8dd4-467117354ce4,Farmàcia Bertran Montañas Helena,amenity:pharmacy,41.39593310000001,2.1997215
+3ecd22ca-b890-4b60-9de5-85ef51add8ff,Farmàcia Chamarro Aguilera Maria Rosa,amenity:pharmacy,41.413907099999996,2.201792
+7277966a-5c30-4323-9e80-c2842e715501,Bar Restaurante Perú,amenity:bar,41.4137479,2.2028621999999998
+f7855fae-029b-461c-81c2-bb402549f8ad,Tap i Carbassa,shop:greengrocer,41.4139013,2.2017384999999994
+b3f58a85-43ec-486d-81bd-40b395408d26,Clarel,shop:chemist,41.41387979999999,2.2016956999999997
+e4f07b02-c294-4fac-b746-bb1715c3072b,La Bona Tapa,amenity:restaurant,41.41371089999999,2.2015193
+6030bf0e-a9c0-494f-a04b-cf857d18ae18,Xixi,amenity:bar,41.41365799999999,2.2014492
+a800034c-8fb8-47f8-b503-f54eb1322044,India Mobil,shop:mobile_phone,41.4135661,2.201333
+6ffcb2d5-7b3d-477b-938e-f9f0cc05e8ca,Mon Pa,shop:bakery,41.4135095,2.2012457
+bd6a9881-5c4f-4597-a734-7220880bf1de,El Racó De La Fruita,shop:greengrocer,41.41345249999999,2.2011744999999996
+bd1b9d0f-f440-4477-aeac-c0ada7fa7954,Què Celebrem?,amenity:childcare,41.4132656,2.2009291
+94b74212-507a-49c1-a700-b634591b551c,Taekwondo Bam Chun Dokwan II,leisure:fitness_centre,41.4060235,2.18981
+b2715f69-8aba-4176-94f5-d4883a23daab,SKYE Coffee,amenity:cafe,41.3970017,2.1913538
+c4cfd033-2369-4b8b-8847-2e5e46e5970f,L'Actiu,amenity:restaurant,41.406689,2.1923165999999994
+1eb51c8f-6287-46ef-b373-e0919fd6fbd8,133 - Gran Via 902,amenity:bicycle_rental,41.4073654,2.1927049
+0b58b386-5e87-464f-99b5-ee0437f6866d,GE Wind,office:company,41.40073050000001,2.197509
+b4185c48-c024-4825-820e-43345865c05a,141 - Gran Via 940,amenity:bicycle_rental,41.408996,2.1953237
+e2ca3479-3a1b-4cdc-b5ce-6210141f4058,Atm,amenity:atm,41.4048177,2.1961033
+f3906495-e50e-49f3-8ce4-94ca817b9e09,Bread Bucket,amenity:cafe,41.3967509,2.1929295
+bc04a1f3-3e30-498d-9ceb-d51a0c8fb793,Casa de Lina,amenity:restaurant,41.3911175,2.1897833
+2e326782-0b2e-48c2-ab8a-74a0e5a4129d,Caliu del Poblenou,amenity:restaurant,41.40134989999999,2.2010763999999994
+c12c4040-6246-4d9f-b627-ae93ffb01a2b,Codeworks,amenity:college,41.39488599999999,2.1979103
+7f8edc41-d576-4c9d-9c10-e7add0e7c8c4,42 - Ciutat de Granada 168,amenity:bicycle_rental,41.404571499999996,2.1897902
+6254ed3c-c7a7-4db3-b458-502b6b262519,Pàrking Centre Comercial Glòries,amenity:parking,41.404845,2.1902036999999996
+93ab6f3e-fcd1-42db-9ec6-a236ca0f7508,Mercadona,amenity:parking_entrance,41.4105209,2.1985725000000005
+a90fa4ed-f948-43c5-bb9f-55ce0b86882d,Residència Parc del Clot,amenity:social_facility,41.4076104,2.1919785
+57f20060-c73a-4565-9cf8-7eb2b720b8f0,Restaurante Ca L'estrella,amenity:restaurant,41.4159614,2.1980818999999996
+2300c148-44ad-4715-be7b-66dc9ab352d2,Oficina del Instituto Nacional de la Seguridad Social,office:government,41.4054976,2.2023298
+ccee551d-559f-4db1-b620-ffa7eac8a431,132 - Pl. Valentí Amirall,amenity:bicycle_rental,41.4083891,2.1920204
+342946b5-16fa-4885-b2c4-ca2fdc7f885f,CFA El Clot,amenity:school,41.4114074,2.1922368999999997
+199854de-1ad6-4046-b279-06088ee6e9cb,Associació d'Amics del Ferrocarril de Barcelona,office:association,41.3971764,2.2013231999999996
+a56d4cd0-bbb7-4d7c-8962-e7e484cc20e2,Sonora Sport Tavern,amenity:pub,41.39788879999999,2.1899679999999995
+a70111ba-e694-4ab5-803c-1893108368f4,Allotjaments temporals Tànger,amenity:social_facility,41.3999949,2.1896092
+84107501-b5e7-4f81-a106-7744e99f6708,Bar La familia,amenity:pub,41.4165078,2.1948481999999996
+d43d70f7-5349-424e-8022-d79fa70e8db9,Celler MF,shop:wine,41.41648889999999,2.1947045
+28717a3b-39b3-4b5e-a591-be26a8de5714,Bread & breakfast,amenity:pub,41.41599010000001,2.1945467
+a3d243c6-5278-4c96-b05d-4fcb449fb66f,La Reina,amenity:pub,41.4157165,2.1956624999999996
+658ff4cb-f011-455b-af0d-ed19b232d574,Caprabo,shop:supermarket,41.4158211,2.1951019
+9b690e35-81d1-4fae-b0b9-84ee919f6341,Gimnàs Koryo,leisure:fitness_centre,41.41693949999999,2.1939995
+00d4c6a8-dab9-48a9-834a-b793b99a8a5a,Centre Tot Salut,office:therapist,41.4168864,2.1940520999999995
+684c0013-8fe7-4f06-b6a1-047ee780b6ba,TDM,shop:clothes,41.41571849999999,2.1958555999999994
+496d2e51-d824-433a-b9d4-ff63a5c8ca96,Ronsol,shop:stationery,41.41701189999999,2.1961909
+20db0dae-0db2-447a-bc4b-1c8188701f38,Maxcipa,shop:bakery,41.41708030000001,2.1961640999999994
+9a59cd98-f7e5-4508-86e4-78ca5a8fef15,Ros,shop:clothes,41.416257599999994,2.196561
+70889a19-3591-4623-a62c-ee63a9cf86b3,Granier,shop:bakery,41.416397599999996,2.1965627
+bd0e9bc6-bc85-43df-b864-96b5fd9e5e4d,Red Pizza,amenity:fast_food,41.41649089999999,2.1969017000000006
+be2942af-8315-48e2-877c-faafcb0e1173,Condis,shop:supermarket,41.4155978,2.1953782
+61c2c3c7-7cc4-4026-a83e-1ce609425a66,Serralada II,amenity:kindergarten,41.4142099,2.1923207999999996
+077e2a02-e28b-405e-a571-7f148c33e181,Muebles Fran,shop:furniture,41.41743759999999,2.2047294999999996
+7126df45-ef5e-4e2b-8c40-32a45402d16b,Pizza,amenity:fast_food,41.4172048,2.2044118
+d75a82eb-8d96-48f8-ab16-df6605edc1e9,Foxos,amenity:restaurant,41.417058299999994,2.2042342
+2dac9c5c-afad-43db-a8e9-696727d40183,Gran Mundo,amenity:restaurant,41.4146504,2.2010114
+a83fe4fb-7ff7-41b8-86a7-349e13ce6716,Luca's Fruit,shop:greengrocer,41.41336789999999,2.1936004
+8a45a0ea-ebd7-4745-bfac-e00bf1c1035a,Caixabank,amenity:bank,41.413363,2.1937076
+d34d6838-5512-49dc-b7e4-be60beff5d25,Lares,shop:shoes,41.4148595,2.1947368
+9201039b-11c5-4f44-b9ea-79db33ebe03c,Murffy,shop:clothes,41.4160514,2.1963129999999995
+f0edc02e-c216-40f0-bfe5-e34f0f1aa92a,Casal Cívic i Comunitari Barcelona-Bac de Roda,amenity:community_centre,41.4142683,2.1953581
+3aaff9e3-1a4f-4a34-8795-532a99cdb810,Centre Mèdic La Verneda,amenity:doctors,41.4148133,2.2008746
+77d57e3b-0e03-457c-999d-fa50ef0f3884,Re-Nuevo,shop:second_hand,41.41477909999999,2.2009286
+3f47d353-429f-4ebd-aeb5-910b9db67fac,Bar Alexandra,amenity:pub,41.4161323,2.2018565
+ff5534d4-a7b8-4865-b631-3f7a75c78d84,Farmàcia Miravitlles Gultresa Carlota,amenity:pharmacy,41.41516879999999,2.1984660999999996
+cd6348fb-dc79-4984-b837-960ea68bc90e,Oficina de Treball,amenity:social_facility,41.4149095,2.1948239
+194373d0-ef34-4928-bd3f-5ffb6c4f9de6,Sueños,shop:bed,41.4153808,2.1954247
+e1eb304a-6551-4145-8eb2-9fcdb2465c84,Bazar Elena,shop:variety_store,41.41565440000001,2.1953189
+c5bab643-af7e-4006-ac54-f122857657b6,Flors Ogima,shop:florist,41.4129038,2.1943594
+156008f5-2611-4892-9707-243a101cf5cf,Merceria i Géneres de Punt,shop:tailor,41.41299479999999,2.1929687
+e822bf70-38f4-4f88-ab0e-33b13f8b7d3b,Condis,shop:supermarket,41.4131069,2.1941099999999993
+d327b7a4-1601-463d-ae71-a2b7f00effde,Ritus de primavera,tourism:artwork,41.4092196,2.1904161
+fedbccaa-1308-4e4d-b481-06767be1b924,Adolescent,tourism:artwork,41.39986100000001,2.2030050999999995
+24db51a8-fef0-4bb9-89a4-7fd10b927c85,El Pla de la Nostàlgia,tourism:artwork,41.3927762,2.1900378000000003
+8f13484e-a7f2-4c74-93e1-bb53c4e1bcc6,Cilindre,tourism:artwork,41.39160789999999,2.1952676
+4be2c669-ca43-4cc1-961a-4c42fd90b270,Raspall del vent,tourism:artwork,41.3930598,2.2023008
+d4b80447-db45-47d2-b0e2-a998ed91cb7d,Rellotge de sol bifilar,tourism:artwork,41.3917695,2.2044852
+e2034a45-7c7e-4534-b0e6-515dce3e02fb,Linia de la Verneda (A),tourism:artwork,41.414963799999995,2.1952644
+a842eccc-8fac-4fab-9069-81f9c862c6b4,Línia de la Verneda,tourism:artwork,41.416694500000006,2.1975350999999996
+ec444001-6530-4990-a170-916a72ed7056,Pelopelu,shop:hairdresser,41.4148205,2.2042716
+14536726-9ec5-41a7-91db-71a9d8ee4900,Banco Santander,amenity:bank,41.392909,2.1901701
+f3c0484c-4808-42a0-9aff-d2c23814bc5d,Perfumerías San Remo,shop:beauty,41.399372199999995,2.1919910999999996
+5e4b4243-5818-4df7-bd41-59f57cc6503d,Xiroi,amenity:restaurant,41.39164869999999,2.2034828999999996
+9e0c4416-beb9-4646-99c5-c3224bdd2f9c,Chiringuito Las Sardinitas,amenity:restaurant,41.3911095,2.2020613
+730e2264-83ed-4336-80a4-a9c646f2ac59,Biblioteca Poblenou - Manuel Arranz,amenity:library,41.4013992,2.2044349
+f2b67c83-abb5-4707-8970-db8a142dec04,Aparcament Ona Glòries,amenity:parking_entrance,41.40462099999999,2.1895844
+a6bef66a-4013-48c8-af6b-5b6f8b079b04,Extrangeria,office:government,41.415818599999994,2.1896980999999998
+4fa39d25-4ef6-4adf-8251-ff1faa4b96c7,449 - Bolivia 120,amenity:bicycle_rental,41.405737,2.1948879999999997
+22179545-6185-4a76-9d49-42f28c081f1d,BSM Badajoz,amenity:parking,41.4031283,2.1901531
+70e5bc9b-a245-43b5-8f11-be850c421589,142 - Sancho de Ávila 104,amenity:bicycle_rental,41.40047750000001,2.1924341000000003
+754bae59-8418-418b-90df-f040408603d0,Elya,amenity:cafe,41.39222579999999,2.198576
+cfa2f59a-a937-48cd-836b-543f50629f44,Urretxu,amenity:restaurant,41.3918921,2.1909106
+1aac2c8e-8447-41d0-9cdc-f162e34d6f58,Pou del món,tourism:artwork,41.40753660000001,2.202213
+4e809a1c-4992-4ae1-a391-45ab006a9930,Pèrgoles de l'Avinguda Icària,tourism:artwork,41.390468199999994,2.1961012999999996
+f0d7fb10-4d4f-428c-a1fa-c67d4dad61e5,Pèrgoles de l'Avinguda Icària,tourism:artwork,41.391422,2.1971951
+0d171cf8-7889-437e-8c3f-a812adaccad0,Rentat automàtic Moeve,amenity:car_wash,41.4057561,2.2013591
+d546562d-d2eb-4dc4-b4fc-bc3230c7d293,Montferry,amenity:bar,41.4125412,2.1902351
+4d2023a2-4a4c-4e46-a612-9e8bc628c46b,Papelería librería,shop:books,41.4124645,2.1904032
+2d31d32d-9b63-4393-80f7-8581def5b81a,El bes de la mort,tourism:artwork,41.3962196,2.2041978999999996
+101aefb0-a6b4-41fa-9e7a-364e7d980aac,Can Oliva,amenity:restaurant,41.4071483,2.2032044
+a366e154-bca8-43d7-a589-6bd0abcd741f,Pastisseria Sanz,shop:pastry,41.4158356,2.1976974999999994
+0fcf6c94-76ed-40c7-a235-f2488a5f51a1,La cervecita,craft:brewery,41.4003498,2.2015471
+74c16536-b4cd-4071-97cb-b9220b7f4cc2,Minyam,amenity:restaurant,41.4023648,2.2013577
+14319798-2d4f-49ff-a662-481e99fde66c,Colom,amenity:restaurant,41.400386999999995,2.2023554
+edb995dd-b867-4394-8d30-2110324d87de,Minyam,amenity:restaurant,41.4023142,2.2014938
+2f7f9f5a-f126-4de8-8bc5-26f52f7bd098,Wellington House,amenity:language_school,41.4173559,2.1976122999999994
+52df8f73-c39b-4f0a-a96b-0852c6c186f3,Ferrhogar,shop:hardware,41.4173045,2.1976799
+27e60a4d-ac0f-4e47-bfd6-b7735a499cd9,El Mussol,amenity:restaurant,41.40482909999999,2.1914585
+6a4aa5a1-882b-40a8-9828-a13505fa0791,Safework,office:company,41.4143285,2.1951468999999997
+1e095e37-a890-450a-bd9a-4c74da87890b,Guarderia RBA,amenity:kindergarten,41.40399829999999,2.1931176999999997
+26338719-1c32-44e1-aa94-0dfded734156,Etcètera,shop:books,41.40180980000001,2.2030446
+1fb62fbe-9b4c-4492-8122-9eb9f8ac0ae5,Balius,amenity:bar,41.4022025,2.2016255999999994
+78dad176-faa5-4649-88a5-23b996e743e5,columna romana (pintada),tourism:artwork,41.4084689,2.1999598999999996
+717f2a9c-1938-4701-b296-cd8763e1c3c0,Fnac,shop:books,41.4054305,2.1906231
+86614db2-3f9d-4b40-a321-fd9b6a54a187,Iaia Cristina,amenity:restaurant,41.3992398,2.2018461999999994
+c1b145cb-ec82-4e3c-872d-4ef9e79eeffd,Els Tres Porquets,amenity:restaurant,41.40715970000001,2.1930065
+5de0b859-5cad-4b8a-a48d-6674804e3a6e,Serveis educatius de Sant Martí,office:government,41.407909399999994,2.1937654
+a4d015fc-cc7e-4d0c-b3e4-184745506c90,Abacus. outlet,shop:books,41.412565799999996,2.2018049
+357f6348-76a6-4ca9-b7fe-0bf630fc35c4,El Menjador de la Beckett,amenity:bar,41.4045885,2.1993427999999997
+5099aaef-58f3-4bab-b240-38f1d393613b,Espai Subirachs,amenity:arts_centre,41.4041081,2.1999140999999995
+c52869e8-775f-4d2d-a0ef-437ec626f88a,Perruqueria Quinming,shop:hairdresser,41.415816400000004,2.1954954
+9a52047e-77a5-45fb-ba4a-500e22434187,Jamones Rodríguez,shop:butcher,41.415454999999994,2.1938983999999997
+46c95f15-6895-4486-a774-a081440ad084,Vaya Tela,shop:curtain,41.415798099999996,2.1959827
+40f374fa-d98f-46ae-8af3-3ca4e1dfabcc,Farmàcia Tabernet Mortes Maria Belén,amenity:pharmacy,41.4166522,2.1966273
+95304d6e-ac97-40f4-b4e5-2642e51db61a,Señor Pollo,amenity:fast_food,41.4173587,2.1959038999999994
+9fc8e985-ae67-4341-bd49-811e65f6b348,Bingo Verneda,amenity:gambling,41.416707099999996,2.1979567
+512d8870-9537-4748-b08a-d347ab249857,El Rulo,shop:hairdresser,41.41644449999999,2.1951490999999996
+02ec6942-ee81-4d14-aa46-92b11938c942,Reparación de Calzado J. Jorques,craft:shoemaker,41.416137,2.2011527
+78173779-a5ef-40c3-8906-59bf750082b7,Farmàcia Engelberto Muhr Pablo,amenity:pharmacy,41.4161032,2.2011217
+3e05e2e3-2e92-450c-b2aa-ebc6da774e96,Depiline,shop:beauty,41.416449799999995,2.1964941999999996
+3a530cc2-f939-464e-a694-bfc927c3ccb9,Máquinas de coser Pedro Martínez,shop:sewing,41.4165426,2.1956731
+c1e1ac07-0cbd-4a33-b8c6-cbd0fbf5ded9,Arrenjaments Briden,shop:tailor,41.4161977,2.1965028999999996
+87ef2cf1-a2c6-43cb-9194-c833033bc608,Gumper Serveis immobiliaris,shop:estate_agent,41.416096,2.1963858
+fc885033-b82a-4e3e-bca5-d64c63201833,Sanitas. Centre Dental,amenity:dentist,41.4063327,2.1941115
+33c5d55a-a8f7-4a1d-b342-cc0df19c9639,The Garden Brunch,amenity:restaurant,41.4064564,2.1939313999999994
+19516111-8fd1-4155-9c81-a369399e0c4c,La poesie,shop:hairdresser,41.4098359,2.1938779
+bcb133ff-ca21-4a1e-a4aa-1a778cf572f8,TÜVRheinland,amenity:vehicle_inspection,41.4002362,2.1913334999999994
+fd08fd75-3ed1-4aef-989e-71b2eae5469a,La tasqueta de Can Felipa,amenity:bar,41.4032881,2.2001894999999996
+39b3c0c8-cb2e-4790-84de-1ea887cabfb2,Pronto,amenity:restaurant,41.4025441,2.2045819
+50634bcc-fd4e-4bca-88c4-667a7ad6d891,Pampa Mía,amenity:restaurant,41.408570899999994,2.2035603000000004
+3b47a464-5c41-4727-92b9-2b01a32067e6,art urbà,tourism:artwork,41.39719519999999,2.204558
+1d5bd074-9f8b-4a90-aa98-e15117846938,Esportissim : La Botiga del Triatló,shop:sports,41.405660699999984,2.1945676999999995
+d31a2012-9168-48f2-b991-30096603c5f2,170 - Avda. Litoral 40,amenity:bicycle_rental,41.3897297,2.1999062999999994
+0c20074c-55a2-43eb-85e1-915d400b7a6e,Nomad Frutas Selectas,amenity:cafe,41.39792919999999,2.1955517
+b95c4021-45dd-423b-a83b-218e18b9bf64,Testimoni de Jehova,amenity:place_of_worship,41.4117323,2.2000304
+007e6c90-729a-415f-8b7e-acdc2447d8ca,Netcentric Ibérica SLU,office:it,41.404919099999994,2.2013919
+70017428-f7de-4e63-aba2-da686b2e9189,Espai Joliu,amenity:cafe,41.3987513,2.1950702
+01c452d9-f7c4-40d9-8658-cf914e15c61f,Old School,amenity:cafe,41.41162459999999,2.1919187999999994
+89badbc8-8198-46bf-ac06-42089f694b3f,Cal Veganic,shop:convenience,41.39886109999999,2.1991359999999998
+d87a3fee-5e92-49e3-8785-04e071e530e8,Chang Feng,amenity:restaurant,41.4058102,2.197889
+8dfcc786-80f9-4dec-a438-9fc10a91009a,134 - Gran Via 990,amenity:bicycle_rental,41.4111173,2.1976731
+ba0e20bf-ffe0-4245-808d-476936d2d179,Adevinta,office:it,41.403311099999996,2.1919206
+4ae76a39-f4fb-4528-8819-0c69781eecd9,Bar 340,amenity:bar,41.41506499999999,2.1896641000000003
+a8fe6d8d-50e3-409d-87ea-a00c67123801,El Taller,amenity:cafe,41.4129849,2.189723
+160a8ba0-996d-419d-83a3-0c2294b0456f,Jalisco...no te rajes,amenity:restaurant,41.415982699999994,2.1900064
+70d4249a-d9e8-4127-8234-09317e754b11,Mon Pa,shop:bakery,41.41586019999999,2.1898238
+db1c2c5d-efcd-45f7-b0d3-75569e44928e,Salseta del Clot,amenity:bar,41.4156111,2.1907072
+915fbd2b-bc32-41be-b0d6-d2b9c57985c2,Bodega la Taberna,amenity:bar,41.4134452,2.1895948
+77149920-28b0-48de-87ad-2808d14292dc,Bar granja Piscis,amenity:restaurant,41.4123868,2.1901225
+3bf0eb89-0fdc-4989-8d11-93cdb0078088,Mallorca,amenity:restaurant,41.4139968,2.1896637999999995
+c473e7e5-6a4b-46fb-9c5b-89e59c976d1b,Siete y tres,amenity:restaurant,41.4116268,2.1895745999999994
+0cf5cf46-a521-40a3-8ad6-478f3ee01859,Norai Kids,shop:baby_goods,41.409135,2.2021707
+d987ac6d-e8a4-4faf-ae48-769e7a631fa6,Nagora,leisure:fitness_centre,41.40887549999999,2.2024979
+b3460f55-b470-445e-b848-56afe6c7f728,Dionisos,amenity:fast_food,41.3981929,2.204828
+069d3174-ef34-4394-b134-71d2aa150d9f,Bitacora,amenity:bar,41.4009899,2.2047174999999997
+a629f2f8-dc65-447e-b8f0-ec57ed82f5a0,469 - (PK) Rambla del Poblenou 130,amenity:bicycle_rental,41.40436199999999,2.1971319999999994
+549cad9c-d2bb-419b-9ae3-1da8df7bce07,428 - Carrer Pujades 103,amenity:bicycle_rental,41.398389,2.1962609999999994
+52062ec0-de21-4f49-b1bd-cbc403f0ecd5,409 - Joan d'Àustria 50,amenity:bicycle_rental,41.3923345,2.1926208
+8acc9f85-3415-499b-8890-db06192b4744,342 - Roc Boronat 134,amenity:bicycle_rental,41.4035576,2.1935607999999998
+276dd5cc-ae2e-40b2-9ca8-b39d0dc9d1f6,289 - Múrcia 64,amenity:bicycle_rental,41.416828,2.191022
+18e36c6f-2209-4eab-9865-f52ee34ef4e8,238 - Espronceda 298,amenity:bicycle_rental,41.41568399999999,2.1909859999999997
+5b8e1424-e7e8-49dc-8832-f6bc610a0e6e,171 - Passeig Marítim de la Nova Icària 83,amenity:bicycle_rental,41.3919,2.2035299999999998
+a1c9aacc-c3a4-4a27-ae3c-d1092bb81f01,151 - Pallars 462,amenity:bicycle_rental,41.40053979999999,2.1970431
+20114092-d80f-4991-95a4-83ae6201f9e0,149 - Pujades 57B,amenity:bicycle_rental,41.395905,2.192958
+bbd2be9c-cf3d-4acb-a87b-e845372619aa,145 - Pere IV 301,amenity:bicycle_rental,41.40982,2.2029039999999998
+480713b4-e24d-4818-9f80-79663a76d34e,137 - Gran Via 1041/ Selva de Mar 1041,amenity:bicycle_rental,41.41444919999999,2.2013264
+b5accc17-bebe-419a-bfef-02af5b5b44e7,136 - Gran Via 1062,amenity:bicycle_rental,41.4141624,2.2016646
+881b5539-8b2e-4781-8142-2386b9caddaa,128 - Rambla Guipúscoa 43,amenity:bicycle_rental,41.41565239999999,2.1959065999999994
+544080d3-f35d-410e-a579-7e924b4b2a07,127 - Aragó 661,amenity:bicycle_rental,41.412322,2.19142
+44a7bbb9-58c7-41aa-8bf1-72039ab11a46,117 - Rosa Sensat 12,amenity:bicycle_rental,41.39070829999999,2.1969569
+550475d5-6b03-48e8-a226-d4ec975ac20d,49 - Rosa Sensat en front 20,amenity:bicycle_rental,41.39106,2.1964569999999997
+bd85f83e-ffa5-4baf-a4c2-f7d0e980ba8f,Diamantico,amenity:restaurant,41.400492400000005,2.1903645
+1c09a0ea-285e-4efc-957c-098757057469,el Jardí,amenity:restaurant,41.400422899999995,2.1906075999999994
+ce06b84d-60d2-4ced-beed-f8c348c6528f,Casal de Gent Gran Joan Casanelles,amenity:community_centre,41.4120165,2.1932203
+26a46c61-0b67-4480-9ced-46ab09fb9110,Pere IV. Passatge Major del Poblenou,tourism:information,41.3949163,2.191364
+45bd32e3-329f-4ddb-8600-3a90d432223f,Pere IV. Passatge Major del Poblenou,tourism:information,41.397710399999994,2.1936547
+82776ba9-d983-434b-bf0c-69a328edd0d0,Carta dels Drets Fonamentals de la Unió Europea,tourism:artwork,41.416828699999996,2.1983242
+7d3dd078-ac72-4507-9a93-425554a88186,Centre Audiovisual Sant Martí,office:television,41.4119648,2.1931887
+d555a174-38d7-4ce3-a533-654c67b99b16,Pere IV Passatge Major del Poblenou,tourism:information,41.4062958,2.2005749999999997
+be3868ea-98a4-4c48-a111-6d4dd0179974,Farmàcia Audet Ginesta Joan,amenity:pharmacy,41.3992991,2.2046081
+7185fa9f-9e9b-4cfd-8838-dc7bee244c05,Barcelona Activa. Almogàvers Busines Factory,office:company,41.3996271,2.1932995
+34bda570-84b7-468c-9378-c1c6dabdcb05,Gesdocument,office:company,41.4042832,2.1923621
+87cfb929-f3e3-4049-8f72-c0a5767ff10a,Ogilvy,office:advertising_agency,41.40304739999999,2.1916251
+70455bc4-5e69-485c-9a2a-0907f5ddadda,Casal de Barri La Llacuna,amenity:community_centre,41.4028833,2.1906787
+d53081f1-a10f-4def-af21-8cc3c7b0cbb5,Bonpreu,shop:supermarket,41.40058350000001,2.2034336
+8d7eecea-0c2a-4024-a3c3-6d2a1b613685,CALAMARGA,amenity:restaurant,41.4002367,2.2031905
+ef28ccc5-2622-42fb-9c50-3ab6182a691e,Montserrat,shop:haberdashery,41.4018608,2.2021636999999994
+6cc5d16e-b903-497a-8e2c-66001724c355,Pere IV Passatge Major del Poblenou,tourism:information,41.4023736,2.1974846999999995
+96700dde-3f15-4243-90f6-e65bc9a431f6,Pere IV Passatge Major del Poblenou,tourism:information,41.3964232,2.1925863
+46d82933-74eb-446a-ad20-84199af46739,Pere IV Passatge Major del Poblenou,tourism:information,41.39848409999999,2.1943398999999997
+65388d29-6157-4072-8701-82c30613038d,Farmàcia Marta Márquez Valls,amenity:pharmacy,41.3983892,2.1937644999999995
+a009ed07-432a-4f9e-be0f-64ef406d0c07,Pere IV Passatge Major del Poblenou,tourism:information,41.400070299999996,2.1955439
+68d5518e-4ff2-43aa-9b7f-e94eaab15d0b,Pere IV Passatge Major del Poblenou,tourism:information,41.4034503,2.1983401
+9e598d2c-59c9-42e5-b610-c4c971dba8e3,Dia,shop:supermarket,41.398044899999995,2.1941947999999996
+eae70e79-3983-458e-9b68-fcafa3100aa7,Farmàcia Capdevila Arús Ramón,amenity:pharmacy,41.412451,2.1901389
+7355a6d4-03a0-45d3-a140-439f1e61db1d,Baluard,shop:bakery,41.4024489,2.2014462999999997
+aa46bd1c-bc5a-4832-9c53-626519f46897,Pere IV Passatge Major del Poblenou,tourism:information,41.4044776,2.1992039999999995
+4117c28d-a0f0-45af-98c9-a12388ee0040,Centro Budista Nagarjuna,amenity:place_of_worship,41.40498269999999,2.1993103999999994
+28407942-4758-48e6-bba2-246bdadd4e52,Poblet. La Africana,shop:clothes,41.404430399999995,2.1988126
+a464b9e3-a233-4442-aeb5-547b85d48a19,MM,office:company,41.3959923,2.1912722
+af1161e4-4891-4ee5-9622-32159e791801,Fischer,office:company,41.39610050000001,2.1906673
+f49ef7b9-03d3-4640-a153-a3ec9c4078a1,PSC,office:political_party,41.4010112,2.1973975
+bb6805a9-7508-4ce4-be05-6a8fb4e0b468,Razzmatazz sales 2 & 3,amenity:nightclub,41.39727839999999,2.1910761999999995
+5bb31637-8031-4b9d-adb7-35440ba242e6,Amateur,amenity:restaurant,41.3967536,2.1962847
+a85db280-dc7d-4720-9173-47f8fa7949b6,Centre RACC Auto,shop:car_repair,41.3943072,2.1975176
+801bfb36-fd60-4c86-8315-3e6f51aa5413,Farmàcia Bogatell,amenity:pharmacy,41.3926887,2.1964666
+dbec5c9b-ec6d-427f-9025-a43b37468141,Jumboox Viajes & Turismo,shop:travel_agency,41.4173709,2.1959975
+7e7331f4-56c8-4740-94b9-8f2916b7b2b4,CACHO,amenity:bar,41.3931048,2.1910878
+5f2f44fd-c09b-4f1b-8af5-db743592bab6,Pere IV Passatge Major de Poblenou,tourism:information,41.4079553,2.2015856999999994
+bd1cffc7-bbfb-4e5f-87e6-0dbe7abf2225,Exploramas,shop:travel_agency,41.4128326,2.1962931
+036f354a-37b6-472c-af17-f46d6317b78a,Typeform,office:company,41.4123545,2.1973281999999994
+1445b427-3b31-4cf1-8a18-8b1c3f9c3739,L'AUTÈNTIC Restaurant Libanès,amenity:restaurant,41.402082799999995,2.2001409999999995
+3b797dbf-fc3f-4aaa-98d6-80f0375a8510,Farmàcia Shalabi Benavent Rami Raül,amenity:pharmacy,41.40045909999999,2.1989015
+8fbedaf0-50b6-408b-9b96-b2054c56325c,Privalia,office:company,41.3977534,2.1974487
+f172ac85-54d9-4ba1-b959-adc058ef852a,J. Pons Tot bici,shop:bicycle,41.40104469999999,2.2023998
+c069a541-7b92-4654-a837-e3754a709d75,Quiron prevención,office:company,41.4067703,2.1918659999999996
+942c910b-9374-46f9-947c-efb14e546869,Hewllet-Packard Enterprise,office:company,41.4012648,2.1913546
+aab53f69-0cdc-4be5-bb8a-be4efbe107a0,Farmàcia Romero Gisbert Carmen,amenity:pharmacy,41.40945359999999,2.1989854999999996
+afb36e99-f2dd-4aa0-8b2f-6ad677a9990e,UDON,amenity:restaurant,41.4051569,2.1921906
+2052ad72-4bb3-4205-8f6e-c930b62c47db,El Fornet,shop:bakery,41.40134230000001,2.1977951999999994
+12670a25-b40d-4356-b224-f0a1edf43b36,Farmàcia Bouyat Salamanca Jean-Paul,amenity:pharmacy,41.3912199,2.1973609
+3208881a-7453-47fa-999d-dd397a1b0305,Lavaxpres - Maria Aguiló,shop:laundry,41.401715399999986,2.2025600999999995
+999e2d1d-40ee-42c6-bc33-fa4441ed447d,Sant Antoni de Padua,tourism:artwork,41.4021595,2.2017043
+10f889ac-e225-4881-befe-45496790c054,Pizzeria La Vela,amenity:restaurant,41.3912016,2.196642
+d6b1cc10-3e6b-4c19-9d10-4f407e092fcf,Casa Antònia Serra i Mas,tourism:attraction,41.39498729999999,2.1915835
+6b38324b-62cc-4494-a134-41ba89a0f79c,Nexo,amenity:veterinary,41.416707,2.1971890000000003
+52efdfd9-d449-461b-af7b-a5ec1b9eb41e,Vreasy Corporation Barcelona,office:company,41.393802,2.1928806999999995
+c67a3de6-5e4a-4aee-be73-9dd7082808c1,Fundació Phonos,office:ngo,41.403585699999994,2.1940067
+03edd84e-ad3b-4b83-bcaf-9f03b99ca560,Kongzi,amenity:language_school,41.4019084,2.1937466
+23c4bccf-e0b4-4f72-b1ff-253f46d63498,Mr.Usby,shop:computer,41.41239250000001,2.1905095
+b4e07c63-2d2c-40fa-9f42-df147a302bea,Viena,amenity:fast_food,41.4050517,2.1926831999999994
+65341d5c-2a62-4a69-a1e3-086b39c6c9d9,SPG Autosport Carglass,shop:car_repair,41.401284800000006,2.1916745
+1643cb97-7136-43ef-9a8b-dda37134e510,DestinoCasa,office:estate_agent,41.403017,2.2001098999999997
+fe2169d8-f3e8-4933-8420-2c3de8182f57,CEM Olimpia,shop:sports,41.41351219999999,2.2023849
+a22bbf0d-d103-42f3-979b-d2e45ae42ada,Liangpier Xiansheng,amenity:restaurant,41.417281,2.1962746999999996
+bbf15c97-bbbb-4db3-8227-571b7c54da25,Little Fern,amenity:cafe,41.4020955,2.1973671
+204e9f9f-524b-44de-9c2d-56c30a475a96,Talleres Barcinova,shop:car_repair,41.3997027,2.1987241
+bbd9b587-b0d7-4a08-a49f-58ca880ac5fe,Open Catering,office:company,41.3988828,2.19682
+aafd63e9-5d03-4a0f-91bf-32e4f5ee3783,Reymatex S.A.,office:company,41.3981374,2.1980233
+cc2d4144-38a8-4acb-aa3e-92c555e11145,BAU. Centre Universitari de Disseny de Barcelona,amenity:college,41.3986082,2.1968189999999996
+db919e2d-fa7a-470f-a5eb-e7c205d3d459,Autofuber,shop:car_repair,41.3967494,2.1980634000000006
+74d48118-fe30-49f4-9916-5e222828f434,Centre Obert Bogatell,amenity:social_facility,41.397789599999996,2.1980306999999994
+ea9eb7ee-e4ce-42a9-a3f3-09ea3e65daf9,Clínica dental Be@,amenity:dentist,41.39879049999999,2.1948604
+ce9ed347-d830-4cce-ab1f-48554ed0af74,bau,amenity:college,41.397147999999994,2.1968009
+a2e021ad-5ed1-476b-8121-92d2b2f50e21,Nexiona Connectocrats SL,office:company,41.3949567,2.1965007
+5418f784-b4cf-49bf-956b-341ca13c7b88,La Nau,amenity:events_venue,41.3942712,2.197051
+6446ba24-819c-4644-a778-67db71c242e0,FX Animation,amenity:college,41.3953592,2.1973071999999996
+7382fdc1-52ae-4276-9c99-91c6d91b72bf,GDR Solutions,office:company,41.39411679999999,2.194627
+c9e0fb3a-c6e9-4d94-8d71-406303feeff5,Gas Motorrad,shop:motorcycle,41.394543299999995,2.1935776
+639e1b3b-0f9a-40a9-bd51-b54e211e9579,Cantero,amenity:restaurant,41.3942111,2.1902433
+ee591529-897a-46ac-863e-b62bec15a4cb,Jovani & System Bike,shop:motorcycle,41.40087489999999,2.1953089999999995
+b6a1c771-50ac-4bd5-ad3a-851bd8774eb6,Enterprise,amenity:car_rental,41.4010326,2.1960761
+e001c2fc-3079-4873-91bc-3d676b42a7f9,Barnacip,shop:car_repair,41.401277099999994,2.1961639
+fe9655c7-1190-4618-8652-af02b6edb328,Netzstrategen SL,office:company,41.396220299999996,2.1901606
+72345852-cd20-4462-af91-052ca702da3e,Poblenou Roasting Company,amenity:cafe,41.3989667,2.1944456
+e5522e7a-574d-4793-a395-862f5ca562fc,Dixi 724,amenity:nightclub,41.3970111,2.1920044999999995
+933f072e-4abd-4510-a3c3-3d652a70f8ce,15-L. Films,office:company,41.39381230000001,2.1928668999999994
+4b2bd4ac-78f7-423d-8e98-14429f6fd300,El Joncar,amenity:school,41.401440599999994,2.2046063
+06b11c73-c953-4f4f-ac51-b53bf4f56f5f,Sephora,shop:cosmetics,41.40566299999999,2.1910001
+6667323e-8ee4-424a-b7a6-9dabb367b593,La Tagliatella,amenity:restaurant,41.4049918,2.1923017
+6d6534d9-ab69-45b8-825d-7f0f3c2ca259,La Ya Ya del Poblenou,amenity:restaurant,41.4050315,2.1963810999999995
+4370d784-19cb-4607-8a31-b506da39cb1f,Poké Sí,amenity:restaurant,41.40523209999999,2.1924707999999997
+89b3e96f-8589-479e-99b8-01c198487d2e,Isami,amenity:restaurant,41.4018825,2.2003717
+5a5b670d-beaf-4cfb-9417-62046a668d1e,Sundown,amenity:restaurant,41.40199199999999,2.1998344000000003
+3d25fda9-a7d0-47a8-ada2-c84b523fc342,Palo Verde,amenity:restaurant,41.40473430000001,2.1968042
+d6fe004f-0065-47e4-8758-31fa7b1974b4,Boheme,shop:bakery,41.40149709999999,2.2008970999999997
+3df0066a-84c4-4bcb-963e-0a399264b073,UNITE hotel,tourism:hostel,41.3909971,2.1963474
+8849494f-d637-463f-a217-6cd7543ac5b1,Bigas Group,office:architect,41.391695600000006,2.1945037999999997
+aef04db8-2ee9-49a0-affc-54dd69fd6401,Apk2 Melià - Sky,amenity:parking,41.4060191,2.200645
+e2280e7b-43a8-4452-835d-502d66280e14,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.4043275,2.1937054
+1eb5b9ea-d1d8-499c-ab28-6127e3180f0f,EZ English,amenity:language_school,41.4041329,2.2011079
+4aa9791f-7375-4ff5-abdf-402a2e376564,Merit School,amenity:language_school,41.414052,2.1943868
+3d7b2747-84b6-43e1-acd9-adbdc139e166,MyKasa,amenity:restaurant,41.40192799999999,2.1945021
+1067fc78-72fb-4414-811d-5a23fd595af2,Raco del Poble Nou,amenity:restaurant,41.40148490000001,2.1895987
+ea1fef70-55f0-4671-8bcb-2bbdaa539948,Transfolab,leisure:hackerspace,41.3993647,2.1965756
+ff4118ca-e6a7-47a7-b76a-ce2d80f3a2c9,El Cafè de la Pompeu,amenity:cafe,41.3902138,2.1909083
+70e951b3-1791-4dd2-9988-02dea92cf1f8,Taj Mahal,amenity:fast_food,41.3911278,2.1982453999999993
+119264a3-2ced-4af9-9412-93806a4121ed,Os Galegos,shop:bakery,41.4133985,2.1982992
+36df93a5-fae5-4d24-b2de-2d773c01ab52,Eixos Creativa,amenity:prep_school,41.3942638,2.1952283000000006
+706887ae-bd03-4d7c-9f3c-58e1edcd21ec,Parking Frontons de Bac de Roda,amenity:parking_entrance,41.41469299999999,2.194216
+afbc3fe1-3201-468b-98b5-95b0cb976c9c,H&M,shop:clothes,41.4051338,2.1905856999999997
+4fa370b7-ccd3-402e-b5d1-922111cb6905,Roma Bella,amenity:restaurant,41.403636,2.1986181
+607b802c-caae-4185-ae9f-8edf0a87f501,AOC consorci Adminitraciò Oberta de Catalunya,office:government,41.402716,2.1933514
+1d4c7223-dd45-4f78-9d2c-bfeb3a3542d1,Biciclot,shop:bicycle,41.395785999999994,2.1921918
+94661f49-2eb6-45d9-9813-15f22150626e,Bilbao34,amenity:restaurant,41.4026728,2.2041328
+aaf9e0b7-d543-40e2-bd4e-1730ef7d7b16,Yü Sushi,amenity:restaurant,41.4032734,2.2032208
+26c20593-d861-4815-b535-d465be41c3e8,Can Culleres,amenity:bar,41.403667899999995,2.2021718
+6e4e14ab-03a5-4562-b06d-565ea5da9369,Sanaa,amenity:restaurant,41.402496899999996,2.2047196
+1fe4c390-f050-47de-91ed-a22412481ef4,Panepizza,amenity:restaurant,41.4041071,2.2020952999999994
+66f21268-5077-4b73-b1e2-963b4182025b,Susurro,amenity:bar,41.40391129999999,2.201701
+22c7cd27-7e0b-455a-8f5e-5e3cade5209f,Casa María,amenity:restaurant,41.4001402,2.1897924
+a51394e0-89fa-46f1-8199-5b17262cd20e,Tánger,amenity:restaurant,41.400382300000004,2.1901179
+481a30a0-19d7-491b-a49d-bec209c3be8f,David,shop:convenience,41.40036839999999,2.1901004999999993
+fe165d75-d068-47d7-8b77-1d4c728bbae8,Caffeine,amenity:cafe,41.40536159999999,2.2003293999999998
+90162d91-9da0-4d0d-9a13-d5fb35a4b648,Tuapetito,amenity:fast_food,41.4047113,2.201252
+fbcdb422-1147-49ec-8be8-c5f0f061d2b0,Molika,amenity:bar,41.405122799999994,2.2006251000000003
+92b78e8c-b917-44ea-8031-eb61022deae0,Superverd,shop:greengrocer,41.4021373,2.2038757999999996
+9bc817b8-cb86-486c-8ddd-e235a5917ce6,La Xemeneia,amenity:restaurant,41.401635899999995,2.2048002000000007
+936a7fa0-32e3-483b-ae69-efe229644afd,Cal Tony,amenity:restaurant,41.40081369999999,2.2047521999999997
+fefee6c0-ed14-4248-81be-6c18ef41b993,El Teu Pa,shop:bakery,41.4019577,2.2032296999999996
+17f705d8-e659-4947-8014-cb2c57b09060,Hamburguesería Jou's,amenity:fast_food,41.402179000000004,2.2039432
+50f53137-1969-430b-b7fa-bc1f93621a28,Ali Baba döner Kebab,amenity:fast_food,41.40220049999999,2.204014
+3be860c5-0a61-432a-8a1a-da8ca66b9310,Curro,amenity:bar,41.40450479999999,2.2010302
+9349ca96-a0e7-4288-aac3-6d5d40375403,Sorli Discau,shop:supermarket,41.3992951,2.2041516
+cdb7a877-52ac-4abf-8322-111c79a5ce88,Cram,shop:hairdresser,41.4027036,2.2008396
+83326878-40e1-4d41-ac92-0f69b80002b0,Extra,shop:supermarket,41.39906119999999,2.1968512999999996
+2017c0f7-b1f8-4075-b5ca-82c3bdc56077,Xiscarexantar,amenity:restaurant,41.3962666,2.1921849000000004
+b435a62c-2800-4b67-9673-ef9bf5900c23,Catalunya,amenity:bar,41.4000317,2.1956346000000004
+861a5851-0e90-4db6-abc4-e7b228acbc7c,Alma Loca,amenity:restaurant,41.3992845,2.1970974
+69528831-b1b4-491e-b47f-59c529bffbcc,Monsieur Bosc,amenity:cafe,41.40481489999999,2.1995456
+cdf00bf1-f288-429a-b89f-63fc54e81d1e,Bon Supermercat,shop:convenience,41.390992499999996,2.1913121
+35704bed-1c89-4093-8201-647c050af13c,BikeCare,shop:bicycle,41.3913777,2.1909262
+cc9faa31-02e8-45b7-81f9-72be35d4f2b8,Veterinari del Mar,amenity:veterinary,41.392258000000005,2.1897605
+bcc97ac2-9020-47b9-ae81-aa30a9e774cc,Marina Parc,shop:convenience,41.392151000000005,2.1908654
+e3850b58-96a0-418f-bfc8-d5bda4c20af9,Marina 65,amenity:restaurant,41.391752,2.1903336
+d9b8ca02-4da5-4eb0-8523-0a30afa4a817,Mare Meva,amenity:restaurant,41.4021166,2.1898084
+a45d9cf9-0411-4dd7-8bcb-bbad6af4b3b2,McCann,office:company,41.40218579999999,2.1927255
+86be5759-4f7e-45b3-bac5-525b176de0c5,Gloria bean's coffee,amenity:cafe,41.407705299999996,2.1921041
+249a52c2-07e4-4aac-a0de-e2eea9abae58,Bar Chaplin,amenity:pub,41.4068259,2.1909322999999996
+0c733781-8075-4c6c-bbc6-e75b6978641b,Carlu,amenity:cafe,41.4066509,2.1907209
+5db05089-e540-462d-a760-d048cbd2e476,C&A,shop:clothes,41.404779999999995,2.1900260999999994
+b9f3f9eb-2e4c-4334-9a62-f9390ab3c0bd,Grocery Store,shop:convenience,41.4000938,2.204883
+c9c76c5b-6c39-4525-8ea3-7fdee7889970,Eurecat,office:company,41.4045441,2.201976
+28e43a57-3b82-4f2d-9773-64df574a0127,ADP,office:company,41.4045488,2.2015278999999994
+e5f54c7c-9338-4ad5-ba3d-f4c232ee5999,Netcentric,office:company,41.4050194,2.2014767
+8bb30794-f53a-47c3-b6d7-f05534f2fc08,Henkel,office:company,41.4049935,2.2014519
+4f99db43-fdc7-4212-8932-152162d0a0d1,ad Marina,shop:car_repair,41.404316,2.2035516
+8cba87c5-2852-4300-8a52-b8cf80af1a4b,Espai Familiar Centre Obert Sant Martí,amenity:events_venue,41.41566769999999,2.1941307
+c83eb04b-0c7f-491c-9ecc-690faf8ca01f,Punt Verd Mòbil *Rambla Poblenou-Sancho de Avila,amenity:recycling,41.403982899999995,2.1974167999999996
+c626346c-d9b3-4d81-83aa-eacd3544e7ef,Punt Verd Mòbil *Avinguda Icària-Arquitecte Sert,amenity:recycling,41.392258000000005,2.1985514
+aea179fa-52fd-4d7a-a8d2-f0a418f7fb7a,Punt Verd Mòbil *Rambla Guipúscoa-Bac de Roda,amenity:recycling,41.4146717,2.1948167999999995
+11ad3964-f679-400d-89c3-d88d64d0d578,Punt Verd Mòbil *Plaça Espronceda - Perú,amenity:recycling,41.4101795,2.1979696
+d55ca028-9d97-4049-887a-c0c7b7390462,WeWork,office:coworking,41.401000700000004,2.198129
+0d42db91-7511-41b1-b001-36a7d2661ed1,Un Dos Tres,amenity:cafe,41.4138697,2.1907750999999998
+d82f8a79-8efa-41c6-a97a-02f7b59cc7c7,Blu Bar,amenity:restaurant,41.3983358,2.2045648000000004
+e450da9a-6667-4780-b906-9eb8d455a2a2,L'Estanc de la Rambla,shop:tobacco,41.4002306,2.2021737
+91fa6665-725c-4853-800d-c11f3f2668c9,Acta Voraport,tourism:hotel,41.39908350000001,2.2006312
+8c396ae0-22a7-4c85-ae4c-34cec5837279,Ajuntament de Barcelona. Ecologia Urbana,office:government,41.40449589999999,2.1906094
+ea6ccd32-17f5-4551-a6d6-c5bc2959eb74,Ajuntament de Barcelona. E-administració i sistemes d'informació. Institut d'informàtica,office:government,41.404708299999996,2.1913897
+74dd7a9c-ff5e-4c13-a3ee-c1e3519b3b3e,Ajuntament de Barcelona. Informació Urbanística,office:government,41.4045825,2.1909254
+81c9704a-dc5c-424e-a526-88ee9212064e,Hotel SB Icària Barcelona - HB-004247,amenity:parking,41.39377999999999,2.19915
+a7f61109-9a19-4dc6-b35b-06ce3b05e967,Syra Coffee,amenity:cafe,41.3965047,2.1941863999999995
+554062bb-08ef-4038-82aa-8f3014fab99c,Amazon-locker,amenity:locker,41.4017288,2.2025729999999997
+4e0410c4-16fb-452d-b6e9-b6bbf93eba2b,limonada de lavanda,shop:cosmetics,41.40208339999999,2.2018175
+e30f8f6f-ee8f-413d-9451-03f4955425d5,almogavares 2,amenity:cafe,41.3936528,2.1925190999999997
+44d57a07-52bc-42a2-8a79-f4a7e20ca3f5,carme,amenity:cafe,41.39463380000001,2.1938209
+498f46de-bfc2-4089-b341-f68c31ec2b95,Bismart,office:consulting,41.4068483,2.1956756
+243a278b-faa5-4f4f-a81d-3531ad416004,La picanteria de l'Escribà,amenity:restaurant,41.4020593,2.2020302
+d8ea29b0-5c14-4e1c-8feb-e2b08b3eed10,La Wash,shop:laundry,41.4027036,2.1974044
+bd557bf6-abe3-4e09-8ebd-c2e508ecc4ce,Artidi,amenity:arts_centre,41.4005208,2.1998516
+7be41c78-63c7-435b-b3a1-b0ed11fad3b6,Sidah maison,tourism:guest_house,41.4090067,2.2035325
+d5c0a8bd-1f0f-4a33-8be6-6effc853a507,Fundació BIT Habitat,office:foundation,41.40986399999999,2.2034923
+dcbfe5fa-4dc1-4c29-8093-cfac8d0493fb,Booking.com,office:company,41.4039154,2.1932933
+affffa93-923f-4bcc-9fb8-d90d572fe9be,Van van var,amenity:restaurant,41.394230400000005,2.1901096
+16d9bf54-2eb9-4236-9583-32cb4b587e44,M'exalta el nou i m'enamora el vell. J.V.Foix,tourism:artwork,41.4031167,2.1938749
+8ad5bfe2-4ece-452f-8a48-b02faf94f005,Casal de Gent Gran Quatre Cantons,amenity:community_centre,41.4067364,2.2039521999999994
+d885143d-606a-4289-98a1-df30fe4fe22b,Farmàcia Carbonell Uberos - Martínez Roman,amenity:pharmacy,41.41746379999999,2.2010329999999994
+3e4928f2-6b5b-4543-a683-d10aa9fd1ab0,Farmàcia Domenech Arno Cristina,amenity:pharmacy,41.4064264,2.2049589999999997
+712ab807-7eb1-4487-a68b-de2f01be4624,Farmàcia Comas Anye M. Àngels,amenity:pharmacy,41.407876800000004,2.1920536
+95cc9121-6648-4469-9741-fa3f9438f654,Alfasoni,shop:musical_instrument,41.40788439999999,2.1957034
+999b0573-1a53-43d9-8e55-c655d1a62b56,Abacus,shop:books,41.4003176,2.2024406
+6234a9fd-7b1b-49c9-9f52-b7946dec866c,Vap store,shop:e-cigarette,41.406974,2.1932286
+cbd6d519-807e-46c8-996c-f0854edcbc19,Petjades,amenity:veterinary,41.4089817,2.1932094999999996
+77426075-2e43-449e-9b4b-baacd294fc24,Speed Queen,shop:laundry,41.410944199999996,2.1928218
+2f0e342f-a7c1-4afc-b385-d4c2075800d2,Terranovacnc 26,shop:pet,41.41694539999999,2.1908507999999998
+8d87c8b3-355f-46f8-a5ce-4fdc107ba40e,Beigé,shop:hairdresser,41.4157873,2.1905204
+dbe5cdb1-2572-49aa-bc0b-ebe94831819e,Alternative,shop:hairdresser,41.4115058,2.1898132
+164fbd4d-44fd-441b-99a2-e36f2f198359,Peixos Viki,shop:seafood,41.4155945,2.1908094000000005
+1c5f96f2-823b-4045-8f04-081044d26911,Dental Nuñez,amenity:dentist,41.4154492,2.1908307
+dc18acfa-a1e4-418f-af1b-7c2e0ad95ddf,Lacolada del Clot,shop:laundry,41.41432830000001,2.1908248
+6362cb6c-9edf-4ba2-80ac-02c7574537bc,La Marieta,shop:bakery,41.4146173,2.1909522
+1a15e01b-1fb1-4267-8ddb-4db7684a2859,Rostisseria Gómez,amenity:restaurant,41.407576999999996,2.1937196
+8fb3ed49-8bda-4489-a265-259d8c724cd0,Euro100 Sant Martí,shop:variety_store,41.4069286,2.1932817
+62fa1279-fa14-4e7f-a8c5-7ad49cfa8e2b,Instaser,shop:electronics,41.4070681,2.1931127999999998
+cffb2b7f-df78-4f42-b39f-f21bcb21d451,Viatges el Corte Inglés,shop:travel_agency,41.4047447,2.1961791
+27f8aa63-9f07-4987-a2ab-da4da4da6684,Cornex Capital,office:estate_agent,41.4045485,2.1964073999999996
+3db08a45-2b3b-48c6-b271-a1ace7866dab,Doncurado,amenity:bar,41.4041586,2.1968775
+45b743ff-f7ce-4a3b-ace1-ca4c911fd41c,Chalito Poblenou,amenity:restaurant,41.4038732,2.1971787
+445bfa8c-6aa7-4090-a10a-9ff404402797,Aloha,shop:beauty,41.403021,2.1984405
+486f84e3-feed-45a5-9548-31aeccc939b3,Suit beibi,shop:gift,41.402963899999996,2.1985798999999995
+f0edb4df-9203-4935-84fb-86c9894a61d6,Parquets i Paviments,craft:parquet_layer,41.402195299999995,2.1994485
+ed12ee11-44a5-4afc-929b-2ae2f5809d29,Tuksa immobiliaria,office:estate_agent,41.40219609999999,2.1995451
+aea7e36e-1948-4620-b1e2-4617ae0d6830,Calzedonia,shop:clothes,41.4021744,2.1996215
+3e7689c1-b5b9-428e-84ca-48c4a8e9f641,Quetglas,shop:shoes,41.40186919999999,2.200001
+5c3289c1-acea-44b8-93ff-32ca7a51ba12,Xagrí,shop:shoes,41.401784799999994,2.2001119
+109a9cb1-f014-4a91-a261-eb63f8df870f,Pelayo,office:insurance,41.4017202,2.2002049999999995
+99e1df73-8e67-4c53-aeaf-e276c51ccda5,Tabacs,shop:tobacco,41.4016183,2.2002719
+f761c56d-6a2b-4d2c-badb-9008ad718406,Vinalium,shop:alcohol,41.4044202,2.1965577
+c406a3cf-a8ac-4321-9b9e-d42ea1f06a87,Academia Avanç,amenity:language_school,41.4042495,2.196796
+731437f9-5d85-4386-a2f8-26010e2dad8f,Giuletta,amenity:restaurant,41.402616699999996,2.1989022
+ccd7a66e-e82d-4ca5-8b7f-e637cde34aa0,Alta Galicia,amenity:restaurant,41.402507,2.1991802999999996
+6141b24f-400a-4482-9535-c4702397d8ec,J. Tena,shop:butcher,41.4021276,2.1996818
+46ff17bf-9133-471e-b661-cd15ead67e05,G&L,shop:beauty,41.40206980000001,2.1997547
+6339ccc5-97c5-4b23-9270-d5c9190d3458,Multiópticas,shop:optician,41.404356,2.1966556
+1f7b338d-e723-4dba-b83d-53b1ef82a2db,Donpiso,office:estate_agent,41.40070029999999,2.2014395999999996
+a232e2c7-5587-41c3-9f29-0cb73cc16da1,Espai Caixa,amenity:community_centre,41.4013124,2.2007365
+07fb95c4-409d-4915-b6f8-e42aa4c12e2c,My Love,shop:clothes,41.401357999999995,2.2006066999999994
+142f9e3f-d98c-44ba-a781-740d96a61e6d,tresdenou. Impresio,shop:electronics,41.4013278,2.2004317
+585404a5-c9d3-48ef-be91-b9d9b5c81589,Jean Louis David,shop:hairdresser,41.402663700000005,2.19726
+e26b3649-504e-4b38-8022-0dc9ecd98fdc,Malhumor,amenity:cafe,41.404410000000006,2.1947619
+162b2f9f-e504-48cb-8c0b-281a50caf781,Festuc,shop:clothes,41.4010635,2.2010812999999994
+922b43c1-dbcb-4e06-b345-8d0bb4da725e,Happyyoga,leisure:sports_centre,41.401226300000005,2.2003155999999997
+1fe6ce25-5789-474a-bfca-1845114d9872,Notaria Feliu,office:notary,41.4011878,2.2002681
+f369a702-831f-483d-bf6e-5a77470fdd63,Needle,shop:convenience,41.4008943,2.2013014
+441b4772-7dc1-45aa-8dfa-89058b8e6e3c,4uatre,shop:clothes,41.40100899999999,2.2011313000000006
+18bcec84-f0d7-416f-ae69-4cc9f29e8c8f,SecondBest,shop:second_hand,41.4011877,2.2009146
+638ac639-db48-479b-911a-9b691b9e0d08,Casa Poblenou,shop:gift,41.401230899999995,2.2008296
+707f0766-2b82-4654-8b4a-d44fa0dce7bf,Tuink cartuxos,shop:computer,41.401495999999995,2.2002686999999996
+2b069593-eb19-4b43-b986-e2eebdd62ad4,Force protein,shop:nutrition_supplements,41.4012877,2.2003789
+e9fdf12b-d1b2-4447-9e8d-76a58a513ea2,Menjador del Centre,amenity:bar,41.400975599999995,2.2000271999999996
+abf3225a-573d-4064-b111-bf428c21fa74,Pakaña,shop:greengrocer,41.4009157,2.1999113999999995
+1be93476-8df2-4af7-a5fd-ec15f3d94d4f,La Taqueria,amenity:restaurant,41.4008481,2.1998120999999995
+7fba1fe5-c73e-4d56-beb1-c019fd690941,Anytime Fitness,leisure:fitness_centre,41.4016592,2.1979345999999995
+924fba3e-d1ea-4040-a8d9-c8dca2fd55fa,Tabacs,shop:tobacco,41.4027228,2.1970001999999997
+221e2933-bd7a-44ee-9efa-5ced96606a0c,Xoubas,amenity:restaurant,41.40330879999999,2.1964188
+aee27b2f-8f12-4294-9397-7ab583d36ddd,Honest poke,amenity:bar,41.4039082,2.1954534
+c2c90552-ee93-455c-98c7-1b0f87933d10,El Petit Daniel,amenity:bar,41.4046908,2.1943939999999995
+76fdd1ed-7547-452f-b7f4-429ba408c1bb,MC Mutual,office:insurance,41.4019394,2.1976304
+ece24633-6773-465a-b134-35164055a882,Kaapeh,amenity:cafe,41.4037638,2.1974487
+a801f603-2370-4f46-a59b-e136fa495260,Malvón,amenity:fast_food,41.40377809999999,2.1974303999999996
+871c21b4-ea99-4bf1-ba1e-a08c88536bfa,Pyramid,amenity:bar,41.40739069999999,2.1934984
+eb9bbbbd-b9d0-4613-91f0-7c451341ee27,Reptil Mania,shop:pet,41.407216299999995,2.1946880999999996
+fadf38b6-3909-472c-9e7f-8e65e9b8bcf3,Debby's,shop:confectionery,41.40753,2.1936826
+bc34bbcf-deb6-4956-9b55-64dd879611f0,Slawa,shop:hairdresser,41.407328899999996,2.1934071
+0d750d0c-57da-4618-944a-8eb94561dd77,Mechita Sour,amenity:bar,41.4075001,2.1936286999999997
+656f666d-213d-462c-a2c0-9c3a37f45ecc,Kumon,amenity:school,41.4073716,2.1934398999999996
+4e17c9e5-1268-4127-a2ea-5eaa6445a3c9,MDT,office:company,41.4074649,2.1931689
+417ee46d-06b5-465d-bab0-ca65f62b2f54,Nibla Cruz,shop:hairdresser,41.4076362,2.1934195
+ff157a6c-3a21-4a2b-9ac3-eba7554ee8f6,incorpora,shop:beauty,41.403677900000005,2.1986056
+de2317e3-f3e7-4a91-b6dd-263e400d91ec,Hogar Hermoso,shop:houseware,41.404004699999994,2.1988759
+1735b492-e939-4da4-8bd3-4ba317dd09e0,Foto flassh,shop:photo,41.4035523,2.1985048
+8e87e457-3252-4d90-a578-e42e443f037a,Dandy Flair,shop:clothes,41.4021119,2.2000947
+547b8bef-8cc6-4261-8d35-428f583c1183,la Tanda,amenity:bar,41.40375679999999,2.1986742
+4e87065f-d135-4d54-8462-18173a503707,Movistar,shop:telecommunication,41.4027718,2.1992419
+94ee0d97-bbbb-4733-81bf-0c691ca6279f,Beth . S,shop:perfumery,41.40205869999999,2.2001602
+eb5b6c8b-4c99-4404-a39c-df0f24b49d7c,Mon pa,shop:bakery,41.4025464,2.1998488
+4449b6a5-6a14-422f-b591-6ce9f372042e,Solé-Riera,office:estate_agent,41.40321999999999,2.1985982
+4fe9c3e4-8bf6-4bf8-9712-7f491597978c,General Óptica,shop:optician,41.4026534,2.1994747
+775b3dc9-97cb-4406-bc7a-a4713457db77,Vitaldent,amenity:dentist,41.4026945,2.1996571
+dfece452-0083-4eb3-a1dc-cf6a24552218,Forn de pa Santanach,shop:bakery,41.4022526,2.1998854999999997
+bd39b2c0-0014-48ea-b97b-5156a298c85a,Tot Natiu,shop:clothes,41.401385999999995,2.2010207
+78b016b7-c6a8-49c8-9ea8-d1756109e21e,Muralla Optica,shop:optician,41.40185269999999,2.2004184999999996
+66f6784f-7307-4e96-ae9d-e62f291be73b,Cantoni del Poble9,amenity:restaurant,41.40192679999999,2.2003212
+5a9e2b23-1abc-4784-9a0e-e896011fa4c7,Mou-te,leisure:sports_centre,41.40199919999999,2.2002301999999996
+6a2f987c-e654-424a-b2b8-3b0e8bfed6db,Orange,shop:telecommunication,41.4018198,2.2005271999999994
+970a6ad9-7035-477e-92c2-e26a796fff8d,Halcon Viatges,shop:travel_agency,41.40110440000001,2.2013962999999994
+3cfe7cfb-c016-4a88-91a0-3a0829f5fa28,Layayacosturera,craft:tailor,41.40182619999999,2.2004553
+aa40707a-44e6-46de-8aa8-b944e2eee596,Onix,shop:clothes,41.401813299999986,2.2006141000000006
+36afd140-18d8-418a-b4db-bceff4e10e64,Liberty Mòbils,shop:mobile_phone,41.4015952,2.2008737
+76f899bb-4978-426e-b174-627bd2631c33,100 Montaditos,amenity:restaurant,41.4012919,2.2011431
+f3c35bfe-6913-476e-8927-5776567de8bc,La Bienal,amenity:restaurant,41.4013257,2.2011044
+df193c97-ea59-43e5-a3b1-be7e20a64478,RACC,amenity:driving_school,41.4008645,2.2021805
+a7984e39-be0e-4763-9c93-6d5b2703ac6c,Passeig9,amenity:bar,41.4014488,2.2009477999999993
+1d5d35b5-c263-44d3-b4c7-380c56b0e47b,Chocolat-box,shop:chocolate,41.4014117,2.2009874999999997
+ef4dd299-5aaf-4020-843d-ebe8441aa03b,Raffel Pages,shop:hairdresser,41.401179199999994,2.2012986
+a0756fc8-2f3e-49e6-9232-631b6ff68fe9,Monopol,amenity:restaurant,41.4012613,2.2011848
+e9016204-e815-4cef-9e87-323ac23ba4c2,erre de raso,shop:clothes,41.40121859999999,2.201246
+c73631b5-9dbc-4a99-a4b4-110a3673c840,Perfumeria Mª Luz,shop:perfumery,41.4011422,2.2013406
+0dab19d8-cda5-4f5b-9ffd-f03ece6b42ac,el Vinyet,shop:alcohol,41.401000499999995,2.2015346999999994
+6255d87a-5854-4f9e-a581-da06f4136ca1,G & M,shop:clothes,41.40105439999999,2.2014563
+d96d30ae-b851-4e80-b515-6563d2b153c2,Alcance Victoria,amenity:place_of_worship,41.40218589999999,2.1903003
+e94f2c85-0c24-4066-9717-f8775d8aaad6,La Tavernicola,amenity:bar,41.400389600000004,2.1978586
+a264ffbd-6b2b-4d32-81fa-d4bf0c4d934d,Mobil Addict,shop:mobile_phone,41.40011390000001,2.1983279
+05be413c-4a41-4dce-b27a-f489d9b71e3a,365,shop:bakery,41.399856099999994,2.20256
+4cd6aede-a71d-4602-a938-267ec4f34343,Onails,shop:beauty,41.39943619999999,2.2021261
+b66e2d21-b66d-475e-b9e8-fa8b2c6854cd,CME,amenity:doctors,41.3996493,2.2023772
+095bd7f3-2383-43ee-9edc-e424dcad1ecc,Bodega Mrndoza,shop:wine,41.3995025,2.2021992
+b0bd9812-a59d-43fd-b837-7141398b9550,King supermercat,shop:convenience,41.3995862,2.2023234
+6a404830-ee72-4fd3-a4bc-fa4ccd88fdb4,DJ tallers,shop:car_repair,41.39951889999999,2.195826
+aef97a79-38a4-4206-a95e-e348041461ac,Le Salon,shop:hairdresser,41.399701,2.2002314
+3ced25d0-38f4-49f0-9fdf-cdd92b8bcae7,Peugeot,shop:car,41.3994464,2.192977
+e90f84ce-7aec-42ef-aef1-891eae1bddd4,Ssangyong,shop:car,41.399878799999996,2.1934719
+c543a480-3ee0-4f7f-9cb4-9492ae6097e8,Hoppiness,craft:brewery,41.3979261,2.2005968999999994
+1639c95a-bec6-44c6-8327-c2ce9dbc7ddf,Starbucks,amenity:cafe,41.404934499999996,2.1913268
+db6a3fab-d549-44f2-b8b7-b9fcc00f8c65,Hollister,shop:clothes,41.40528369999999,2.1907955999999995
+b564827f-5932-41e9-930e-23295d184038,Sports Maragall 015,shop:sports,41.41672440000001,2.2023344
+d9d871eb-f8f6-47a9-b9ee-53b03c529d0f,Casa Asia,office:association,41.4026923,2.1910582999999995
+75f1f894-f90a-4c6d-ad81-33d085a2537c,Cal Fruitós,shop:greengrocer,41.4020368,2.2044271
+07daecf5-90ef-4a0b-afdd-fc8664e77b8c,Escola Port,amenity:college,41.392513699999995,2.1955636
+2310f19d-2007-49f1-a8d9-4ff73cb37729,Puro Cafe,amenity:cafe,41.39599929999999,2.1997847
+1e53dc34-bc33-4fbc-9de3-e3159e24d9f6,Needle,shop:convenience,41.3971067,2.1998865
+d8613b76-092e-46b0-a68c-8a242ee6dda1,Il-lusió,shop:clothes,41.3962359,2.2001096999999996
+de7df8f2-6358-41bf-9b0d-c50b4e4ba159,Needle,shop:convenience,41.39639019999999,2.20027
+c21108f2-0d74-4995-a9e5-ac87e3e8ed56,Bricks,amenity:cafe,41.3970406,2.1999854999999995
+51805afb-e9c8-4ff8-8f56-90737ab16594,Costa Dorada,amenity:cafe,41.3980284,2.1986940999999995
+f8dfb0ea-cba4-4f20-9e07-45c396f32db6,Barcelona Akademy of art,amenity:school,41.397816,2.1989863
+a023be7d-11ff-49f1-9f70-f93cfd443abe,El jardí del sol,tourism:information,41.400999399999996,2.1948724999999993
+2a3d096f-d096-430d-a674-22c065156014,Systemaction outlet,shop:clothes,41.40024129999999,2.1957978999999996
+9eb154ba-9b40-4769-9597-759d900234c9,Die Spiegel,amenity:restaurant,41.400417,2.1955633999999997
+575ff184-4655-4740-8668-a44bec2a85fb,Auto Fuber,shop:car,41.40051819999999,2.1949746999999995
+b6f3172c-cf28-49d3-95d8-53a55fe59221,Alcoholicos anónimos grupo Poblenou,office:association,41.4000461,2.2006998
+9e0dfb03-235c-474e-9ff7-eb95b21087db,Rosa Rosae,shop:florist,41.3982376,2.2032040999999998
+cda5b1cb-cc73-4cf5-9470-00e708277539,Blanco y Negro music,office:music,41.39826639999999,2.2024590999999996
+a7c3584b-02cb-4cfb-8c25-6babfd0bbc2e,showroomprive.es,office:company,41.399293,2.2015751
+084c938a-25fe-41a4-85b5-754ebe3a0c20,Sport,amenity:restaurant,41.40012240000001,2.2000188
+8313bfb2-af73-44c2-835b-ce54d06e4e0b,Atlètic Poblenou,amenity:community_centre,41.400083599999995,2.2000775999999997
+1221c88f-27ad-4141-83dd-a03dc3e72e7a,Swarovski,office:company,41.39861569999999,2.2024006
+4708f9a6-f9ca-4d64-b939-e3afe44d6b16,Talent Garden,office:coworking,41.39873089999999,2.2010369
+6be2c15c-6dce-4d63-8af9-ed3fe622c8a1,Estudi Novell. (arquitectura),office:architect,41.400428399999996,2.2000045999999998
+d3fd340a-7424-43f5-858c-9425afe139da,Little Fern,amenity:bar,41.40234149999999,2.1975418999999996
+6b568b71-92ca-44fa-b91c-0a5300296bb4,Norman's,amenity:restaurant,41.4026759,2.1977842999999995
+cf0f9f17-ef9c-4afb-a2ab-76ea0a1b6a13,Generali,office:insurance,41.4029431,2.197641
+4442c28c-fb0a-46a4-8b1f-5fa0b52a780c,M.H.A. Solsona SL.,office:company,41.4029845,2.1976627000000004
+432509f6-a704-4548-9d9b-a1200d149966,Margat gestió,office:consulting,41.4002701,2.2047625
+28e37c38-dd73-40e6-bc08-acaadd3d6a6c,Bagoa,shop:clothes,41.4003778,2.2046098
+4c1694a2-ca1c-4855-b3fa-0336b95221be,Confeccions La Palma,shop:clothes,41.40057310000001,2.204312
+04af4624-bdaa-46cf-8e12-078d8e786703,Covirán,shop:supermarket,41.40103080000001,2.2036250999999996
+3d8ca2ec-6b24-4f7e-9c81-c06a12f73219,Isidro,shop:beauty,41.401302599999994,2.2032439999999998
+8d31e3cd-d243-4a42-bece-43436561ed94,La Bodega,amenity:fast_food,41.4013788,2.203079
+6180eab5-9b6a-49a8-90a6-5de1f4b94226,Echegaray,amenity:bar,41.40186839999999,2.2023423999999996
+a207015d-7c50-4ccc-b344-f81136e447e4,Ginkgo,shop:variety_store,41.4020206,2.2021008
+cbe76493-1a15-4a48-b21d-c1030afd4bfe,Nina,amenity:bar,41.4025485,2.2010666
+e0039152-0d96-4f1b-b4af-98468cfef56c,DMG,craft:dressmaker,41.4026682,2.2008976
+7df3a5ee-01ee-4997-8473-ac5deab2063b,de peus a terra,shop:clothes,41.4027089,2.2008062
+bd572bfb-5981-45e7-aec5-e35b21836b55,Dinàmic,shop:cosmetics,41.40305180000001,2.2005678
+23da01c9-0101-450b-8242-5211b92455d7,Puerto Escondido,amenity:restaurant,41.4032433,2.2000070999999997
+200d3747-0398-4aa6-93f1-d3bebf646154,Alfred Martin,shop:furniture,41.4041024,2.1989643999999995
+ffcbe235-3366-43df-9428-e9ec697a8e22,GestBarna,office:consulting,41.40427679999999,2.1987486
+fef4b068-5cc6-4e3c-9b78-704b3cc18d37,Lectorium Rosicrucianum,amenity:library,41.404447999999995,2.1984465
+e74a7bf2-2c8c-42fe-bcef-bee8ba425002,Over Travelnou,shop:travel_agency,41.4051609,2.1965548
+8bcc0048-f30b-47f8-96ee-7d385b2344f6,MyDentiss,amenity:dentist,41.40592420000001,2.19634
+141d64c3-5ba4-493f-b033-d7e72af76254,helix3c,office:company,41.40627909999999,2.1958258
+f1c4d337-a7db-48da-b19f-988901a9e5c8,Backstage,shop:hairdresser,41.40711970000001,2.1947997
+7ccd092a-c070-40e9-9c72-e7c38bd9ec1a,Calçats Arnal,shop:shoes,41.4001669,2.2049369999999997
+a3ab4727-0535-4b25-b1b4-399dfb17c422,Centonze,shop:cosmetics,41.4005331,2.2044048999999997
+1fb146f4-76e1-4691-831e-bc1662ed80af,DEMÀ!,shop:general,41.400699700000004,2.2041141
+79bcbf38-5489-4a45-a2dc-2bd1afb99a00,Amigo Döner Kebab,amenity:fast_food,41.4008761,2.2038405999999995
+bc88ba07-93d7-42b5-8d64-225b204c2815,Euro New,shop:variety_store,41.401523399999995,2.2026523
+ece38bb1-42d7-415a-972d-66a9433ba0d6,Institute of next,office:consulting,41.403193,2.2000903
+3fa16618-9797-4a2c-85cb-17daa018d172,Flora vertical,shop:art,41.4001938,2.2048824999999996
+778bc0fa-feb0-409f-af15-007ca15ff8ed,Cocino,amenity:fast_food,41.40024689999999,2.2048109999999994
+14df84b9-98d3-46d8-8ced-614b16da03d6,Perruqueria internacional,shop:hairdresser,41.40073209999999,2.2040822
+f9ee2fa6-0833-4ef7-96cc-d9775c92dac4,Corbera,shop:convenience,41.400844,2.2039023
+b6bf6b11-5da2-4daf-ba4b-ef1fb27594cb,Mobkes Colás,shop:furniture,41.4009871,2.203685
+35c94c81-86dd-4db6-beb5-2fb9de36ea27,Carns Pont,shop:butcher,41.40106229999999,2.2035874
+c801bdb1-a76b-4fac-ab51-37d449a300b2,Furnos,shop:bakery,41.40182630000001,2.202405
+29ff2319-6602-48a2-a8e3-0dc5fa2da7a1,X Style,shop:hairdresser,41.4021379,2.2019120999999995
+d27d077c-5c6c-4013-8452-95ee49ac2c86,Tecnocasa,office:estate_agent,41.40261189999999,2.2009882
+9d4144e2-72dc-42b9-8a64-f312abac22b1,OsteoPetits,shop:pet,41.4033298,2.1998843999999997
+bbec1b70-2af1-4af1-868d-392c53343613,Hoy-voy,amenity:driving_school,41.405328700000005,2.1968101
+1569084b-d7ab-4943-9473-d1c45ae080b2,El rebost de la Lola,amenity:cafe,41.4066239,2.1954142999999995
+01dcf9a2-f3ce-41f3-a9bd-3ab567aebe93,Bollywood,shop:hairdresser,41.4003102,2.2047081999999993
+e01ec04e-17ad-4009-8791-2cbb3de40558,La caseta azul,amenity:fast_food,41.400507499999996,2.2044279
+0d53ce6e-28d4-4e9e-a9cc-52bcccd72207,SQM/05 experts immobiliaris,office:estate_agent,41.4007891,2.2039788
+c208b1b0-00b0-42f4-b217-4706ad10a96c,Comprarcasa,office:estate_agent,41.4012163,2.203327
+8d389f29-79ed-44b7-8ea3-a430929756de,Peixateria germans Fimia,shop:seafood,41.4014412,2.2029903999999996
+d918069f-482b-4712-9d6b-6c47435446dc,Godesard,craft:painter,41.40177969999999,2.202484
+f579db9a-d770-4968-8116-736389ded12f,Perruqueria Hedri,shop:hairdresser,41.40184639999999,2.2023744
+7377d6f2-afb9-4dbb-ab07-1e5699f8f333,Nabibi,amenity:restaurant,41.4019311,2.20227
+1187cdc4-887f-4ef4-ad2c-6ef083136450,Doroteo,amenity:restaurant,41.40296360000001,2.2006718
+7c4c6e0d-8b43-4149-806a-0bd47f73d6df,L'hort del Poblenou,shop:greengrocer,41.4028707,2.2003397
+de7b4785-5cf8-4822-842a-3c5a71bce472,A1 tattoo,shop:tattoo,41.40337819999999,2.1997801
+0ef5d0b6-36c3-4ff7-8e66-dd8a58916896,I am also here,office:club,41.403676,2.1993302999999997
+7ca59b98-3c84-492f-9abf-f9d36bb33ba3,DinoCrocs Poblenou,amenity:language_school,41.4040128,2.1990862
+33455b34-fdc5-43b8-9215-3f7b37c3db17,L'Artesana,amenity:cafe,41.40437469999999,2.1983111
+286c7fa1-93fd-4f45-ab9d-6cf8b7cdc119,nora,amenity:fast_food,41.4068195,2.1951581
+9afcadd6-7fb1-450e-8ab0-5a23cd687b1a,Maryant,shop:doityourself,41.4013364,2.2031586
+76f20da6-4731-41cd-b1c6-0d843be8157c,Cap i Cua,shop:florist,41.403833,2.1991155999999994
+7e254c71-d2db-4d04-8583-c41ba6b2fea4,santalucia,office:insurance,41.406032399999994,2.1966887
+72146919-edd9-4db2-9f4f-9b625fc4ae5a,Centro Especificos Pueblo Nuevo,tourism:artwork,41.402415899999994,2.2015402
+915453ab-92cd-48b4-93ce-48b5c5dafee2,Catalana Occidente,office:insurance,41.40611320000001,2.1995286
+aa545f40-c315-4ad2-a44f-cf864255bae7,El Fornet,shop:bakery,41.406191099999994,2.2002432000000005
+32df410a-efd6-4b99-b693-41f25c3cc736,Sports bar,amenity:bar,41.406702,2.2015437
+e58c10b7-29f1-4712-a35e-854337cf12e3,Zoo Condal,shop:pet,41.406031799999994,2.1989140999999996
+5b998cd0-79b5-405c-92cd-57aa038286e2,Diagon@l 111.,office:estate_agent,41.40698470000001,2.2026392
+e3917e01-2c0e-499e-a51e-2658fd6e6ecc,Tapea & BB,amenity:cafe,41.4072976,2.2039767999999995
+816441e9-ae9e-4e7c-afea-644130f9e1fe,Pilates Diagonal,leisure:fitness_centre,41.407423,2.2044203
+c40b94be-b3c7-4fcb-ba4e-bd54e33ff374,Instalectric-servei,shop:electrical,41.4069772,2.2049939999999997
+e7195c12-2244-4af8-9e1e-237020a27aec,Reparem,shop:mobile_phone,41.403587200000004,2.202711
+5c581a61-c85b-4f3d-8f50-db517c721d26,Alejandra Higueras,amenity:dentist,41.402728700000004,2.2022862999999995
+a8decbcb-7aa3-4e14-8810-d359cf182d83,Macxipa,shop:bakery,41.40219840000001,2.2011676
+14c5e810-dbf6-49c1-bb2e-79bc894cae24,immoBarceló,office:estate_agent,41.40215680000001,2.201139
+1cb4b208-d1c3-4cf4-9707-273a69e1fbc2,Nail Art,shop:beauty,41.40212149999999,2.2010701
+a8a73982-d201-4369-b741-cfa8c1172366,Notaría Feliu & Yuste,office:notary,41.399986999999996,2.1986878
+c499119c-a330-4861-b36c-f32c21e34ad8,BCN Radio Hub,office:company,41.4000144,2.1979314
+8b7ef4a9-66c4-44d7-852a-44c2e5e1f283,Spaces,office:company,41.4011282,2.1975099
+4e22814b-d852-4aa3-bcb3-87034ddc8642,Boutique Juanita,shop:clothes,41.4040476,2.2036363
+d8dcc08a-e7e5-4607-81c4-864057667c84,Rustic barber,shop:hairdresser,41.40370829999999,2.2035571
+1975cbab-f626-4310-b755-cda49cf846b4,Icaria agrupació excursionista,amenity:community_centre,41.400434999999995,2.2015946
+06959494-3d2a-410b-98f7-5bcf0e58bdca,Xurreria Poblenou,amenity:fast_food,41.40438759999999,2.2040295
+16903e63-ebfa-4ba0-87b0-21de227ac43e,Mugendo martial arts,leisure:fitness_centre,41.403129,2.2023773999999996
+5692a967-ce8c-4ff8-9f15-b36d91c41b11,Basar,shop:variety_store,41.402825400000005,2.2023889
+f1a5fabd-0126-4a18-8642-4de3557a95d7,Vivó productes de perruqueria i bellesa,shop:hairdresser_supply,41.4027252,2.201881
+fb805379-1551-4222-b793-b4ac2c92cfbd,Abi,shop:clothes,41.4038732,2.2033855999999994
+8dc8653d-0d11-43d9-909c-0e25fbae6291,Cosi Duci Gelateria Siciliana,amenity:ice_cream,41.40377869999999,2.2036520999999993
+c5b0e6e1-9742-44ba-970d-7cb7c592d044,Mapfre,office:insurance,41.40056849999999,2.2014118
+b989a188-d3f7-4af7-b54a-c0499105377b,Jové,craft:builder,41.405099199999995,2.2047468
+a884871a-3390-4869-999a-7ad463573c01,Maloa Moscato,shop:hairdresser,41.40442,2.2041024999999994
+12af1eb9-cd8c-495e-9a05-5b838e08193f,Metro mòbils,shop:mobile_phone,41.4035521,2.2027892
+812f7030-3691-46ad-8756-a98e44ccf0bd,El safareig del Poblenou,shop:laundry,41.402257299999995,2.2012589
+eb0e33fc-ba77-4d85-9def-e53b5100713a,Beauty depilnails,shop:beauty,41.4021501,2.2015515
+314db80a-bd91-4ec6-aa1b-64e1f3bec22b,òptica Traver,shop:optician,41.4021187,2.2015168999999997
+bc6d4170-0a16-4756-a3a7-1cfa40881120,artemisia,amenity:cafe,41.40210019999999,2.2014634
+db8fa14b-2d56-4f1f-a5f1-80055e1e7713,Manantial de Salud,shop:herbalist,41.4019682,2.2012719999999995
+f48652c0-805f-441b-a84f-62c61df21fc5,Uñas de gel,shop:beauty,41.40045159999999,2.2016582
+2ee296d4-dc0b-4086-8e36-ec80e26797fd,ABC Poblenou,shop:electrical,41.400363,2.2011102999999994
+420746b4-48a4-4b9c-8571-cb455456ed72,MR assesoria jurídica,office:consulting,41.4002934,2.2010376
+76ce634c-aea1-4651-83e9-cbb3b2a1a826,Nostre Cos - dermoestètica teràpies naturals,shop:beauty,41.39956959999999,2.2000674
+a3ee437f-2190-49e8-a8cc-bf283a85d381,Modern Mòbil,shop:car_repair,41.4001381,2.1988867
+4fd39756-8133-4561-ad7f-e78f19eb200c,Glamour Barcelona,shop:beauty,41.4048376,2.2046539999999997
+8efc1681-2b79-456b-88fa-b77c0e793cdb,Barber club,shop:hairdresser,41.4037271,2.2035782
+d2d0881d-77f5-4214-be4d-7883d0721036,Lussi studio,office:architect,41.4046794,2.2044394999999994
+503c7a71-4391-42cf-bbcc-7110637f2e01,Moto Expres,shop:motorcycle_repair,41.40635399999999,2.2048641
+bc1b1d91-e3b9-4a8f-929e-69ccb947db66,Basant activa,shop:vacuum_cleaner,41.404530199999996,2.2042519
+f5329304-3e72-46a3-959e-75e07bb24ced,Montse,shop:hairdresser,41.4026577,2.2017954999999994
+9de6baad-797e-428e-b569-83b6fb0716eb,Tecnivent,shop:hvac,41.40298669999999,2.2022192999999994
+31eb23d6-00eb-4941-b8a7-8aac805c98dc,elgatoproducciones,office:comunication,41.399666999999994,2.1992172
+45eb2226-d5cf-46c3-8a45-624e3239e76e,Ametller origen,shop:supermarket,41.400908400000006,2.2017887
+c0a9a6ee-fcf4-4570-b924-0d0729e078ea,La taverna 249,amenity:cafe,41.4046113,2.2043509
+6b9cb843-ec5e-4f2d-8b42-cf83b76cc6c1,Mystery Escape,leisure:escape_game,41.407082200000005,2.2030202999999995
+fd3a4ba4-61ae-4cd0-a1a1-81a137c7437f,Platinum@BCN,amenity:parking_entrance,41.4009487,2.1976853999999997
+c9488949-b1ea-4cc9-9d8d-2ee40b334140,Carme,amenity:restaurant,41.39564079999999,2.1975164999999994
+563851ad-518c-4614-88ec-c12fece85628,TT todo taxi,shop:car_repair,41.39623189999999,2.1954683
+c790b304-b866-4baa-b007-8a4b3b1fe859,Carpyen,shop:lighting,41.397315500000005,2.1933933
+26a8dcc9-8471-42c8-a077-8cc13b5311d6,Cuina d'Amics,amenity:restaurant,41.3942603,2.1987222
+5e1e6daa-7b51-4a28-a708-673b3dc7499a,La Cantonada del Xenia,amenity:restaurant,41.3977404,2.1934117
+6c03b2f1-20e5-471a-9575-7cf5109ccae3,Peugeot,shop:car,41.399673699999994,2.1923105999999994
+7bc22fa6-8b74-4494-81ad-79029709e008,Portal del Mar,amenity:restaurant,41.3945117,2.1983334999999995
+fb2505f3-97a0-4285-8934-23e190cec635,Chaabi Bank,amenity:bank,41.39662549999999,2.1935086
+6ec617ff-3e41-4245-9d08-578d0e664605,Ralarsa auto cristal,shop:car_repair,41.399024999999995,2.1923022
+2bd8bbc1-fc4e-4494-a4e8-e52572a5b95b,Pimar pedres i marbres sl,craft:tiler,41.399348,2.1924709
+ac22db37-4fa5-4c6c-91bf-711cd0669895,Direcció General de Seguretat Ciutadana,office:government,41.4011229,2.189686
+d2033130-38df-498c-8917-fa40cd85b7aa,Skye cofee,amenity:cafe,41.39546310000001,2.1981353999999995
+b2830581-9198-492c-a226-42af90d09037,Cala Joana,amenity:restaurant,41.396904,2.1931193
+aa4537ef-cbbe-4b96-8ac6-4359875dae22,Saramar,amenity:restaurant,41.395771200000006,2.1953013
+77e2dfc8-f755-4e82-a68c-95ab1e095537,Xenia,amenity:restaurant,41.397475899999996,2.1931865
+d3779b53-28ac-474b-a09c-d62e8afd310a,Oasis,amenity:cafe,41.39930180000001,2.1920928
+c646bd1a-dee8-4ee7-9814-1fecd58062c8,Volvo,shop:car,41.399704699999994,2.1920674999999994
+3ad22528-135b-4744-8064-02823211d9f7,El primer café,amenity:cafe,41.396381999999996,2.1935012
+712aa39e-d84f-4774-b986-9923bd76c30a,Ignnacio Almendro SA,office:yes,41.3993974,2.1919683
+cc3c525c-e542-42bc-9f8b-237ff6a730a5,Bosch,office:yes,41.3996359,2.1915673
+a50d79c3-8040-4c28-b8a3-9e6189b49057,Glòries,amenity:driving_school,41.40610509999999,2.1932459
+c7165ebd-ed81-43ab-9542-6a4ee45b3a87,Carobe'ls,shop:hairdresser_supply,41.406297599999995,2.1935246
+ba3cbea7-02b2-4a7a-939b-caf918d1c282,La Licorera,shop:alcohol,41.39889929999999,2.2048599
+0ff54205-241e-4821-88e6-21346f727856,Serralleria,shop:locksmith,41.3993211,2.2048349999999997
+07f4fc5b-f0d4-4143-b26c-b9a18db10123,José Maria Gomballést,craft:pottery,41.3993998,2.2049999
+9b74c70c-9796-4b3d-b017-b5c7017ffcce,Fiol,shop:frame,41.400456199999994,2.2043363999999994
+777da6c0-4cbd-4798-8113-f9e235cbc3b9,Hanau,shop:clothes,41.400946,2.2035729
+fc63ecfb-e0d4-4015-9f5a-cfb0e7134c24,Never I Can't,shop:clothes,41.4010823,2.2033686
+ff518a5b-725e-4262-8459-5f11b9545d2f,Vinoteca,shop:wine,41.400195499999995,2.2047216999999995
+63310919-0817-4a52-b8b3-bba1822e37a7,Amapola cosmetica orgánica,shop:cosmetics,41.4003359,2.2045164999999995
+fbdb81f0-f670-4300-ab2f-01900a0be4e8,Clarel,shop:chemist,41.4001688,2.2047599
+d1b7be9c-9ca1-4651-a470-7fb4bc72f50f,Pedra paper tisora,shop:gift,41.400272199999996,2.2046107
+621689f8-4bfc-4819-b46f-e8defa351529,Tresors,shop:clothes,41.40036239999999,2.2044706999999995
+6b522c3d-ea68-449f-8cf8-28a30788f1f5,La Escuineta,amenity:fast_food,41.4007782,2.2038067000000003
+6629023d-c4a3-495f-b959-7423aa455d33,TPI,craft:printer,41.401048,2.2034164999999994
+a6d96bad-2618-4008-aaa1-2858b3044a04,Cotilleria Mari,shop:clothes,41.40111660000001,2.2033185999999993
+09a8523c-ff68-455f-968a-44c8b91fc748,Optica Piblenou,shop:optician,41.40114929999999,2.2032706
+86dfb461-175e-4c64-aed5-a08920ddcddf,Mr. Brown Store,shop:books,41.4013332,2.2029879999999995
+98d9460b-71e2-4231-81fd-99a72e556c0b,Autoescola Aguiló,amenity:driving_school,41.401816,2.2022031
+f2c8cb98-4307-4f94-8086-00bb2239fe87,Blanco mobles,shop:furniture,41.4003079,2.2045594000000004
+91590ff1-c571-44b0-894b-85f578ef572f,La Peiper,shop:stationery,41.4004238,2.2043797999999994
+b4a409ae-3ea4-455c-bad0-ea3bc13f6af7,Belleville,amenity:restaurant,41.40052719999999,2.2035587
+e9ac2bdd-a2f2-4baa-882f-b2eb11a98bf4,Veritas,shop:supermarket,41.4006032,2.2040921999999994
+657558e6-c20d-4563-8cc3-9aaf5d7809ea,Calma House,shop:interior_decoration,41.400903299999996,2.2036303999999998
+3df30a52-9947-4cce-9372-abc113c757da,Trigo,shop:bakery,41.4012027,2.2031869
+f50b773b-dcb5-4a06-8612-48bde44e166c,La Fusta,amenity:restaurant,41.40125979999999,2.2031023
+bf4f1e4d-556c-4b0c-a716-62e8f0c173bd,Tío Bigotes,amenity:restaurant,41.40139219999999,2.2028846
+0bd195b5-741f-48ef-8fa1-182c96271ab8,Bonpreu,shop:supermarket,41.401134,2.2025453
+97ed2a03-0a41-4d4b-abeb-3571f395b91a,Cal Fruitós,shop:greengrocer,41.403050999999984,2.2030518
+e5fc4bb6-e293-4c16-a7c2-cc4fa19098b9,Caprabo,shop:supermarket,41.404457799999996,2.1992632
+f0af2284-37c8-4dd8-9946-ab68f0de51fd,Moda Amiga. Fundaciò Engrunes,shop:charity,41.4062367,2.1902063
+761fb67f-465d-4ec9-8e02-6f14276cf21c,Condis,shop:supermarket,41.4058657,2.1897072999999994
+bc744873-e237-45e7-a15a-4deceec4916e,Torre Glòries,amenity:parking_entrance,41.403163499999984,2.1899525
+d308493f-18d4-4409-8501-1077d3c234c8,Gates Diagonal Barcelona,amenity:parking_entrance,41.40315209999999,2.1900738
+910971ad-7db1-463f-8800-a809661e371f,Tekman,office:company,41.4002439,2.1895627999999996
+1bf7da80-e833-471b-a436-82821a13de7c,Antonio's,amenity:restaurant,41.396263899999994,2.1987094
+4f4a3d42-3b26-43c7-a16a-29904400671a,Thoughtworks Barcelona,office:it,41.4075559,2.1992462
+9aeb3550-9aa8-4dcb-8e44-e5460cb7c7df,Birra 08,craft:brewery,41.4070686,2.190882
+2a43211e-f78f-4027-96d5-1183d98700ef,El 58,amenity:restaurant,41.4005516,2.20242
+7851e13e-e716-4edc-8335-f32debdd2daa,Primor,shop:clothes,41.404882999999984,2.1902253
+1c2e3857-b1ed-4a01-a929-a3a891455bb9,Pandora,shop:jewelry,41.4048848,2.1906449999999995
+317f6eb9-b33f-43f1-82a8-531224435901,Massimo Dutti,shop:clothes,41.4045882,2.1903261999999994
+2decdbab-92bf-4d82-883c-771dda167563,Uniqlo,shop:clothes,41.40498999999999,2.1912246999999994
+42e9c354-4f6e-4195-8f36-43a296119708,Buenas Migas,amenity:cafe,41.4053896,2.1918005000000003
+a22ef4d7-ed85-4979-88e6-3f9608db51a6,Adidas,shop:sports,41.405218,2.1906929
+285774fd-91d1-4459-99f3-8994b052a4e9,Mister Minit,craft:key_cutter,41.4054805,2.1916341
+dd170d86-5550-4e8a-86df-dc4ef8654d70,Zara Home,shop:interior_decoration,41.40493800000001,2.1907179999999995
+00d02875-dd98-48d6-ba49-a48172cc694f,Zara,shop:clothes,41.4047703,2.1904960999999994
+332ad669-7904-4f41-9153-63a7c5a74941,Oysho,shop:clothes,41.4049742,2.1903403
+caf8798b-a6eb-46a8-89a4-e13563b5cdd8,Vida Meva- Queviures Ecològics de proximitat,shop:supermarket,41.40049139999999,2.203517
+90d43db4-b5c8-4259-8339-4a5dd95aea85,La Graneria del Poblenou,shop:supermarket,41.4018083,2.2010137999999997
+431c2a14-c46b-41fd-8f5c-44341924e2ef,Del poble... A granel,shop:supermarket,41.413339699999995,2.2010186
+ce75d442-dd92-4e1d-8cc1-467951b2a2f7,Q8,amenity:car_wash,41.396231699999994,2.2011544999999995
+4e3e81c0-8cf2-44dd-a780-308f8ad6d01a,That's l-fe,amenity:cafe,41.3994943,2.2003731
+14645d7b-ecd2-491a-8842-e9fc93635f64,Pista poliesportiva,leisure:pitch,41.41128489999999,2.1952535999999996
+f24c42c1-b323-4f24-a5be-d26d27bbe1de,Danone,shop:ice_cream,41.405474399999996,2.1919236999999994
+8f0ba0f1-3114-4cb1-839d-303f8e9ebf39,Alan Tapa's Bar,amenity:restaurant,41.403838199999996,2.2041602
+ed38a04b-53e0-49df-b8cd-bd51b56a9b16,Solucions. Fem ciutat. Cooperativa habitatges,office:association,41.4012749,2.1954703
+b72a232b-25f7-40f4-a3d5-99a5827dcf74,Can Pineda,amenity:restaurant,41.4085913,2.1929744
+913e8711-bfcf-4abc-bc86-20f0ec7f69ca,El 9 Porró,amenity:restaurant,41.3994523,2.204418
+a79dee08-3696-4e5c-99bb-3f6d9c1b9b2e,Odo,amenity:parcel_locker,41.39757589999999,2.2017922
+4ace9f43-4061-4a17-9e10-661f9f5a02ce,Benzinera Poblenou,amenity:fuel,41.397551899999996,2.2016748
+c1e19e24-ca2b-408c-b93b-096df32f1487,Pere IV Passatge Major de Poblenou,tourism:information,41.4099174,2.2032138
+50b85afc-be58-4149-87ae-234004ed6a5e,Jérusalem,amenity:fast_food,41.395505199999995,2.1923564999999994
+475c02ab-4c0b-44cc-94be-c1db360f9911,Pere IV Passatge Major de Poblenou,tourism:information,41.411308899999995,2.2041562
+3cd5a3e0-2166-40e7-b1a3-6a4f002e3e49,El Timbal,leisure:outdoor_seating,41.4034479,2.2000658
+5405a3f6-e5c0-4049-a226-492c54a9d993,La tasqueta de Can Felipa,leisure:outdoor_seating,41.4033077,2.2002786999999997
+bb10428b-a002-41b5-889e-9795295a8ebb,La Calaca Barcelona,amenity:restaurant,41.4132583,2.1953858
+b2a29a3b-4c24-4f77-a47d-f1a9e95688dd,Incapto Coffee,shop:coffee,41.4061236,2.1928075
+a6fcfbf8-5482-4046-a6a0-03d06020341c,Els pairots fotografia,shop:photo,41.3944918,2.1931099
+018b2acc-435d-4629-bfbb-e8d8bb084c43,Hijos de cain Bar,amenity:bar,41.39667279999999,2.1919552
+9110c683-deb9-4f22-81d1-007c927ec07b,Lounge Restaurant,amenity:bar,41.39635119999999,2.1922632
+cb42215f-70be-4032-af21-8491bf0b96b1,D9,amenity:bar,41.3967903,2.1921194
+166c68f4-0ea8-42c1-a465-c5763a57daf4,Raven Poblenou,amenity:bar,41.39887679999999,2.1953173
+593b0878-0c68-4d1e-b85b-97a0c5436fd1,El rey del kebab,amenity:restaurant,41.398319699999995,2.1942274
+b063eddf-5aef-4fa0-805b-9b38e936f8fe,Institut Municipal d'Urbanisme,office:government,41.4109434,2.20207
+285841ec-3d18-4059-ba9f-5681f5e0a6f6,L'Occitane,shop:cosmetics,41.40511289999999,2.1909634
+c9bdc327-1aad-4d9f-9513-e2fac4386e26,Nyx,shop:beauty,41.40506589999999,2.1911431999999995
+18a1899d-62f6-4d1e-8038-eaab0b0f6bd0,Sfera,shop:clothes,41.4051665,2.1907309
+757f355e-0cae-4c56-991a-1a98ea4f7e42,Scalpers,shop:clothes,41.405060899999995,2.1905940999999998
+2fe516b1-272e-48b4-b8e5-bf148e73e453,u-casas,shop:shoes,41.4045861,2.1904229
+80d69904-1859-4db2-9479-d001755f037c,Rituals,shop:cosmetics,41.4052249,2.1910088999999995
+713d3d96-c5d3-4b97-9d92-b34e7672b774,Bimba y Lola,shop:clothes,41.40506,2.1908903
+d8192d9b-feb6-481c-afbc-8fbab7e32568,Tous,shop:bag,41.405372,2.1907099
+4b92d206-7371-434b-b158-8d41e5c4f538,Pull & Bear,shop:clothes,41.4052543,2.1908356
+660e9cc5-d066-4f22-a68d-854cd462b58f,Giovanni,amenity:fast_food,41.40509629999999,2.190739
+c400e8b2-1d56-4996-9307-bb33782037c5,Jack & Jones,shop:clothes,41.4048712,2.1900556
+1413d6a5-09d6-434f-9d40-d0b125040036,Women'secret,shop:clothes,41.4048482,2.1904892
+1243a5d9-f91d-4513-bdad-f7672acac8d8,Celio,shop:clothes,41.40506589999999,2.1907953999999994
+1c4f5cca-7591-4afc-b846-b580e286747f,Munich,shop:shoes,41.40512139999999,2.1910556
+09175a6c-280e-43b4-b7a8-c4ced56d30cc,intimissi uomo,shop:clothes,41.40512549999999,2.1908753
+3967f326-945c-47ae-b53a-e98d79427961,intimissi italian lingerie,shop:clothes,41.4051727,2.1909422
+e65cfca0-bf41-4f53-9e95-0c82f1b67fae,Secrets,amenity:fast_food,41.4053897,2.1913509
+4771f4fa-2e9d-47d4-a53a-8ee1d0ad45c5,Super drim,shop:toys,41.4055617,2.1911406999999996
+0e7c532a-84b8-468c-b1f6-a0250ea0dabd,JD,shop:clothes,41.40494129999999,2.1904467
+29ad4f2f-37e7-4e88-8576-75e77bc23ee9,Lefties,shop:clothes,41.40490609999999,2.1901653999999997
+cfee15c3-243f-427e-adb3-cced4b3af27c,Cortefiel,shop:clothes,41.4046463,2.1904868999999993
+f0fd0b0f-ef09-4e6a-8a7e-7295ec80d62c,United Colors of Benetton,shop:clothes,41.404933,2.1906288999999997
+a5ec7dfd-1e9c-4fb9-80ce-41f8e63b5631,Primaprix,shop:supermarket,41.40320969999999,2.1982348
+5bf685ec-3b81-4870-b6b3-b9313bc5c04a,La Marmiteria,amenity:cafe,41.3988285,2.2008609
+deb1a9ad-8831-45ca-97bd-185c32a80263,El cràter i el pou del món,tourism:information,41.40782300000001,2.2023738
+4b87da3d-d941-4ef5-8d77-1b9ffe29baed,Casal de Gent Gran El Taulat,amenity:community_centre,41.4016253,2.2040489999999995
+ed782dc9-a59f-4d9d-9e2e-7abdbea6548c,Impact Hub,office:coworking,41.39461969999999,2.1979184999999997
+6b394584-fd68-4dbd-b6bb-8e85e1cb4e94,Ve De Gust,amenity:bar,41.3930591,2.1899199
+710b1a8f-ee26-4dcf-be37-3fbba099b660,Sant Martí,tourism:information,41.403482999999994,2.2029239
+6294bdcf-2d57-4a28-90b3-abb846378c26,La Petita. Llibreria infantil,shop:books,41.4005267,2.2013487
+b298ce99-83f0-47db-9f56-d20654fd35bf,Oficina d'atenció i informació,amenity:office,41.39530709999999,2.2019513
+22353e08-c127-489a-9c8e-b527533df40d,Cementiri del Poblenou,tourism:information,41.3952738,2.2018577999999995
+915a7cf0-552c-4f3e-bf3d-b17ba0efafaa,Llibreria La Insòlita,shop:books,41.3993736,2.1969101
+38bab81c-1ee8-4129-a8de-793970795876,bombas de agua Barcelona,shop:convenience,41.416038699999994,2.1905540999999995
+3efda6c7-6687-4da3-aead-8c1a47a16ebb,Ve Pilates,leisure:fitness_centre,41.39845270000001,2.1981208
+b3cd5293-371c-4eb4-bff0-0cfd268df81f,Blow hair saloon,shop:hairdresser,41.3983754,2.1983411999999998
+024f04c6-0909-40fb-89c8-a10918b9b16d,Kibuka,amenity:restaurant,41.399540900000005,2.2000183
+1d55a4d6-52ac-4e58-a7e0-768caaef89be,Llar Residència,amenity:childcare,41.4003351,2.201092
+8d2684ba-31bd-4326-85f2-3a079d5a5011,Fabrik,amenity:restaurant,41.400448,2.2012448999999994
+7a71c8e9-0eb7-4fe5-a088-3255fbd62552,Supermercat,shop:convenience,41.4001622,2.1984615
+f18d67c8-3465-4095-ad08-6050e80438a0,Isern Associats,office:architect,41.3942963,2.1918637
+b05805bb-017d-41f2-87b3-520c06402a32,Sant Martí,tourism:information,41.4111226,2.1922693
+58e01809-253d-41d3-ab2a-cb2ab342dac7,Cau de Paper,shop:books,41.416502099999995,2.1997695
+fd1d8bea-d9ad-4720-9fb3-ae31ebdf8148,Bar Fluvià,amenity:restaurant,41.4147615,2.1969565999999996
+77be8fd5-2e48-4ba4-a7fe-9ef862ba9df7,Café Ninoska,amenity:cafe,41.3898649,2.1950449999999995
+dcb8025e-1ad1-4c14-a4ea-edc3ced4837c,Unió Excursionista Sant Martí de Provençals,amenity:community_centre,41.4153262,2.1963937999999996
+b31e50b4-8ff1-4731-9431-7ba51ebfd714,Sant Martí,tourism:information,41.408747999999996,2.1919356
+c294b87d-475b-42f8-a3d0-e447b1f61cbb,Ametller Origen,shop:supermarket,41.4151978,2.1951791
+7f109544-d0e8-472a-b4ba-c4a47b91a508,Honest Greens,amenity:restaurant,41.4050488,2.1925173999999994
+d1fa96ba-d35f-4376-8ab6-a155712ea8ad,Atlètic Poblenou,amenity:community_centre,41.4028383,2.1992706999999996
+39c974f0-aa48-44f3-9e00-37a6856000e1,+pilus cooperativa de consum ecològic,amenity:community_centre,41.4062181,2.2032397999999995
+64fb14e8-ef81-4e94-9ff4-b0c9fb69108e,Condis,shop:supermarket,41.4003662,2.1987792
+d33aa0b6-538d-42c8-b3b3-19991cc06be9,Jardins de la Galeta,leisure:garden,41.398509100000005,2.1909519999999993
+6cd89add-c831-422a-a39a-c1737bdfd499,Sant Martí,tourism:information,41.4075294,2.2042439
+6dd4bc07-3ba4-4a7f-aad8-e1a977e9751b,Frutal,shop:farm,41.394464,2.1954883000000005
+918aa141-8b0b-4ea8-b170-c80151017dbf,Epitech Barcelone,amenity:school,41.3910039,2.1939432
+f9df9cde-a6e9-4f9a-a6c6-823f321f6b2a,Monument a les il·lusions perdudes,tourism:artwork,41.40574279999999,2.1950483
+6c8ebba8-8986-4a9e-847f-8435bcfb4c79,BTD,amenity:bicycle_rental,41.4019318,2.2020439
+dd41cb37-b2f6-4a5c-b470-4a4caf4e65dc,Peludets,shop:pet,41.40168859999999,2.2026033
+d0289656-4830-4b3b-b278-4a9297218d5b,Twist & Shine,shop:laundry,41.4006107,2.2042503
+7be97e4a-07d2-42e6-b557-62040f157fd5,la Sirena,shop:seafood,41.4005981,2.2036228999999996
+8f35dfe3-26d6-4de8-85f7-73cf8e8053ec,Desoriente,amenity:restaurant,41.4007266,2.2037657
+3785ab26-af67-4588-a406-ecda783ac17e,Frankfurt Rita,amenity:restaurant,41.4028075,2.2019603
+3b1122bb-8a13-427f-bb3d-db7cad310ac3,Makkeroni,shop:deli,41.4020538,2.2018586999999994
+5ac10407-9811-4e4a-8deb-9f6af903d05c,Local 92,amenity:restaurant,41.40323649999999,2.202467
+df6a9947-7e39-4234-953a-72092734d2f6,El Trapeilla,amenity:bar,41.40317580000001,2.2023882999999995
+4e397b48-df27-4627-8efc-4331b19879f4,Façana Verda de Pallars,tourism:information,41.4048602,2.2025162
+17d4dcf4-0da5-4b08-b8e2-41b1d18054dc,Onix Renta S. L.,office:estate_agent,41.4121887,2.1974284
+04dbf5ea-d682-413f-a12d-135c57e941b8,Traça de Pere IV,tourism:information,41.4078508,2.2015874999999996
+6ce7c57c-b39d-4a23-85f9-6d83b59a931e,Chiqui La Vila,amenity:kindergarten,41.3906188,2.1989295
+07614b1e-03de-41c7-b16f-888f75fc0de5,Midokura Ibèrica,office:it,41.40037060000001,2.1897011999999996
+076fd771-971b-4a86-8c44-eef7e6ebd3a8,Criteo,office:company,41.400518,2.1944227999999995
+878e3569-a319-485d-aa69-f9f641a488be,Platja del Bogatell,tourism:information,41.3921534,2.2047835
+71c1c196-c336-4f7d-a5af-fc98f93e0c61,Platja de la Nova Icària,tourism:information,41.39077189999999,2.2020937
+e447ef77-aa27-4c28-9973-af9ad11a3f6a,Platja de la Nova Icària,tourism:information,41.39099829999999,2.2027492
+197281bb-d738-4f20-9be6-7e938a38fa17,Platja de la Nova Icària,tourism:information,41.391224099999995,2.2033619
+2424366d-3805-4c12-a995-4828ad31d067,Platja de la Nova Icària,tourism:information,41.3901921,2.2011077999999995
+5526facb-09a6-46be-ad12-156948455c62,Llar d'infants Serralada,amenity:kindergarten,41.413908299999996,2.1922514
+5cfac79c-19c9-41c8-b04b-a4291ffb8030,La Volta,amenity:college,41.417274199999994,2.1899282999999996
+198eda1f-8085-4e2f-ae5a-964043d77e30,Madre Lievito,amenity:restaurant,41.3976809,2.2032493
+c600768d-6df9-4adb-9ac0-5641a54817f3,Els orígens de la Llacuna,tourism:information,41.399550000000005,2.200836
+a4bc1ea1-d41e-4c1c-8494-444926fc3a60,Comisión Nacional de los Mercados y la Competencia (CNMC),office:government,41.402729799999996,2.1911085999999997
+f1092b20-0a78-48b6-9d73-da508a8a6b0d,Mobles La Paz,shop:furniture,41.4115625,2.1939155
+66909721-25d3-4748-ae69-502f2a1c249e,Turris,shop:bakery,41.40388999999999,2.1978581
+c96b43b2-777d-495d-8766-8c6f88641382,Ametller Origen,shop:convenience,41.4039029,2.1978427999999997
+d41e56ed-63ad-40b5-afb7-8025487a1786,Zwheel & RuedaQRueda,shop:mobility_scooter,41.40374739999999,2.1974687
+7d6ae6ac-835d-4a36-b113-3d3711db1a59,Capgemini,office:company,41.403890800000006,2.1912367
+3b56bf98-8071-4a6c-afc2-b8aa599bef56,Bar Restaurant Andrea,amenity:pub,41.403842499999996,2.1907056
+094d0bbc-e38c-4a9d-9871-bf6079e8fd31,Micro PC,shop:computer,41.3951944,2.1913405999999997
+7cb30efb-e121-44d7-997b-b3d130082fdd,NOBA Ventures,office:company,41.393791799999995,2.1928944
+0e66aab0-1c73-483f-a024-9ff16a788aba,Manioca,amenity:restaurant,41.391024699999996,2.1899333999999997
+3b7d8505-7b22-43dd-b0ba-2f412a777ed3,D@niel Café Restaurant,amenity:cafe,41.4043895,2.1931922
+0df9e370-cd7b-4836-9191-89529b89443e,Supercor,shop:convenience,41.3931122,2.2043118
+c691ca94-6ddb-44e5-8a64-113ef36ed1bd,Can Dendê,amenity:restaurant,41.398387,2.1984890999999998
+376da743-b2ca-4c77-9d6e-ee58f1f9a5cf,Campercar,shop:car_repair,41.4118386,2.2027196
+1d42e93f-8eff-4f61-8be7-ab4338b0dcb3,El Quinto,amenity:restaurant,41.40020499999999,2.1963267
+57c81260-1d0e-4625-a2be-40bb9e321367,Punt verd mòbil,amenity:recycling,41.39279679999999,2.1984998999999994
+4fed4db0-96ce-4648-ae56-218b56dacc09,Arcelon Hotel,tourism:hotel,41.414462099999994,2.1898181
+3efddb2b-9573-4add-ac2e-734da90534a5,Escola Bressol Esquitx,amenity:kindergarten,41.4166281,2.1985028
+c14ab38e-58dd-4f21-86a8-18dfd981fb2e,365,amenity:cafe,41.41249979999999,2.2036348
+f5b7cc2b-1201-4369-b121-a76e7cd0d8c0,Cambur Pintón,amenity:restaurant,41.39091309999999,2.1984874
+6953613e-6afe-4aa4-85cf-2c2096f30847,Roex,shop:skate,41.3909043,2.1985244
+8145d250-27d4-4c0d-85de-25fe5fcfd381,Bitcoin ATM - Shitcoins.club,amenity:atm,41.3909692,2.1975513999999996
+a60e9cf5-f041-494f-a3ff-7d9da5159063,Kebab House,amenity:fast_food,41.39067560000001,2.1982904
+c49ac000-a4a0-4cfe-9a7c-977926dd6aad,PAIC Pastisseria Artesana Stop Sucre,shop:pastry,41.4156679,2.1895824
+22156154-197b-46ff-991c-3f746d0596b0,VivaGym,leisure:fitness_centre,41.4046752,2.1913428
+68637c0f-731d-4b29-a11f-cfc5db28a2a4,Rosa Chicle,shop:clothes,41.40751469999999,2.1918999
+d7c1f9ff-fd1b-49df-9604-a14a62437e1a,Harry Barber Shop,shop:hairdresser,41.407175699999996,2.1914358
+f718a623-ba55-4038-ae44-805f521d4f8d,Moda Amiga,shop:clothes,41.4063247,2.190275
+b59209a0-92a5-4e33-abeb-2ea314dd72d3,Marco Aldany,shop:hairdresser,41.40669689999999,2.1908069
+0049f5a7-1ab2-46a6-a754-d01c07fd072d,Perruqueria,shop:hairdresser,41.4067844,2.190894
+233d3014-12d1-4f09-868b-05fe86832295,Angeles Perruqueria,shop:hairdresser,41.4158668,2.2043922999999994
+69bad708-8b81-4f4e-9e87-c6df725e4101,Ali Perruqueria,shop:hairdresser,41.4154887,2.2039309
+6177b810-34fb-4be7-9a7d-b9191141d731,Moda Gorretti,shop:clothes,41.415603299999994,2.2040999
+56bdaf29-8b24-446e-8327-6287329ee036,Artfusio,shop:hairdresser,41.4162352,2.2031262
+ad036785-c948-4976-95b7-992c8e4a2385,Toni Reina Peluqueros,shop:hairdresser,41.41628239999999,2.2031866
+90b9edf7-b938-4bb3-ab13-a0a60bc3122e,Juliette Moda y Complementos,shop:clothes,41.4163116,2.2032255
+1c55435b-278d-4519-8c06-1cdfe838ab47,Finques Gallardo,office:estate_agent,41.4157999,2.2025509
+c2b99f2c-5cd7-4043-904a-af9d0974846e,Yolanda Romero,shop:hairdresser,41.4149214,2.2031759
+017cfad0-a5ce-414d-b775-e489283764e3,La Casa Agency,office:estate_agent,41.41374669999999,2.1997641
+febfebb1-255f-423e-8154-8399315ac7ab,Perruqueria Roma 3,shop:hairdresser,41.41358029999999,2.2013466
+34d96da4-7d48-4683-a079-40c06d894455,Teva Immobiliària,office:estate_agent,41.4125363,2.19998
+677c72b5-ac4e-4ce8-b055-f7cf4b9fe6cb,Va D. Atienza,shop:hairdresser,41.41299839999999,2.1985181999999996
+8243803f-c887-48ab-9561-990570c4105d,Perruqueria Noemi,shop:hairdresser,41.411735699999994,2.1991298
+b15be85f-f1f6-4351-a3d5-148ffb82bdb7,Mar Rodriguez Atelier,shop:clothes,41.410844,2.1979937999999994
+88ec26cb-fe28-408c-b77e-a32c5867c830,Marlen,shop:hairdresser,41.410775599999994,2.1979013
+08fd8e18-e931-4578-8885-16a6b769eb4d,R&A Perruquers,shop:hairdresser,41.41109209999999,2.1983073
+9e3a1e3a-3f93-4fd5-b5a8-4a0d06e88526,Comunitats Bcn,office:estate_agent,41.4093509,2.1938733
+aee07d43-98d5-447b-9fd7-dab426251b44,Recinbcn,office:estate_agent,41.393210599999996,2.1989495
+632e7c3a-987d-44c0-9f90-799070215e53,Entredos,shop:clothes,41.392012,2.1982829
+459cf3c7-74ef-4a5b-b15a-064fe9b9cbb0,Compte,shop:hairdresser,41.3913002,2.1967586999999997
+557a0f59-3972-4dfd-abc2-b9d9af965b8e,Caixabank,amenity:bank,41.3906,2.1959352
+eab6f3fe-b00c-4d25-932e-e2d31c27db36,Inmotarget,office:estate_agent,41.3901975,2.1962491000000006
+f8494502-6bcf-4a92-943c-5449fbad3604,Alexandre Joier,shop:jewelry,41.38998219999999,2.1960317999999996
+db8e6112-34f4-4d89-bcf8-e96d38f7e026,Alimentació,shop:convenience,41.41498779999999,2.2032160999999997
+f74c2dce-7b10-4301-808c-6d7c9531fb12,Autoescola Sidecar,amenity:driving_school,41.41607299999999,2.2029358
+430d2fd3-8fdc-4e78-8acb-dbdb4f382f9b,Advocats,office:lawyer,41.413198599999994,2.1989982999999995
+0fbcc821-b9df-498e-8aab-47c256267997,Bar Cafeteria Grand Prix,amenity:cafe,41.40849690000001,2.1945861
+8946cd4d-78f9-4b55-bce7-57fad856fe4b,Bar Cafeteria Ca L'adriana,amenity:cafe,41.407152599999996,2.1914129999999994
+2b89ba45-1718-418b-adef-083d3b99e793,Thai Noodles,amenity:restaurant,41.398703499999996,2.1941840999999997
+8e80695f-4cb2-44b6-9f30-3e801a0a45b2,Refugi climàtic Biblioteca Gabriel García Márquez,amenity:shelter,41.4170746,2.2001386
+5afb2155-ea04-475e-9e94-917878825868,Refugi climàtic Biblioteca Xavier Benguerel,amenity:shelter,41.392438899999995,2.1977273999999998
+62ce82c5-0d5a-44c6-ad13-9b0ae5cf8583,Refugi climàtic Centre d'Urgències i Emergències Socials de Barcelona,amenity:shelter,41.3991854,2.2013356999999996
+99d67c32-04b8-4746-a16f-5970f4e100c2,Refugi climàtic Casal de Gent Gran Parc del Clot,amenity:shelter,41.4085841,2.1917833999999994
+accad048-89e0-47b9-8be9-9eb0e45dea50,Refugi climàtic Parc del Centre del Poblenou,amenity:shelter,41.4067936,2.1997574
+c061922c-ec30-4197-a96f-3e0beb91a2fb,Refugi climàtic Centre Esportiu Municipal Nova Icària,amenity:shelter,41.3923939,2.1980208
+deb2a191-7dd9-4b5b-9237-75c40c376eb9,Refugi climàtic Casal de Gent Gran de Sant Martí,amenity:shelter,41.4166552,2.1985816999999996
+09bee444-514d-495d-9c34-29e10746ec54,Refugi climàtic Parc del Clot,amenity:shelter,41.4084723,2.1900154
+a6cd623c-fc12-4da1-a2e5-efe60dba8571,Refugi climàtic Escola Bogatell,amenity:shelter,41.39343519999999,2.1944538
+8cfa6c63-add6-4960-8b6b-5ba6f1a0044a,Refugi climàtic Casal de Gent Gran Taulat - Can Saladrigas,amenity:shelter,41.401887099999996,2.2035177
+7c2279ad-359e-4cef-95df-49e69c6c6d4a,Refugi climàtic Casal de Gent Gran Joan Casanelles,amenity:shelter,41.4118544,2.193092
+22185262-6cab-4865-9f10-77767f2e4f0e,Refugi climàtic Centre Esportiu Municipal Can Felipa,amenity:shelter,41.4036798,2.2005097
+e83e3b09-c201-4454-aab5-c5fa2a092678,Refugi climàtic Biblioteca Poblenou-Manuel Arranz *Tancada per una incidència tècnica,amenity:shelter,41.4014049,2.2045429
+72dd3536-c3a6-4de6-89b3-0e8ead1de194,Refugi climàtic Escola Vila Olímpica,amenity:shelter,41.3950549,2.2036661
+db13495b-7bfa-415c-a1c5-9be2912d908b,Refugi climàtic Centre Esportiu Municipal Bac de Roda,amenity:shelter,41.41438759999999,2.1940882
+d458f713-69dd-4829-b188-944a9071c359,Refugi climàtic Casal de Gent Gran Quatre Cantons,amenity:shelter,41.4068058,2.2039755
+6975cb80-3b03-408f-9556-ccd9c3a6fc9a,El Ruedo Poblenou,amenity:restaurant,41.39495639999999,2.1915
+675d4478-9fdf-46ef-bc88-f66536b401d9,King,office:company,41.4032975,2.1919202
+8965f6be-cc83-43db-ad1f-c56993bb94e0,Mi Corte,shop:hairdresser,41.4053883,2.1941999
+64c121c7-0bef-4746-85a5-e35517c50d6a,Taj Mahal,amenity:restaurant,41.3909852,2.1988824999999994
+a38bb193-9a39-468a-83a7-8d8ad4b3003b,Mogollon's,amenity:restaurant,41.3898047,2.1950217999999997
+ba821b3e-e354-4531-b9f3-d1f023f4651b,Rumba,amenity:restaurant,41.3958243,2.1994522
+6d32c86d-dc5f-444c-b088-84464daa3768,BitBase - Cajero Bitcoin,amenity:atm,41.4052617,2.1912196999999995
+1f1f2285-4461-448c-8fa6-496f06238c7a,Sprint Lavado,amenity:car_wash,41.39327659999999,2.2039782
+af1f0751-5f00-4e63-a415-f51056c018fd,Espai Inmersa,amenity:exhibition_centre,41.3976915,2.1974348999999997
+2a241c42-68e3-45e0-8b78-c447e23590b6,NoruBar,amenity:restaurant,41.40163909999999,2.1969558999999994
+6532704d-4ade-4b1e-838f-3606c6430a01,Syra Coffee,amenity:cafe,41.3992322,2.2045093
+b853eb98-9a65-4418-9e83-6a4e884c498f,Hiro,amenity:restaurant,41.402293,2.1900478
+80447c7c-6ff2-41b8-b0fb-c7b5f7ccf3c0,Akasha Barcelona,office:ngo,41.4109472,2.1912192
+8e090d35-1a2d-4445-af2d-c73c8ecc3a89,I riparo,craft:electronics_repair,41.4010904,2.2020957
+900f6382-2906-458c-81f8-0d98166c2b97,Hi mart,shop:supermarket,41.4010617,2.2020638
+0368f903-befe-4a9a-8b20-812a9970e3ac,Òptica Vendrell,shop:optician,41.401020599999995,2.2020100999999994
+9c88409f-0185-4eac-94ff-4cb491297dee,Only Vapers,shop:tobacco,41.401133699999995,2.2021511
+636af770-b444-40f3-8589-6eb7cfde4a52,Ferreteria Llull,shop:hardware,41.400959900000004,2.2023156
+81e49d5a-8144-4daf-927c-c4b497159a27,Fundació Trinijove,office:association,41.39804970000001,2.1957036999999997
+88954b20-f174-4017-808d-8027eb64d32f,Glovo,office:company,41.396703099999996,2.1966176
+11e08f32-03d1-4bea-8102-f1099726de8e,Blow,office:company,41.3994426,2.1934326
+881e5cad-0049-4fd1-8af5-ecc8c5861fa0,Loom,office:company,41.40055379999999,2.1960524
+ebb89b2f-9f15-43a0-b6c3-d8ca45f458ce,Glovo,office:company,41.39631369999999,2.1965486999999997
+38a1fa54-8bd9-45c2-92f2-9f2ee53b76ad,Supermercat,shop:convenience,41.3936052,2.1931595
+6b25ddbf-4fa3-4816-9ac8-3f672d606fd6,BonÀrea,shop:supermarket,41.403090500000005,2.2028237
+c240b9a4-7054-42c9-9a95-9223e95f4c57,Jerusalen Traduccion,office:translator,41.3959235,2.1932902
+5d83c6df-1f30-43ec-9b4f-9048a17428dd,Assalam Traduccion,office:translator,41.39533399999999,2.1921148
+3d86b6c1-2bab-4146-966e-a8269313da1a,Centre civic,amenity:community_centre,41.4001478,2.2022854999999995
+36092449-8778-4ecb-ac30-9f96f02f82e5,BiciHub,amenity:community_centre,41.3957383,2.1923347
+9bfd7d50-ec45-435d-b9d6-c8cdbc5e57f5,Consell Català de l'Esport,office:government,41.4145703,2.1939458999999997
+fedb7254-fa6a-4d58-b64a-0ac9bee19d73,Guifré,shop:pastry,41.401112299999994,2.2010142
+e7e482ee-3f18-41ae-93d6-13b757e08970,Kibuka Llull,amenity:restaurant,41.3996264,2.2000181999999997
+802e8f60-25ed-499e-8b7e-6f28847800a8,Sindicat de la imatge UPIFC,office:association,41.406181399999994,2.2033135
+3f798f4d-8313-444c-ab70-075502d07a23,Flors Ezquerra,shop:florist,41.40354140000001,2.2033464
+fff361a2-6f1b-47e8-8ebf-f67d8d393fd9,Foto Sprint,shop:copyshop,41.4048315,2.2046706
+2a2178db-2110-4278-b0da-f69782811f6a,Ikea,office:company,41.4022004,2.1928428000000006
+099ef151-f8f8-41c6-865d-25fb13d9d386,Entre Catas,amenity:restaurant,41.416856599999996,2.1952814
+4c2ea98e-3567-40df-bcdf-83db45f24b43,Unex,office:company,41.39979459999999,2.1964982000000006
+a9dea3d6-e1d6-4eb4-acfe-764da2aa0aa8,Habib's Restaurante,amenity:restaurant,41.3914938,2.1980088999999996
+17c4b64b-e643-4510-b1eb-31ea6f981d01,Policía Nacional - Documentación DNI / Pasaportes,office:government,41.4171709,2.198794
+a394b790-224d-4da6-98c0-58e6ada40bcb,Policía Nacional - Documentación Comunitarios,office:government,41.4174989,2.1992334
+ebe9cac4-7b61-42ee-9fff-bc45a1b984ab,Yuki,office:company,41.39623149999999,2.1938374
+b730e569-723a-4312-a3f6-efd6e371dfa5,Gondola,amenity:restaurant,41.3924575,2.2005534
+ca3c6555-735c-403e-93b6-6d66fab3a990,FX Barcelona Film School,amenity:college,41.397673399999995,2.1956481
+5e1def91-27de-4d14-a9b7-ba8565691c1c,La wapa,amenity:restaurant,41.40379719999999,2.1906179999999997
+20d02068-a0cf-4f34-b436-45997d05c421,4 Latas,amenity:restaurant,41.4041993,2.1968759
+1a014b88-fdb3-40e1-add8-e61e2fa9e86f,Tapa Tapa,amenity:restaurant,41.40486390000001,2.1917169
+99b62d98-7a0e-483b-a3ac-ffca01c405f8,Espronceda 281,leisure:sports_centre,41.4131776,2.1938862
+8672e1c3-d9c2-4e9a-bc04-2a1cc64c4750,Impact Hub,office:coworking,41.396229999999996,2.1937644999999995
+8120c439-75d2-4b94-9e36-24efe572c7dd,Gato Preto,shop:interior_decoration,41.4055037,2.1908814999999997
+4684ad11-e533-4bd9-a726-48d9cd1b61bf,Sensorial,amenity:cafe,41.4015934,2.2027546
+47c7bc13-ac08-435f-8bbc-531aeef5d7a9,La Nau,amenity:studio,41.3942868,2.197131
+d2373bd1-1d7a-4cbc-93f6-00220b1193b1,super be - juice food & good mood,amenity:restaurant,41.39168909999999,2.1972141
+745e384b-257f-487e-986d-5e65c82a8720,Museu Terra,tourism:museum,41.4019067,2.1967916
+1ff21966-4ebd-4032-bd48-d742e20c2dce,Fundació Carulla,office:association,41.40186899999999,2.1966753
+90e6fa3d-6af8-44bf-b4f2-5bc20ab4477e,Yamada Ya,amenity:restaurant,41.41713039999999,2.1977713999999997
+16479504-4f4c-4cc4-b428-f8f3004ba9f5,Porsche Digital,office:company,41.40029609999999,2.2002448999999995
+9fa58dd8-0bc7-4ac4-af07-9b4f442b1899,Re-Read,shop:books,41.4004282,2.2034542
+e0cfeff6-66a6-4b74-8b90-e04c7fb71add,Santagloria,amenity:cafe,41.4131467,2.1948833
+c9adc051-9633-4d74-a2e1-9a7842d9512c,La Sirena,shop:frozen_food,41.4051978,2.1955553
+03843d06-342f-439b-a8e7-5c75baa76f88,Shifu ramen,amenity:restaurant,41.402837,2.1987346
+21d132be-0fcd-45b3-925a-207781fa82d0,Burritos,amenity:restaurant,41.40270559999999,2.1989126999999997
+af4031bd-d2ef-49f1-8791-aa0b617ed8dc,Merceria Pilar. La núvia Pim Pam,shop:haberdashery,41.400288399999994,2.2020959999999996
+07834c84-6474-4f65-af10-c553e2bb1b4d,L'Autèntic,amenity:restaurant,41.4026622,2.1989727999999995
+f40bba70-4e7e-4f56-966c-0b9b9b4334a5,Niagara,craft:builder,41.40346000000001,2.1978431
+8e2f8170-d1d1-4a32-8a31-5076a2286db1,Chloa,shop:clothes,41.40109019999999,2.2010402
+69d8d4db-5b98-4097-888a-dd844ac872ba,Ramen House,amenity:restaurant,41.40101909999999,2.2011408
+4740cfa7-5197-4a0f-9b90-df997efac8ea,Movil cover,shop:mobile_phone_accessories,41.40008749999999,2.2023695
+91b33c1b-9bb4-4686-9b5d-32e535de7644,Dani mobils,shop:mobile_phone,41.40303579999999,2.1984022999999997
+4ca8a875-7a99-4d8a-aede-142265d24b2d,Parlem,shop:mobile_phone,41.4007745,2.2014547
+fec27214-56bd-462a-af67-493a23374523,3 Sabores,amenity:restaurant,41.4003542,2.2020073
+efdb7e29-ca29-478e-80c0-a45b49b52896,San Remo,shop:perfumery,41.4001958,2.2022164
+b668e9c6-e195-424e-b30e-78d374695c7b,Theminers,amenity:cafe,41.40294359999999,2.1986041
+b9cf7759-a648-495f-92f0-bca0ec57ec77,Demadie,shop:pastry,41.40104809999999,2.2010973
+99b7a235-1781-4869-a3be-340fc7c0508b,4uatre tapes,amenity:pub,41.4009757,2.201194
+111511a3-a904-4c77-8da4-c5ff4c766bcb,K love empanada,amenity:fast_food,41.4009349,2.2012472
+cf6ef305-4422-402b-984c-23e0b5136adf,Miyu Nails,shop:beauty,41.402883,2.1986869999999996
+3a105d59-b58b-4ce4-8c87-0e4bb16bc73e,Chivuo's,amenity:restaurant,41.4026841,2.1989398999999996
+787bbbb3-f5c9-4202-8caa-6868f7257f86,Cabernet,amenity:pub,41.4016842,2.2002660999999994
+f811d5ec-bc59-402a-ba87-3a1951971d3c,UH supermercat,shop:convenience,41.40032440000001,2.2020461
+6e23c25a-0882-4c45-9b85-7fe5e1407fd6,Fast Bites,amenity:fast_food,41.4000408,2.2024253
+cb248500-b7c7-4018-b2ac-41b0d55202f2,La Roda,amenity:restaurant,41.40000109999999,2.2024618
+d07a94e8-ab03-4721-a9bc-8c0d3e942ecd,Holy Madre,amenity:ice_cream,41.403874099999996,2.1970851999999996
+5fa04353-fc63-4a2d-85eb-5468cf4cdc75,Bar Restuarant 104,amenity:restaurant,41.4033538,2.1964054
+c59149a8-bf8a-497f-9983-0dc203a161b9,Lemasa Asesoría,office:tax_advisor,41.4035662,2.1966645
+a11152d5-1a1c-4ee2-8ffc-d087f5b14af0,Ryu Ramen,amenity:restaurant,41.40366339999999,2.1967951
+c2b52c37-3c9d-4dcf-a960-dce7450e201d,Sou Livre,leisure:fitness_centre,41.394421,2.1935077999999995
+f48d5e0f-bf73-4aff-931d-1e19ff76bd09,Kalamata,amenity:restaurant,41.403946,2.1984872999999996
+8d38bd5a-f904-458a-9779-7c5c3b387087,Taller Autoreparació Bicihub,shop:bicycle,41.39574669999999,2.1922586999999996
+0b7121d8-88b1-483e-83f2-86915e2e17bc,Biciclot,amenity:community_centre,41.39570049999999,2.1922879
+e152629e-cc92-41e0-85c7-e423e71379c3,BiciHub,shop:bicycle,41.39575889999999,2.1921742
+60049d86-8797-459f-a09b-1d6dcb6afba2,Centre d'Atenció Primària Sant Martí de Provençals,amenity:clinic,41.414108299999995,2.1973376999999994
+a9a0bd16-5749-46af-bc44-1ec7366d8e1d,Galka Beaty,shop:beauty,41.4036801,2.1980978999999996
+6acc6448-37f9-4c76-867e-0e5048a63e32,Bazar El Regalo,shop:electronics,41.40307440000001,2.1987944000000006
+e7d2e080-f2bf-4426-8b69-e6d586ae076a,Laboral Kutxa,amenity:bank,41.4033911,2.198414
+d3c2dd37-1ad2-4055-b4d2-c7eccc591e94,Morgentau.,amenity:restaurant,41.4038287,2.195572
+007fcdf1-b74f-4b5a-b98c-234f3c960384,Botanicus Cocktail Bar,amenity:bar,41.402015199999994,2.2009442999999997
+04b71fc3-e17b-46ba-9278-f7af6048c237,Market Cuina Fresca,amenity:restaurant,41.3983531,2.1955936
+b17c1e89-3588-4eb5-852b-be0c027d9de7,Amazon Locker - alberch,shop:outpost,41.4153993,2.1974419
+890440b1-6335-4593-b16a-a7aa666dadb0,Bo&zin,amenity:restaurant,41.4081725,2.2046194
+ce30cf2c-2f23-4d45-aebf-9dcee96b94d9,Coaliment,shop:supermarket,41.412483099999996,2.1999013999999995
+ea4c0832-4304-4932-8c3e-6141b55928f9,Cap Problema,amenity:restaurant,41.39790839999999,2.1939378
+efe419c0-9418-43fe-a103-07298fe7c55c,Amazon Locker - perth,shop:outpost,41.4128824,2.1971733
+46ebb504-ea2e-47b4-a626-8eaf0b15776c,Buenas Migas,amenity:cafe,41.40416299999999,2.1914358
+1bb296d5-a409-4ab6-b5a3-265274e2773e,Marusya,shop:supermarket,41.4027133,2.204638
+6975f9e1-96b7-451c-a57e-24a53737edf0,HotSpot Creative Space,tourism:gallery,41.40314289999999,2.1981912
+a8857e17-1c04-4ee3-9761-d013e54b775e,Condis,shop:supermarket,41.3900836,2.1961012999999996
+f20e636c-c3ec-4388-b3e7-cc93c6474fc1,The Social Hub - Hotel,tourism:hotel,41.4099113,2.2044589
+820831e6-5af7-42dd-9b87-813ea2a3a9be,The Social Hub - Coworking,office:coworking,41.4098553,2.2043563
+1119eb0c-f18d-4c1c-964b-7de0176744f0,Agència Tributària de Catalunya,office:government,41.3922217,2.1923052
+f7b9ce65-ea40-404c-a0f6-fc9ae4e40c71,NTT Data,office:company,41.39456789999999,2.2004329
+3acf080b-835e-4d21-8a90-d309a26e801e,Enlagloria,amenity:fast_food,41.39916199999999,2.1953158
+4fcfb697-92d4-47cc-8e85-b800ceeef600,AKASHA Hub Barcelona,amenity:community_centre,41.4110134,2.1910453999999997
+0407c60e-31c0-45c5-8991-c80ab6c847f5,Juguettos,shop:toys,41.4058176,2.1959109000000003
+d1ff2e63-62a5-4c5d-83c1-5fe14cf63358,26KG,amenity:restaurant,41.40396679999999,2.196784
+60cec46e-bed9-40f9-9302-e011126decf8,Unicaja,amenity:bank,41.4047809,2.1973752999999996
+53d81b72-2e1c-40db-82eb-3bc949c56789,Terra Mar,amenity:restaurant,41.397049599999995,2.2018013
+4cf0d664-7a11-43b3-a8e5-08c7b20184d4,Divuit 18 Cafe,amenity:cafe,41.39153069999999,2.1985619
+82c15449-1b16-4c53-8d03-1189a7a9e2d9,Condis,shop:supermarket,41.40111250000001,2.195251
+79df398d-1501-4815-a463-7d826bba4b20,Tabacs Exp. No 166,shop:tobacco,41.41295,2.1943574999999997
+237c14c4-4cff-42cc-ada8-40a33e7e917d,Papereria,shop:stationery,41.4130337,2.1942299
+93775626-2a2f-4a10-9e56-09e6748ec547,Quiosco,shop:kiosk,41.41356629999999,2.1936812
+1f0f0696-dd38-428d-bb5d-471c5a6fa4cb,Billa Barber Shop Peluquería Masculina,shop:hairdresser,41.413859599999995,2.1931401999999998
+d369d166-a56b-49fc-97f4-74442ef0307f,Clínica Dental Bacdental,amenity:dentist,41.41391050000001,2.1930571
+fe231fd8-5691-4ff2-ae2b-7bedae52d215,Bar Granja L'Angelet,amenity:restaurant,41.414278,2.192585
+60efa4e1-55a4-4f2c-a9df-43ff4f4e465f,La Masovera,amenity:cafe,41.4125134,2.2032873
+74398cf2-4e31-4e4b-a1d0-2bf3f233e745,Cal Fruitós,shop:greengrocer,41.416392099999996,2.2033188999999997
+67c7bc1d-ec88-4624-8aa6-ca9e938f3784,Miny,amenity:restaurant,41.3957733,2.1989731
+0ef7bdba-b36e-40bf-8d37-51a7715a4eff,Minoria Absoluta,office:company,41.39611310000001,2.1989147
+53aa5683-921a-4c9e-bc21-e2be8e59978f,Magma Bakery Lab,shop:bakery,41.40532809999999,2.1999521999999994
+864f7d42-1065-4b8a-be84-7647921eb132,Farmacia Vila Olimpica,amenity:pharmacy,41.3918082,2.200563
+8011e18d-c2c9-4311-a58a-e855092f8f70,El Camaleón Sonido,amenity:studio,41.4137949,2.1921791
+71663acd-b59a-4692-969e-9216ac172b60,Frankfurt Verín,amenity:bar,41.4161624,2.2000061
+7f188882-17d6-4674-a66b-74ac0a041880,Repúblic Cafè,amenity:cafe,41.3987683,2.2044872
+fa7dd997-d262-4bd7-93e0-aaee88e5dbf0,Monturiol,tourism:apartment,41.41004139999999,2.1923682
+cafca4ad-e5fa-4dc1-990f-82261a095695,Mokai,leisure:outdoor_seating,41.3903314,2.2013256
+62823dd0-1596-44f4-951f-fd0d406bbf65,Santo Mojito,leisure:outdoor_seating,41.3908437,2.2022658
+f437b2b5-c3bb-472f-a386-7602a52ea52c,agachaito,amenity:bar,41.3916665,2.1916656
+daa89b9f-ec01-488c-a604-661247be3102,Mango,shop:clothes,41.40531299999999,2.191477
+969a608e-96c5-4fce-879f-619160ffd16b,Osom Nou,amenity:cafe,41.4043004,2.1981786999999997
+f2bba8a4-3357-4bf3-9b17-40aea33403cc,Naranjito,amenity:bar,41.41133309999999,2.1900349000000006
+ecf1c421-31e1-425d-ba66-d32e50eec0d6,Boxdepo Trasters,shop:storage_rental,41.4115433,2.1902752999999997
+8fb4d0ff-03e5-486f-882a-55f83c48a568,Croccanti Forn amb Degustació,shop:bakery,41.41172389999999,2.1904337
+8b96e8da-bfd4-4523-b3d8-88ce83b4ba78,Distrito 655,amenity:dojo,41.4118181,2.1905118
+b36639cf-ed1f-4a3e-8e3c-fd790c4c8df8,Yaten Asesors,office:financial_advisor,41.4120609,2.1907052
+f5b50e17-6bee-47f0-ae69-7b24d2d1937f,Clínica Veterinaria Aragó,amenity:veterinary,41.4121872,2.1908191
+b3c8efe9-0c00-4595-8819-f4ea894fc8ea,Fotoestudi,craft:photographer,41.412279899999994,2.1906992999999995
+fc68a620-8c8c-4c2a-a277-5aed22b9426d,Tree-Nation,office:company,41.39809559999999,2.1920007
+bc0a7f09-3907-46f8-a0c9-2f0a62d575d0,Pere Relats Fundació,office:association,41.4014369,2.2019638
+503e6391-7be4-4c28-bcd1-f72c6ecf6f26,SITA,office:it,41.40115209999999,2.1985303
+b8f435c2-3e9d-48f1-a245-4582c74faeb4,N26,office:financial,41.401150699999995,2.1984654
+b707269f-c76b-446c-9865-e576df5715be,Institut Municipal d'Hisenda de Barcelona,office:government,41.4011132,2.1985146
+98b95f13-277d-4058-86a9-145cdc3a932d,Socotec,office:engineering,41.401130699999996,2.1991063
+12b019c6-7dd7-4523-ab45-2b5d2e459ca2,Centre per a la Iniciativa Emprenedora Glòries,office:government,41.40625659999999,2.1926246999999996
+f1b52775-a315-467f-b0ba-fc0c5f3cab06,Centre de Normalització Linguistica,amenity:language_school,41.40557569999999,2.1904381
+8743c3f7-9785-482f-81dc-d570a767ae62,Labath,amenity:cafe,41.400487399999996,2.1993727
+70286ee2-5260-4f31-8f4d-1c2c49fbb976,Grup Canovas,shop:trade,41.40033580000001,2.1991120999999993
+c60c1516-f483-41d4-bebe-e2307e109a5b,Mercury,shop:trade,41.4002771,2.1990467
+e6e7fd1f-7508-46be-9acb-0d045dea48ca,Local Box,shop:storage_rental,41.400409399999994,2.1992234999999996
+d7f48267-8dc4-4f93-b08b-a1e6306c8860,Mono Cafe,amenity:cafe,41.3990651,2.1974871999999994
+4b4f12be-ee9a-45c9-a5c2-c493b12880f5,Condis,shop:supermarket,41.3996265,2.2034118999999994
+6a4ab5e6-802d-48a8-a12e-1b64d45b2396,Taller Bikes,shop:bicycle,41.3977295,2.2037132999999995
+4c177d8b-cc67-4060-9eac-3d4abace49d2,Little Fern,shop:bakery,41.400244799999996,2.2048037
+d68217f0-7070-4a14-aef7-1abbe4e55886,Martina Vintage,shop:furniture,41.411632299999994,2.2023224999999997
+8c89d341-f391-4323-994a-8de419c06b5a,Royal King,amenity:restaurant,41.40869699999999,2.2049448
+271f9b13-86c4-4095-bf68-3663bcfdd6f4,Condis Express,shop:supermarket,41.4091955,2.2036541
+15908d39-c284-4655-8833-90e4d71d63df,Brutalia,amenity:restaurant,41.408883499999995,2.2040103
+1d6a3191-4905-48e2-9ad7-0212b9445cc1,Vende de Pa,shop:supermarket,41.40934169999999,2.203642
+71ac2cb1-e23c-4e04-945c-5a5562748b4f,Altell,shop:butcher;cheese,41.4080128,2.2036866
+3e3621f2-4d17-4448-be96-d92c6271299c,Casa Gode,shop:supermarket,41.4082483,2.2033473
+7ddf67a9-ad01-430f-8353-e70c7efda249,Bodega Andrade,amenity:bar,41.4167942,2.2020223000000003
+2d88bfea-0295-4237-9072-054644d27496,PAL Robotics,office:company,41.39699860000001,2.1941181
+4eb62070-dd2f-4c42-94e5-d7ee7aa4c946,Fubermotor,shop:car,41.4125819,2.1969253
+e694b283-07af-48eb-a813-c4f63338bab3,Escola Bressol i Espai Familiar de Criança Pere Calafell,amenity:kindergarten,41.417126399999994,2.2037074999999997
+d9ce4683-ba6c-4540-9571-83e5082fc6ee,Condis,shop:supermarket,41.409744599999996,2.192745
+542f4466-5367-4a4a-a065-def76f45e650,Fundació Gentis,office:association,41.4113041,2.1932036
+55e7b8d2-8ff2-4b50-865b-ef5790eb1451,Lavinia,office:yes,41.397229399999986,2.1945963
+3fe73603-c94f-4d32-a070-5168ddf73051,543 - Àvila 94,amenity:bicycle_rental,41.398398699999994,2.1935772999999994
+30078a2c-1a4e-4d95-aade-c41afd9175f8,544 - Àvila 102,amenity:bicycle_rental,41.39903139999999,2.192857
+5c511b73-0edd-4cd6-a019-6898ac2f3a8d,J. Love Coffee,amenity:fast_food,41.4059096,2.1983946999999997
+b0173fb6-eebb-4b0e-8e0d-5bd4ae4bc696,Maderas Sans,shop:trade,41.4113998,2.2021779
+8b090dd5-e703-4a71-baec-0287ce6ad2fb,The Florentine,amenity:restaurant,41.403904999999995,2.1966998
+048c7acc-a2e1-4967-8e48-c6d20a7db9d8,4 Pokes,amenity:restaurant,41.404044,2.1968719999999995
+267400a0-98da-4c09-b8c5-792d05f58d46,Bicicleta,amenity:bicycle_parking,41.39808849999999,2.1916284
+8207626a-fecc-4047-aa30-30f2f8ac8d17,Bicicleta,amenity:bicycle_parking,41.3981743,2.1917528
+96a284ce-2672-4f5d-bb49-a2705e85ba5c,Lulu La Douce,amenity:cafe,41.391825,2.1981747
+f7d96dd7-d79a-4cd2-a57d-0c7eec91af9c,Clorofila,amenity:restaurant,41.3916085,2.1984149999999993
+56bc404f-5b53-4fd3-801e-782c5bbd88d2,Tabacs BCN Exp. núm. 234,shop:tobacco,41.416652400000004,2.1971086999999994
+1f0ef267-1fb9-4b2b-9145-dace3171b13f,Lola Divine,amenity:bar,41.4086987,2.2030706
+5e5c8be4-555c-45ee-89f2-0382c8b87ed5,La Marquesa,shop:florist,41.4017192,2.2027088
+5cfc5c6b-a587-409b-9285-6448ceaa9fee,Café 85 oC,amenity:cafe,41.400437999999994,2.2018882999999994
+67365c95-c026-437f-9524-87d4a57f87d1,SÃO,amenity:cafe,41.403564900000006,2.1976951
+81afc21d-5ba0-4654-9f4c-f87178d7d2ea,Momocho,amenity:ice_cream,41.4038478,2.1973236
+54e96d9d-dabc-427f-bf74-da3f16b3e14c,Taller Fubermotor,shop:car_repair,41.4125026,2.1971247
+4afb289a-51bc-44a3-b487-485aa87892c5,Bari Coffee,amenity:cafe,41.3954899,2.1968060999999994
+f52bf063-a819-4916-8869-30f04b108ed2,DentalIcaria,amenity:dentist,41.39142869999999,2.1976386999999997
+cdbbc062-3fcd-4165-829f-19f2a0e761b2,Luigi,amenity:ice_cream,41.3986728,2.2045945
+b5596b60-9f13-4f60-9703-a21a353e38f9,Art & Aesthetic,amenity:dentist,41.402878599999994,2.204844
+8b27a357-8fdf-4212-badc-9313c90be607,Despacito,amenity:bar,41.404408999999994,2.2037860999999994
+c8bfab06-3a3c-4c03-933b-f52ab0339172,Bona Fruita,shop:greengrocer,41.4048511,2.2032042
+86f0db98-dc19-473b-898b-0a3f52f3ac37,Cafeteria Savana,amenity:cafe,41.4049911,2.2031442999999995
+c44b8cc2-758d-4acd-81fe-f39d9ec9461e,Pels A Punt,shop:hairdresser,41.405447299999985,2.203276
+8af3bda3-468d-4627-a412-dee498043a28,Tut D'avui,shop:convenience,41.405490400000005,2.2041884
+2604b10e-7175-408b-8e0a-0739bf64b919,Caprabo,shop:convenience,41.4053795,2.2043578999999998
+9e8bc5d0-5e03-4650-9cee-764abfb7b334,Feroz,shop:hairdresser,41.405471199999994,2.2046246
+df1a7cc7-93fd-49b8-9b30-439cfedea5fe,Sou Barber,shop:hairdresser,41.4054085,2.2047029
+f4783257-f1f2-4a85-906d-3b34797bb47a,L'Altra Bruixa,amenity:bar,41.4053685,2.2047569
+02076e8a-3a91-497c-9d7c-5e516c14cb16,Verde Campo,shop:greengrocer,41.4049262,2.2047596
+94cc2c2c-f1ba-4169-bd32-bc86f6db5a4d,Mister Minit,craft:key_cutter,41.4054249,2.1915697
+2fdd8338-601e-4976-9bc5-238557ba8b49,Santa Claudia,amenity:ice_cream,41.402792,2.200167
+d3b058c1-281c-4f78-a22e-0a5eee9a024d,Ali Peluqueira,shop:hairdresser,41.4043892,2.2038147000000006
+c2d90868-66a2-4bba-b533-6c40238c3830,Basant,shop:electronics,41.4043899,2.2040669
+dddc2913-75e4-4669-82fc-24975d49a689,Doña Jacinta,amenity:restaurant,41.405773599999996,2.2036618
+2b0c60d6-2d3c-468a-87fa-99fc5b62cdd1,Alpha Espai,office:coworking,41.404622399999994,2.2031067
+0a8c161f-6032-4b79-bd2d-28869eb3c83c,Alpha Espai,office:accountant,41.4045886,2.203157
+5c0d38db-b062-4123-8bb7-7a5306243e67,Fufa's,shop:beauty,41.4047165,2.2029694999999996
+7001c89e-8827-48f6-a3c0-dc361180281c,Loterías y Apuestas del Estado,shop:lottery,41.4047,2.2029952
+08ad32c4-0f5e-4683-9c24-1379d678da22,Otro Romero,amenity:restaurant,41.4084601,2.1957378
+fa7a625b-8e37-4663-9ed7-ffba7ecb1f59,Lola Botona,shop:clothes,41.4045655,2.2035861
+bde897a6-6f8e-4c09-8a56-09fa771dcdb5,Sumibat,shop:hardware,41.4046216,2.2035005
+14a6a546-387b-41bd-8376-c97d21725cd3,Mejuto Interiorisme,shop:interior_decoration,41.404699599999994,2.2034021999999998
+040e655e-f00e-438f-84b1-ba3ebcc22187,Can Vicens,amenity:bar,41.4050382,2.2025242
+c385ad0f-3f24-42db-8516-bf7cabf22fc2,Tallers Moya,shop:car_repair,41.404938200000004,2.2025270999999997
+6fe27559-c737-4430-a132-b13af0cc917a,Casa Fino,amenity:bar,41.40520209999999,2.2023483
+350aebe9-28de-44de-b811-c2ca2d81aa6f,Ópica & Audio,shop:optician,41.4054653,2.201997
+c409cb76-496c-4367-adab-2f0b1ba564c0,Coaliment,shop:supermarket,41.41657579999999,2.2008358999999995
+fa805399-c3f0-4069-ab87-6b61e80c9452,Manolo Bakes,shop:coffee,41.4055794,2.1921036
+81161921-634b-4e75-bce5-0672265433fe,Condis,shop:supermarket,41.3918898,2.2006337
+ce95cc85-80e5-4bea-98d0-2f09d564229b,All you eat is love,amenity:cafe,41.39170959999999,2.1914167
+16b429ac-bbb2-43a3-8cb3-9e1c19ce5e36,Rosacruz,office:association,41.4044294,2.1984638999999997
+61127e6f-28a4-4ec7-9660-0ac1d19773a0,Casa de la vila Districte Sant Martí,office:government,41.40899242620734,2.191893742630415
+fe8f6ba7-b478-4966-a63a-0d71d94b9ae4,CUAP Sant Martí,amenity:clinic,41.414019069013555,2.1971297166926314
+a234fbf2-62dd-47ed-b476-cee73cea6a0f,SGS,office:company,41.396503339428854,2.195549131593098
+fb35d679-7877-43da-9d1e-563f4aa837fc,IAAC Institute for Advanced Architecture of Catalonia,amenity:college,41.39656961079965,2.194548828823725
+dd6881d6-a3e8-4626-ab6f-3bb9865c8c4a,Centre Escolar San Francisco,amenity:school,41.41662665546833,2.200364266357634
+309730ff-579d-4e8a-bb6a-941a7cace7aa,Parroquia Sant LLuís Gonzaga,amenity:place_of_worship,41.41616296466702,2.200470074081913
+25d7fcd6-9a84-4b52-9770-e2f123c9899d,Plaça de Montserrat Garriga,leisure:park,41.41487172712028,2.1958878178453265
+f8b73098-a251-4895-9d17-ad2d8de27b72,DTIC,amenity:university,41.403551217419384,2.1945906422265025
+bbd3d507-ce71-4543-ae41-360f20c32849,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.4039683021222,2.1940569665796366
+3f622e2c-bc6a-4e64-84e3-2816e791e597,La Fàbrica,amenity:library,41.40420056521786,2.194394336188654
+4b8cce63-fa68-4271-ac31-f6da66d58cea,Edifici La Nau,amenity:university,41.403792021993624,2.194284381506132
+cbefdac6-7bc6-446b-a22b-f063eaf4c48b,Edifici Roc Boronat,amenity:university,41.40377823888533,2.1935747360338307
+63fbb4c1-f4b3-4e3e-8089-df4f8819e01f,RBA,office:company,41.40422982346338,2.1929359642349877
+dbf6ff7a-5a2a-4e74-857b-d74edceec4e2,Àrea Tallers,amenity:university,41.404371909913145,2.193772437052622
+e78af20f-d707-4344-89a6-81d342265f06,Glòries,shop:mall,41.40534146791912,2.1913207388567404
+ee8294c6-8abb-457b-9f42-ae9f4ed37a4e,Escola Catalònia,amenity:school,41.41253958977201,2.2008323540301484
+6fe09448-be73-4e53-9b3e-98f1bf56021c,Complex Esportiu Municipal Olimpia,leisure:sports_centre,41.41332146890333,2.2018369928596684
+da39f373-e646-49bb-b30f-6640e884ba4d,Escola Bressol Municipal Dolors Canals,amenity:kindergarten,41.41431813848499,2.203375503434048
+d5f296fc-ad1f-411d-8d2f-dbbd032d8f15,Joan Roca Guipúzcoa,amenity:school,41.414055007133946,2.193559269742662
+1f3def07-bb69-4e5c-b1d4-8717a466899f,la Sagrera,amenity:school,41.40128866010554,2.1925549062224134
+4ecdc8e1-f7da-4d05-a430-8af76d5cd713,Església i parròquia de Sant Pancraç,amenity:place_of_worship,41.401117140938,2.1925103312004097
+a2242383-b28f-43a7-8a97-d46477d9e130,Jesuïtes Clot - El Clot,amenity:school,41.412903079188396,2.191054351519992
+4602142b-ecd4-4c52-b496-5546e0b15ea6,Plaça de la Infància,leisure:park,41.413603079218085,2.1970561273061064
+1285fb62-8c34-4271-896a-8fda144dacc8,Santa Maria del Taulat,amenity:place_of_worship,41.40235502060015,2.201962647406907
+3c51d7b5-f10c-4777-9b2f-52fd297c728e,Col·legi Asunción de Nuestra Señora,amenity:school,41.402450680515315,2.200310561478559
+7c8134c2-b375-4e2d-bb45-c4b31111bf5d,Sala Beckett,amenity:theatre,41.4045793799523,2.199597795680171
+894b8841-fc9b-41e0-b3ba-9cfa632ac4a2,Centre de recollida pneumàtica,amenity:recycling,41.40672894188764,2.198932251627759
+1836ecb5-08a6-4063-84db-612b6ee373a7,Parc del Centre del Poblenou,leisure:park,41.407806206500204,2.2012469892613846
+a3f67c4f-5e2e-4bd6-bc75-fdb3afd48643,Casino l'Aliança del Poblenou,amenity:theatre,41.39987376010406,2.2033770651214515
+0ffd4c5f-e321-4ca5-92db-0e38ebd7de74,Hostal Poblenou B&B,tourism:hostel,41.398244157380915,2.2044726442117115
+a8f8419a-7403-4e19-857f-c187ef55e16e,Ateneu Popular la Flor de maig,amenity:community_centre,41.39793821047367,2.2021965027264847
+1bc39b76-c4ea-45d1-8e3c-e28a379fae0b,Jardins d'Alícia de Larrocha,leisure:garden,41.39565053189474,2.195760162948762
+88b62c92-c3a2-4f77-a2b7-97d7b4abc8dc,Jardins d'Alícia de Larrocha,leisure:garden,41.39587003496926,2.1960533079366367
+0adf5455-18c1-4556-a970-b59e0b263da6,Sesaelec,shop:trade,41.394818741527416,2.1971194165386176
+e2e36993-b257-4f21-9629-2ab1832af748,Matachana,office:company,41.399872533455266,2.1942986263340125
+555f4b71-3ab2-4dd3-be70-bfa6c899a30f,RNE-TVE,amenity:studio,41.4028326284355,2.193981310631046
+cbc5b7ca-1635-41bf-9325-28c1a51f0e81,Parròquia del Sagrat Cor de Jesús,amenity:place_of_worship,41.41087587359749,2.204553079645844
+b9f8db96-bfb8-472e-88e3-d648829c9624,Escola Sant Martí,amenity:school,41.404435108586334,2.197661644386005
+fc44b872-2304-4b6a-9946-a5c3515578f1,Parc de Carles I,leisure:park,41.39030286974243,2.1934658103559697
+71e8643c-98c2-431c-b54f-92c6785a15ef,Jardins del Clot de la Mel,leisure:park,41.41197318779108,2.1947023392631846
+6e5bd871-1736-4924-a0db-61174bc08703,Plaça de Dolors Vives,leisure:park,41.41443380918464,2.203146305108215
+84dc431c-f894-49ba-9a2b-1dbb20ff9bd5,Plaça d'Espronceda,leisure:park,41.41025059268647,2.1976611002558295
+ec47534e-b932-4a54-bbb5-a3ae019e2ce0,Parc de Sant Martí,leisure:park,41.41976503517724,2.195340947112739
+f9a8c5cb-755f-4ff5-a4e6-088184ea0e15,Jardí de Xavier Benguerel,leisure:park,41.403855845109845,2.199623169766546
+64ca3b08-e175-4197-a0d0-7319b8395484,Parc de Nova Icària,leisure:park,41.39161763874387,2.201969513659428
+0446f3ff-30a6-4cda-9b76-49c26047864d,Plaça dels Porxos,leisure:park,41.414431016396996,2.199392437541343
+c1a9f89a-951a-43d2-8004-5e260ed5a5fd,Parc de Bombers de Llevant,amenity:fire_station,41.40519112475265,2.1986828809447365
+1ed481f5-920d-4cd0-be56-6e47dcb284f2,Four Points by Sheraton Barcelona Diagonal,tourism:hotel,41.405312683875216,2.1962252024656217
+15195c13-829e-4439-a0c9-c552f52cda8d,Jardins d'Ada Byron,leisure:park,41.404767685921534,2.1950628996040527
+2016019d-b8c7-4d27-a692-701320f780ed,Plaça de la Creu Roja,leisure:park,41.40724452175559,2.1938399690009995
+36d63d8e-68fe-41a0-a522-9405f30399b9,Mercat de Poblenou,amenity:marketplace,41.40085054674529,2.205249832574309
+14df0985-7c06-437f-bf26-3651497ac42c,The Hoxton,tourism:hotel,41.403609466263575,2.190280093329822
+820b1bc9-8e5a-45bc-ad44-7bb07db3efb6,Novotel Barcelona City,tourism:hotel,41.403823588790786,2.191221457182612
+858d985d-3672-48d6-b672-e5af4ec1edc2,Plaça d'Eduard Torroja,leisure:park,41.41533200147439,2.199802786893148
+4696ea21-acfe-4744-92d7-14bcebe816a1,Parc del Port Olímpic,leisure:park,41.389206264793145,2.1983848646495914
+c1d74a71-a8cd-4a10-a92d-4137ab05b288,Escola Antoni Brusi,amenity:school,41.39089881211818,2.1892917783448644
+96bbf4c9-f517-4ea8-9240-dc14136e57a5,Parròquia Sant Felix,amenity:place_of_worship,41.390520607244966,2.189845062178502
+ea193855-850c-4911-8484-786ed3958402,Centre Cívic Can Felipa,amenity:community_centre,41.40384293354005,2.2003508224864756
+2eb645b2-0623-4e4d-b995-49aed06e929a,Escola Les Acàcies,amenity:school,41.404236907131015,2.2047286585519683
+e79cf156-f576-49c9-9375-8b6b283bd249,Escola La Mar Bella,amenity:school,41.39986977170476,2.2045732867601484
+49ce2454-94e7-4300-bd12-018083a836fc,Jardins de Josep Trueta,leisure:park,41.404067266395764,2.205310602016901
+1d30989c-c240-4b4d-9adb-239fa81dd2e7,Poliesportiu municipal Can Felipa,leisure:sports_centre,41.40415959048926,2.2006302032448843
+08e1404d-be00-451c-ab68-de941d45ec76,Can Framis,tourism:museum,41.403177284865805,2.1949362441816187
+d390dfa7-ed11-4a26-9e5f-835e06e904c4,Biblioteca Xavier Benguerel,amenity:library,41.39267145747309,2.197895061288812
+02226ce6-c51a-45ba-a4a5-c1c0a7fcc20b,Pàdel Nova Icària,leisure:sports_centre,41.39317563936936,2.197642163001831
+b9c21f80-267a-46af-a611-667534afacc4,Centre penitenciari de dones de Barcelona,amenity:prison,41.39335555383225,2.197006225188978
+b7f8b39a-edc3-4210-8660-d3e58b573f50,H10 Marina Barcelona,tourism:hotel,41.3931500504539,2.192623212435567
+14b3ebde-1d2d-4b69-9c41-9ea32d329b7a,Parc de Carles I,leisure:park,41.38912225559875,2.1934275808513872
+8c01054c-5f00-4939-94fb-82deaf22a20d,Institut Icària,amenity:school,41.39384495063634,2.195965104639548
+a2d13cec-4610-4f28-818e-a9d9c8440944,El Centre de la Vila,shop:mall,41.390957474007195,2.197798461657145
+0d151f50-6182-43ca-b8be-06fae8b9601e,Repsol,amenity:fuel,41.392629132253056,2.1929254730170844
+ac47ac13-ec52-4128-8661-a46de8a1cc34,Jardins de Margarida Comas,leisure:park,41.39231943100413,2.191460823723924
+74756e40-67ad-4cd9-b568-f49de500811d,Neumaticos J. Argemi,shop:car_repair,41.391781888171536,2.1917148439723957
+12c0ed44-9456-47de-91bd-5c79e1078c3b,Campus Ciutadella,amenity:university,41.39040947211164,2.1890183380647676
+9b472bb5-061f-4ba9-bb0d-f8271b6b459f,Meliá Barcelona Sky,tourism:hotel,41.40611352177962,2.200791240150109
+169b1e28-10d5-48be-9512-ec2a0c289a99,Diagonal 197,office:yes,41.4039240275596,2.191581487642444
+3e95d964-8f45-4d0c-aa73-f3596f150157,Torre Llacuna,office:yes,41.40672435855718,2.1920188039823616
+cedfddeb-28e4-4885-8e03-1ae6389f5e39,Jardins de Ca l'Aranyó,leisure:park,41.40347351877584,2.192600295449748
+9496939b-7b80-4126-8a0e-7d7813dab79a,Cuatrecasas,office:lawyer,41.40413420220778,2.1921279730628456
+e9913316-c9b4-4ed0-a005-74a0c7480576,Jardins de Miquel Martí i Pol,leisure:garden,41.403210488282724,2.1950719750606953
+c6a92117-b539-4ee8-90be-e2928f43635e,GAES,office:company,41.40188451807355,2.1972733205517994
+cab5311e-e1d6-41e2-bf59-6f7a1decfdb3,Parc del Poblenou,leisure:park,41.39522190225519,2.204683394257861
+3cb158c1-e881-4847-bca7-6a90c83f2047,IL3 Institut de Formació Contínua,amenity:university,41.402664266304676,2.1920940201929686
+86e833c7-5487-4046-8dd4-65e5295b5925,Comisión Nacional de los Mercados y la Competencia (CNMC)-Efe-Casa Asia,office:regulatory_agency,41.402438018645356,2.191362738008832
+b8cac50d-69d6-4e8d-bd0c-79bae4f76919,Centre Meteorològic de la Vila Olímpica,office:government,41.38961395672683,2.200210184312827
+4861d0fc-503d-4eaa-9e88-98608be61440,L'Escamarlà,amenity:restaurant,41.39250964369643,2.204675679022927
+61ddb3c1-4462-417a-b813-a90f48df77ea,Jardins de Mercè Plantada,leisure:park,41.39483268614733,2.1949873058664893
+03e34988-f54d-4b1a-ba4a-cf9a700e4c10,Médicos Sin Fronteras,office:ngo,41.39453080579082,2.19232803592155
+fcb6fd9c-d5cf-4a31-96e1-e6e2731d6233,Sallés Hotel Pere IV,tourism:hotel,41.396892235028005,2.1924717013112587
+0cf82e4a-647e-420b-a429-18e5e81a342d,Netmind,office:educational_institution,41.39737339939504,2.190043731736384
+4312b1ec-51ff-4773-ba48-e7f5c9fdfeb8,Villa Olimpica Suites Barcelona,tourism:hotel,41.39742977230033,2.1920359857634613
+4110a1a0-66a1-49e3-a87b-9267d4975aa4,Espacio 88. The White Wall,tourism:gallery,41.39700064809212,2.1914598077693745
+0235c9e7-9050-4a8b-b9c2-e45205fe6b9d,Best 4 Barcelona,tourism:hotel,41.39595285302154,2.200892558328303
+7b5ac94c-4103-4282-b353-3228d6f3b230,MTG Metalogenia,office:company,41.39565991993803,2.1964314956570616
+1b9570ae-98f2-4a32-9517-76199eae2969,Auto Almogàvers,shop:car_repair,41.39957678767154,2.1926547948875936
+fb7ca130-1c18-48f2-8b80-40fb0915b09b,onair,amenity:arts_centre,41.398955642886655,2.194262450454848
+5ba09adc-d71d-4d60-82ab-f0f45cba9307,Hospital Evangelic,amenity:hospital,41.40139849834671,2.1944988086198722
+ecb7b903-ffb8-46f0-8365-9efc02d7c841,Centre d'Urgències i Emergències Socials de Barcelona (CUESB),office:government,41.399003688408534,2.2012283214097734
+9e85ea6e-357c-48f6-b527-5e99f72f57b4,Casal d'avis del Poblenou,amenity:community_centre,41.40150535558586,2.203746310921494
+726d305c-4861-4759-8f14-90dcae33a97b,Jardins Leonor Serrano,leisure:park,41.41097740983555,2.193358837589992
+6f83945e-66ab-4d66-83c9-ddfbe4d5a992,Jardins Teresa de Calcuta,leisure:park,41.40534236518217,2.2012414607984074
+bff14320-553c-4859-897e-fb8f1dd0e071,Jardins Teresa de Calcuta,leisure:park,41.40618725319143,2.2023366806694935
+47d55eef-b1c6-4eb5-9635-33f5c5fda653,Escola Bogatell,amenity:school,41.393227238274726,2.1949521757595436
+2ced4f69-23fa-4fb3-9721-3cac63ad5487,Centre d'Atenció Primària Poblenou,amenity:clinic,41.40572710044465,2.2023749597260576
+8bbd16ce-c2f2-40f1-ac31-bbbc791e1327,Escola Bressol Municipal Júpiter,amenity:kindergarten,41.40406662250095,2.204720773361757
+e6598ab1-82f3-4108-af9c-b1466c4f7463,Quiosc,shop:newsagent,41.40397020297904,2.2039824760368436
+c333656b-174a-4f72-89e7-89436a568125,Hotel ILUNION Barcelona,tourism:hotel,41.398923473297096,2.202459296990899
+934ad0b3-31f1-48a4-aae6-ecf92ddb1a34,Complex Esportiu Municipal Clot de la Mel (CEM),leisure:sports_centre,41.41120623363788,2.1957149334731314
+6c3492ed-280f-4e94-b980-fec4e5c73d46,Escola La Caixa,amenity:school,41.41693705918265,2.2033655807778625
+8dee2a33-6ba6-420a-9f3a-78cfb595f911,Jardins d'Ana Figuera,leisure:park,41.41643538808278,2.2023680919396877
+17fcc414-e904-4f78-b73f-fa83f365673f,Plaça de Mercè Capsir,leisure:park,41.41520898506429,2.1966448627192237
+babb47bd-6824-4f62-84d8-53b083f025a1,Plaça de Soledad Gustavo,leisure:park,41.416327554119505,2.1979020518819414
+e3f62de4-9458-422b-a687-6451a8f1e3da,Centre Esportiu Municipal Júpiter,leisure:sports_centre,41.41750506785816,2.2025327581110976
+de0f559a-bb08-44ff-a10d-fd7ea2faaaa8,Club Bàsquet Alisos,leisure:sports_centre,41.41671735710948,2.203430768723903
+4f40204d-3b5b-4840-862c-0b2a995b0760,Escola Bac de Roda,amenity:school,41.416083126643,2.1938534892954547
+315a8d5c-18ed-4791-b28a-33f12e0358c9,Escola Brasil,amenity:school,41.41587269243951,2.205089429477678
+9ce96ff5-f8d3-4271-8016-162863bdc644,Pavelló Poliesportiu Municipal La Nau del Clot,leisure:sports_centre,41.407637726116974,2.1910472525065896
+a7547aae-de7a-456c-8a37-d28719821d64,Auditori Sant Martí de Provençals,amenity:theatre,41.41596695102631,2.199158990433037
+d95cbe70-457b-4f3b-a94d-3abd0fa94f4a,Institut Infanta Isabel d'Aragó,amenity:school,41.41602665125777,2.1995539781019127
+edccf022-20e6-4972-8ea6-b6ff74ede447,Institut Joan d'Àustria,amenity:school,41.41591605469649,2.198824720722125
+a6cebb4a-8e17-46cb-912c-ab0535945560,Q8,amenity:fuel,41.39618899967039,2.201173723464014
+3137472c-e8aa-46ec-94e4-b424e41bfd61,Travelodge Poblenou,tourism:hotel,41.39988092402261,2.201166762417984
+c093ef9e-7707-4405-8637-5f5080ec3037,Camping,amenity:cafe,41.39531902747381,2.204240163680835
+cb1a18b0-a241-449d-9c5a-3c1e1100f664,Escola Bressol El Bressol del Poblenou,amenity:kindergarten,41.40955779654449,2.1968980415090846
+d93a7a29-334e-40c1-a1ec-f12d67cca5c1,Club de Petanca La Palmera del Poblenou,leisure:pitch,41.40934840376222,2.196697211139079
+ad19eefc-a151-499f-a00b-156f3ed1c9fd,Escola Poblenou,amenity:school,41.40988103821978,2.1972858982112995
+97d992fb-ee03-4f0a-8992-5ca717d6c81b,zona ajardinada privada,leisure:park,41.40845909471132,2.1954028031141744
+26250576-f92a-43e3-8b9e-c78cb308b8cc,camp d'esports escolar,leisure:pitch,41.4082833472254,2.195206284137977
+85dbf308-c045-4da5-8d47-48cee0388657,BSM Ona Glòries,amenity:parking,41.40453196234737,2.1893168927375393
+264f3b35-258d-4fc9-b86d-d14eb0b9a373,El Patufet,leisure:playground,41.40492866577731,2.197970887607562
+ad89967e-42c6-44bb-8811-21c68d6db89f,Edifici amb serveis per a gent gran. Glòries,amenity:social_facility,41.40317675503202,2.190988426581587
+25169cee-a86c-4707-995d-a76049d43424,Parc del Clot,leisure:park,41.40780971158256,2.1902616698738964
+24f63df7-548b-4157-94b8-264e4a98ff2f,Punt verd de Barri del Clot,amenity:recycling,41.406902425531456,2.189577399022933
+7432a4c2-91e0-4a00-91d0-b7bac68b3c41,Casal de Gent Gran Parc del Clot,amenity:community_centre,41.40846676561369,2.19175666209672
+2038fdc3-ac42-4927-8f55-063387f97626,Escola Casas,amenity:school,41.4082758076744,2.192469512292014
+a0360296-c796-4e63-99df-2243283fe97d,NH Diagonal Center,tourism:hotel,41.398134106418304,2.1923830581212824
+5ae9d535-92e0-4174-9643-f3dd235562c8,Razzmatazz,amenity:nightclub,41.39758569149462,2.1912501409207215
+ca4c5dcb-bc0e-42a6-b5d7-33871498ea55,Jardins Irene Polo,leisure:park,41.405863366798414,2.193762303516094
+363e761b-f00d-4025-95a2-1ee626303781,Turó Park,amenity:fuel,41.410934584590905,2.1989036364404018
+1e8ece42-f2e7-4627-b4ff-585080d48400,Mercadona,shop:supermarket,41.410602584987814,2.198433789823641
+a2509cff-2eca-417b-b9c9-ba9e21de7c98,Rodi,shop:car_repair,41.411315599820355,2.1993901556196476
+ed9be734-c665-4357-913d-4835214db9d3,Jardins de Simone de Beauvoir,leisure:garden,41.402163542163606,2.2049508494946752
+b2306a94-aef6-4d15-ac83-36dc3f2d9d5a,CFA Montserrat Roig,amenity:school,41.404258233562935,2.1973922983643006
+f1203a6b-5182-48ed-a5f0-cfeb0dc3fadd,Comissaria dels Mossos d'Esquadra a Sant Martí,amenity:police,41.40116414012383,2.189397875927797
+18a9d1bd-dc79-4591-a0e8-b2a743e77778,Escola Rambleta del Clot,amenity:school,41.410464678523425,2.1900112277888044
+b3affc4d-a05c-4204-9af0-1a3d03d3c60d,betevé,amenity:studio,41.400721999270466,2.1940003253117664
+469d5cf1-242f-4d90-8b1d-b97d42f37a76,Centre Cívic Sant Martí de Provençals,amenity:community_centre,41.416594328789756,2.198533698219687
+b9a75e3b-ef4c-43f0-90c4-6c86239f566f,Federació Catalana de Basquetbol,office:association,41.41454215981738,2.194184992297217
+def0c948-5e28-4192-bee9-1e0e966942d7,Hort Icaria,leisure:garden,41.39388272686508,2.1977608151867125
+63c0ab1a-b850-433c-b76a-0754d3e9e14b,Jardins de Tecla Sala,leisure:park,41.40680392449961,2.197104051416164
+64974fe4-5a9a-4e61-9974-7b0f1a737cd9,Leitat,office:company,41.40048210032554,2.196565386565575
+96b3e6f2-3830-4048-aa5f-0f1dd8b38e2f,C.E. Júpiter,leisure:sports_centre,41.41794771501452,2.2026301642148933
+cba322b7-6623-4747-b1a9-e61f0e5c7e50,Hotel SB Glow,tourism:hotel,41.40217460517378,2.191150125978428
+f997c41b-1576-47d2-806f-90fdb0235fcf,Golden Hotel Barcelona,tourism:hotel,41.40011824312159,2.190848761763067
+24a43e07-5a2d-44c4-83a5-7efda08d267f,Plaça de Dolors Piera,leisure:park,41.40184598486658,2.194795152886921
+90b2d65c-b2c9-4fea-8990-b6b410219e57,Plaça d'Isabel Vila,leisure:park,41.40150775763311,2.1952093404190585
+78af4d97-eb53-4eac-8bbc-425df1314184,Plaça de Josep M. Huertas Claveria,leisure:park,41.403677144315374,2.2006143638220075
+0ce28c4e-a90d-4fc1-98d1-35fe20d7ac88,Punt verd de Sant Martí de Provençals,amenity:recycling,41.41551304662524,2.200793427537502
+98dfe97a-9f96-45eb-8714-4637f0443c06,Brigada Provincial de Extranjería y Fronteras de Barcelona,amenity:police,41.417126726336825,2.1992464429297627
+4c7c31b6-3a59-414a-93a9-0258993c8736,Camp de futbol Sant Martí de Provençals,leisure:pitch,41.41547982542967,2.2014368644020768
+785cdd1f-266c-42cd-afff-74ac94f9ce66,Escola Els Porxos,amenity:school,41.41487473896595,2.1980928936960407
+0eae461f-4707-4294-8a88-852a1f0f5901,Oficina Serveis Socials Verneda- Sant Martí,amenity:social_facility,41.415574545854426,2.1989443236055157
+60b92ceb-59b0-4c51-995d-bd9f46a820a9,Complex Esportiu Municipal Bac de Roda,leisure:sports_centre,41.414591147468265,2.193448614220046
+6c7ccb1a-81d3-4943-8204-f2b506e84b38,Centre d'educació Adela de Trenquelleón,amenity:school,41.41394780892572,2.194642688879565
+829ee703-84f4-463e-b583-6a871659af6d,Escola Infantil Copèrnic,amenity:kindergarten,41.41294761705093,2.1957943510645963
+46397bd7-771a-4b7b-af11-5384583f904a,Ibis Plza. Glòries 22,tourism:hotel,41.401004270571,2.1942291993353393
+c62b207f-84c5-4dcc-9f5e-cb8d35b72bb1,Porta 22,office:government,41.40634624546888,2.192234106259369
+0b8ec663-27e4-4e8c-b9d0-1caa4a407946,Escola Provençals,amenity:school,41.4079571792147,2.194771091978557
+ce2e5d7d-d451-408c-b8fa-57300166588a,Guardia Urbana,amenity:police,41.40857008073062,2.2011259586749143
+9b3a6af3-f7cb-4926-9d2e-9edb5a653582,Petroprix,amenity:fuel,41.40016292801049,2.193792652371828
+31ad64a9-6809-45be-918c-970da3f783f8,BP,amenity:fuel,41.39934235098434,2.192721430466634
+bb474b20-a51c-42cd-8c3c-83b7970126c8,Escola La Flor de Maig,amenity:school,41.40258463924657,2.1960949709733355
+9fd1d74c-0a4a-4d26-902c-485b76cd9dc8,Escola Vila Olímpica,amenity:school,41.39383879923395,2.202795064227071
+ee8c236c-2bbe-4383-ae9c-2f35fedf243d,Escola Mafalda,amenity:school,41.40669824535213,2.192986262126751
+41499c2d-76d3-4591-98dc-bbb438789d73,Ibis,tourism:hotel,41.39482954471431,2.1933073015555067
+9a18c053-d67b-4ceb-91b9-31af3faaddcf,Amazon BCN10,office:company,41.40148253192682,2.192123905414532
+1440508b-4506-4397-8996-14e0859d0e24,Escola Bressol Municipal L'Estació,amenity:kindergarten,41.416436565679405,2.1941123422237543
+6b22a770-4a1d-40f4-9918-137e099ddee6,Plaça de Maria-Antònia Salvà,leisure:park,41.41568970472232,2.1970157812228694
+57ab8ef5-5377-45e2-9ad3-1f97e6daa68b,Jardí de Joaquima Raspall,leisure:garden,41.414563395855,2.197538880067896
+dfbe5098-2d42-4c15-b013-f1544f06f3b6,Plaça d'Eduard Torroja,leisure:park,41.41470821481185,2.1986072653694997
+fe2696c2-d797-4cc7-8ad8-91c738c83db1,Casal de Barri Villa Olimpica. Can Gili Nou,amenity:community_centre,41.39523135404908,2.2007496512878024
+d8f32dae-b7bf-43c0-abf4-e47f40ca13ba,Església de Sant Francesc d'Assís,amenity:place_of_worship,41.395949730971914,2.1981258735354547
+ec5266fa-f73d-4d5b-b253-49dc12fc35a5,Seat. Autofuber,shop:car,41.39683216892165,2.1981285547514067
+7ba4f939-881f-4502-8e2f-1e750d2fb605,Sala Poblenou. Centre Moral i Cultural,amenity:theatre,41.400998715590084,2.200223485206522
+6e0067eb-7bdf-4887-803b-f73bb0708364,Institut Poblenou,amenity:college,41.39821987620799,2.203458525091666
+eea4495e-e007-4f56-9523-10d63312e7dd,Església evangèlica Poblenou,amenity:place_of_worship,41.400104581604204,2.2006003645049845
+42e3c44e-1c6c-434f-a4a4-474bbf2bad8c,Institut Quatre Cantons,amenity:school,41.40440410156957,2.2001229535008067
+94118f18-6f36-4c92-bc40-e43223b12528,Escola Pere IV,amenity:school,41.40482475340063,2.20021556092327
+cbbbac19-3181-4d0d-b110-e38aed8aee1b,Placeta Vilarasau,leisure:park,41.40642635576517,2.1982676620324177
+8ba7db73-5ccf-4d50-bc8f-11b49c752ddd,Escola Bressol Municipal l'Aliança,amenity:kindergarten,41.400550972091786,2.2006496506620983
+c9738c0c-0d7a-454f-b19c-ebb2d7d5e0d5,Club Petanca Poble Nou,leisure:pitch,41.40465168650047,2.205094577339602
+7debb226-6fea-4938-9ca3-1d722e3fc0ed,Nova Icària,leisure:miniature_golf,41.39328381810357,2.1977299516982414
+23288e79-0361-4dd3-b7c2-0d3e75e3d6c6,Trueta 200. Espai per a la inclusió de joves amb autisme,amenity:community_centre,41.39784164446037,2.202803322087171
+fc9ae55c-bc80-43bb-ae02-3d955d888f80,Ideal. Centre D'arts Digital,amenity:arts_centre,41.39760334598963,2.2028287220779954
+c2a6c9ae-5d46-497f-b87a-af9129fd8884,Hangar,amenity:arts_centre,41.40864990312491,2.1994394680711946
+bf473e46-0f41-4f57-ab20-2ce2d1b5b93e,Casal de Joves del Poblenou - Can Ricart,amenity:community_centre,41.408047012590536,2.1995367174859948
+f0345346-34a6-4096-bfa4-9b973bfcf2d7,wework,amenity:coworking_space,41.40186773782597,2.1929896635554846
+3cc03698-7bb5-4af8-ada4-d505e172a84e,Estació: Ciutat,tourism:artwork,41.39830402153358,2.194574432813271
+8e1ed20e-97f9-43d5-b896-907d58f98690,Institut Maria Espinalt,amenity:school,41.40577943514709,2.2029026802184166
+2cdd2a11-b907-41a9-9b75-0520675fbf46,Escola Bressol Municipal Cobi,amenity:kindergarten,41.39438189095508,2.196046454668763
+bc22b256-b469-44ec-bb5a-29c59e9f85f7,LCI Barcelona,amenity:college,41.39950784912496,2.190190331433161
+5326d9fa-7d34-4c83-9527-0ace375e2862,Mister Traster,shop:storage_rental,41.4020174178999,2.1926385154331762
+da4dacc4-30af-4802-a2d8-631dd23f5dcf,Escola La Llacuna del Poblenou,amenity:school,41.40212031843789,2.1983175282501612
+bdd32234-78c3-4152-8785-2a336d8e82be,Campus Poblenou UPF,office:company,41.40437866076484,2.1936474320155557
+c99f1d28-22b8-4e25-8e31-2420271ba403,Llar residència Llull 163,amenity:social_facility,41.4002967899063,2.200862271418791
+0ae600c0-d707-4f59-ae00-9098da564ebb,Els Xumets de la Víbria,amenity:kindergarten,41.39862591884735,2.2039259575047123
+728efec9-cafa-4c02-9a5c-0a40e94434f0,Mano de Santo,craft:carpenter,41.395283985817784,2.2002479788224503
+689b42ff-fe72-4f51-829c-8db8d4c7e132,Zoopa,office:advertising_agency,41.3959996991056,2.200416452636442
+8a82e964-4fe5-4515-bcbb-7d6dceb2c28e,Spaces,office:company,41.40122142536953,2.1974009237665157
+77ea794f-686e-4ad3-a68e-49c9c6e558e5,Holiday Inn,tourism:hotel,41.40173233418045,2.1977020200600466
+436acb79-432e-4254-b9aa-0eddfd9baa6c,Dorflex,shop:aluminiom_carpentry,41.399237258771834,2.1988679622953815
+b31438a2-d2ed-40d7-a64b-cf5b0554906f,Sallent motors,shop:car_repair,41.39820708218515,2.1988394785680647
+6c4a667e-c097-4b73-a113-e59ec8e9d67a,Sala Bóveda,amenity:nightclub,41.3983345492832,2.1999547794128516
+9cda7da0-ceda-4604-8483-6eaf871c8f80,l'Idem,amenity:college,41.398480164710186,2.1974663757410804
+08846477-50d4-4811-a889-8feb256439be,Agpograf Impressors,shop:copyshop,41.39806616341126,2.196647293862083
+c25817b3-868e-4b98-a1cd-209fc109ee70,Valkiria,office:coworking,41.39835079317521,2.196751560942947
+bcdb145c-2dd8-4a93-9e2f-222c912024e1,711rent,shop:photo,41.39786430982625,2.1983581810562387
+d5da3d44-d33b-4ab0-a7ad-2d8d6195f857,The Middlemans,office:company,41.396684295858456,2.199694320893475
+f6aeba65-7c63-4c16-9c93-632249cedcda,Liken,shop:furniture,41.396971832777105,2.1993994256722016
+914802f2-2b48-4d0c-b1f0-ebcfaa405b2f,Spaces,office:coworking,41.39612578517072,2.199457018226747
+2b460327-d7ad-40ad-9f9c-63bdf99eaf07,estudi78,amenity:arts_centre,41.397648424122316,2.1947622141715364
+6df23ed6-e6de-457e-b87a-554c33ddf556,Story,office:advertising_agency,41.397760859225365,2.1947411955334615
+664a6518-9a8a-4e99-b520-0808d086c897,BAU. Centre universitari de disseny,amenity:college,41.39750887124751,2.1962168771855612
+b6b08dbb-90aa-401c-8c8d-2d57bb9a1f03,Impact Hut,amenity:coworking_space,41.39734191063326,2.1955315951565417
+e9bc4b6a-5aba-4387-a1f2-6c37a31857be,Aparthotel República,tourism:apartment,41.39784079277297,2.1959952540287646
+41c21d0f-e5b6-4c1e-83b1-0c06b95e12bd,Escola Voramar,amenity:school,41.39586291866269,2.198315475133761
+737c6457-da8c-41c6-b7b8-6f82446ac388,Església de Sant Francesc d'Assís,amenity:place_of_worship,41.39594972274465,2.1981258734911626
+6ffa891f-adb1-45a9-af98-643b797faba2,AMC Networks,office:telecommunication,41.395349262497284,2.19857203339166
+ba744adb-6040-44c7-af6d-f38a51ad6089,Adam Hall,office:company,41.39572092427096,2.1979204117050553
+ae20e83a-1c36-4bab-9f5a-b87704a22c6d,SystemAction Outlet,shop:clothes,41.39584546056764,2.1986734565733395
+afc6f6aa-afef-4280-ba17-9f56e1a26f37,Evolution - Pere IV,amenity:fuel,41.39737215616159,2.193052380370189
+da764795-b362-4f0c-ac4c-88e9af3ecee7,SB Icaria Barcelona,tourism:hotel,41.39373082311888,2.1991548636028266
+46fbe175-a591-4e7c-bde4-94b6500849dc,Soundstudio,amenity:studio,41.39618512090093,2.192912950696881
+f999659f-e903-4b5e-8cb8-dbe02f415803,Consulado General de Reino de Marruecos,office:diplomatic,41.39637128214068,2.1933675000832773
+8ddcbe3d-9704-4ae6-bcc2-49689447265f,Jardins de Creu Casas,leisure:park,41.39378081668999,2.1939893677653113
+48096e7c-bcf2-44e9-848d-6adecdcf319e,Freddo Fox Brewery,shop:craft,41.39409298276718,2.1932823025205073
+9e71c0d1-0649-42db-976a-e0342afc5675,Áticco,office:coworking,41.39580990774688,2.1912306561697754
+e288842f-5548-400f-9f88-153f831b4a09,Comtu bar,amenity:bar,41.39900267366447,2.194400898745293
+52b36976-b7a3-4509-bf71-e1efa740ab65,Futur Wash,amenity:car_wash,41.39869180986636,2.1926787088698547
+31ca8947-3de1-451e-95a9-81ba0a0407c3,Motovoy,shop:motorcycle,41.397886130802625,2.1927604359326063
+695fa130-f29b-420a-a716-bc6ced213cab,Led & Go,office:company,41.39833445577278,2.192016090486236
+4399e97d-318c-44cd-85af-2c135b14fb18,Outlet Leather Factory,shop:clothes,41.39844622532178,2.192874739653682
+25d98ae9-eabb-4373-8d36-2fedbe1940a4,LocLum,amenity:studio,41.39844892531286,2.1921760610585626
+fdfdd1a1-fa37-410b-b819-a2e679d5c807,L'Ovella Negra Marina,amenity:pub,41.395992753654156,2.1901362024688247
+7d2f04ae-8255-4a7f-8d2b-e2dc73093f51,Club petanca Sant Martí,leisure:pitch,41.41464825004606,2.197435449998369
+df78df44-755d-4335-970f-88f8fb84ab44,Club petanca Sant Martí,leisure:pitch,41.41453395014496,2.197585683332653
+1fa25177-317b-4e69-a1a2-4bbaf1dc641e,Amazon BCN15,office:company,41.39937561585296,2.189567164805874
+2bde2e8a-02fe-45b7-adca-8a22848c1a17,Associació de Veins Sant Martí,amenity:community_centre,41.416457914525246,2.2027059616547238
+470c02b9-fb09-46fa-86d7-dadc400a342b,Simon,office:company,41.39901789994978,2.1909971335460896
+29e7278c-4448-46cd-8ef1-904ba658fd11,Iveco Goncas,shop:car_repair,41.39859998805848,2.1916443944615893
+67ede6a8-cab7-4d02-afa3-102dda59896b,BeGood Club,amenity:nightclub,41.39939610097916,2.191258400138609
+cbc8840c-cf45-496a-a1b0-d9b2c0e4eefa,Amavir,amenity:social_facility,41.404145117934306,2.1954085780186334
+6f760a03-3aa3-465f-8a60-c06c36a82392,BSM Rambla Poblenou,amenity:parking,41.40440141216916,2.1976134522680653
+65b93288-e45e-4bd5-9346-2763c11a3d4a,Tiendamat,shop:telecommunication,41.40545371774667,2.197991197091169
+7605c2a1-ad0f-45ec-9f89-443679a42866,Central de recollida neumàtica de residus municipals,amenity:recycling,41.39518481115396,2.1903863446609817
+8cdb30b9-922a-4de1-9cc5-c3c9d88b3ab0,Housfy,office:estate_agent,41.40015980321156,2.1915612381160487
+cbcd14ab-28d8-4101-a2bb-3563d1d50128,Escola Bressol municipal El Clot de la Mel,amenity:kindergarten,41.411151760536214,2.193632674648392
+6f1f9560-6f28-459d-9414-6475d20188c9,Ballenoil,amenity:fuel,41.405850646432846,2.2012610271168422
+be6b14f2-1af9-4d0f-9bf3-7abc0d4b6330,Modernmóvil,shop:car_repair,41.40358341254613,2.204049612720823
+71b7858d-d40c-4b20-9e16-f4102e74f629,Voraport. Actahoteld,tourism:hotel,41.398952512981154,2.2008373183795302
+12e0422c-4f9c-4700-b056-41d57ac526c4,Hotel Paxton,tourism:hotel,41.39935714179556,2.200338246510554
+5123d3b2-7b4b-4a79-a319-e98adfc1056a,Urbanización Marina Mar,leisure:garden,41.39045649380026,2.191433091182954
+3cb44a9f-1dc0-4587-bc58-ce35f94ca5bd,Escola Octavio Paz,amenity:school,41.414403266831314,2.1893139623240865
+26903bb8-5780-44cd-9045-c34a1aea38e4,Jardins d'Alícia de Larrocha,leisure:park,41.39545451843904,2.196242535610586
+8e11c4cd-61d5-475f-ab12-d0b40a942070,Informació Centre Comercial Glòries,tourism:information,41.40557740544496,2.1907895224418388
+269ea5de-8c74-4833-8e5d-f98e425ae44c,Ocado Technology Barcelona,office:it,41.40029815659081,2.1936396668817917
+a3382984-6af2-46a3-bea2-c6e224311099,Escola la Mar Bella,leisure:sports_centre,41.39979427337381,2.205091444435397
+6a26ddab-a52c-4b8a-a069-746d1c89ae26,parking només amb targeta disminuits,amenity:parking,41.39128260005999,2.2024848000654247
+6fc4ec2c-b497-4c77-a64e-dcfbc4437c70,parking només amb targeta disminuits,amenity:parking,41.39136945006192,2.202435600069548
+0afec326-3892-46e0-9994-90ad64a59c23,Picnic DIY,leisure:pitch,41.39476733302303,2.2038924057690594
+3f6155a7-34d5-4def-b767-c39a6153469e,Club de Tanguilla de Sant Martí,leisure:pitch,41.415164000064856,2.1995891999847768
+128731f8-7f53-4ba8-b842-405005f52468,Biblioteca Gabriel García Márquez,amenity:library,41.41713888633034,2.1999019169929275
+0a7f0a45-a89a-41dd-9dcb-5cec230c63bb,Façana Verda de Pallars,leisure:garden,41.404917036324804,2.2024427499446113
+7f3fc5cd-ca45-4ed2-bb34-74c08c25df1f,Jardí del Sol,leisure:garden,41.40113200718482,2.1949937803351185
+4da41cc6-3f3e-4e27-8723-eb90ade32d63,Torre,amenity:library,41.38989295003892,2.1902980499992313
+a20a1290-e73d-4c43-92ad-c7329818dd17,Himne mite i paradís,tourism:artwork,41.40360760000378,2.1926183500011187
+c4312a1b-099b-42fc-b34c-419c14ff62a2,Espai per a ús esportiu lliure,leisure:spots,41.39057820019248,2.201852450082174
+4be199df-445f-406e-a86c-b898f61ac75e,Aquari,tourism:artwork,41.392114813822914,2.2039754596321406
+cdd0d699-b52d-4ba1-b31e-03ae36c0efda,Tauró,tourism:artwork,41.3900592874666,2.200246895288583
+9242c612-e861-4d06-8b42-27963df73a02,LabTwentytwo,tourism:hotel,41.408985093379705,2.1972417611821404
+04f39663-dabb-44ed-9e8b-5ab6ca2a3c1d,Espai verd Zamora 79X,leisure:garden,41.39518525290265,2.1903861953459285
+9c407d3e-cc5b-49e8-ad8a-4f315ae3e1ef,Institut de Tècniques Audiovisuals i de l'Espectacle de BCN,amenity:college,41.39799881385919,2.1907287573407443
+1e65fa2f-5ebb-49a9-ae23-c642e586b687,Mokai,amenity:cafe,41.39029648574871,2.201273060646718
+a9a036d2-9eb2-4e21-9fa1-3e2b8621ef34,Santo Mojito,amenity:cafe,41.39081346636285,2.202181261182688
+4bd04059-a27a-4a48-a552-4bb723e558af,Jardins de la Torre del Fang,leisure:park,41.416019213468175,2.1916866435339224

@@ -1,0 +1,63 @@
+C. del Baixant,1,11.000000,32.000000
+C. del Baixant,3,11.666667,32.000000
+C. del Baixant,5,12.333333,32.000000
+C. del Baixant,2,11.000000,34.000000
+C. del Baixant,4,11.666667,34.000000
+C. del Baixant,6,12.333333,34.000000
+C. del Baixant,8,15.000000,34.000000
+C. del Baixant,10,16.000000,34.000000
+C. del Baixant,12,17.000000,34.000000
+Av. Vertical,1,11.000000,36.000000
+Av. Vertical,3,11.666667,36.000000
+Av. Vertical,5,12.333333,36.000000
+Av. Vertical,2,11.666667,37.000000
+Av. Vertical,4,12.333333,37.000000
+Av. Vertical,6,12.666667,37.000000
+Av. Vertical,8,13.333333,37.000000
+Av. Vertical,10,13.666667,37.000000
+Av. Vertical,12,14.000000,37.000000
+Av. Vertical,14,15.000000,37.000000
+Av. Vertical,16,16.000000,37.000000
+Av. Vertical,18,17.000000,37.000000
+Av. Vertical,7,14.000000,36.000000
+Av. Vertical,9,15.000000,36.000000
+Av. Vertical,11,16.000000,36.000000
+C. Pompeu Fabra,1,13.000000,30.666667
+C. Pompeu Fabra,3,13.000000,31.333333
+C. Pompeu Fabra,5,13.000000,32.000000
+C. Pompeu Fabra,2,14.000000,30.666667
+C. Pompeu Fabra,4,14.000000,31.333333
+C. Pompeu Fabra,6,14.000000,32.000000
+C. Pompeu Fabra,7,13.000000,33.666667
+C. Pompeu Fabra,9,13.000000,34.333333
+C. Pompeu Fabra,11,13.000000,35.000000
+C. Pompeu Fabra,8,14.000000,33.666667
+C. Pompeu Fabra,10,14.000000,34.333333
+C. Pompeu Fabra,12,14.000000,35.000000
+Ptge. de la Dra. Remeis,1,16.000000,30.666667
+Ptge. de la Dra. Remeis,3,16.000000,31.333333
+Ptge. de la Dra. Remeis,5,16.000000,32.000000
+Ptge. de la Dra. Remeis,2,17.000000,30.666667
+Ptge. de la Dra. Remeis,4,17.000000,31.333333
+Ptge. de la Dra. Remeis,6,17.000000,32.000000
+Av. Horitzontal,1,19.000000,30.666667
+Av. Horitzontal,3,19.000000,31.333333
+Av. Horitzontal,5,19.000000,32.000000
+Av. Horitzontal,7,19.000000,33.666667
+Av. Horitzontal,9,19.000000,34.333333
+Av. Horitzontal,11,19.000000,35.000000
+Av. Horitzontal,13,19.000000,37.666667
+Av. Horitzontal,15,19.000000,38.333333
+Av. Horitzontal,17,19.000000,39.000000
+Av. Horitzontal,2,21.000000,30.666667
+Av. Horitzontal,4,21.000000,31.333333
+Av. Horitzontal,6,21.000000,32.000000
+Av. Horitzontal,8,21.000000,32.666667
+Av. Horitzontal,10,21.000000,33.333333
+Av. Horitzontal,12,21.000000,34.000000
+Av. Horitzontal,14,21.000000,34.666667
+Av. Horitzontal,16,21.000000,35.333333
+Av. Horitzontal,18,21.000000,37.000000
+Av. Horitzontal,20,21.000000,37.666667
+Av. Horitzontal,22,21.000000,38.333333
+Av. Horitzontal,24,21.000000,39.000000

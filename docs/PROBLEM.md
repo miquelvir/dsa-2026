@@ -294,7 +294,7 @@ After this lab session, your program should:
 
 To do so, you will need to implement:
 - A queue of street lists (^)
-- Breadth first search in a graph (^)
+- [BFS algorithm](#breadth-first-search) the graph (^)
 - Use the [cross product](#turning-right-or-left) to know whether the route turns left or right (^^).
 - Unit test the path finding algorithm. (^^^)
 - Make the [BFS algorithm](#breadth-first-search) more efficient by implementing a better data structure for the existing `visited` street list. (^^^)

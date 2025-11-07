@@ -2,17 +2,15 @@
 
 `Data Structures and Algorithms - 2025 / 2026`
 
-During this project, you will **build a program like Google Maps**. The user must be able to input a source address (`F`) and a destination addresses (`T`). Then, the program must print a list of directions guiding them from `F` to `T`. For example, if the user wants to go from `Passatge de la Dra. Remeis, 2` to `Avinguda Vertical, 4`, your program should print:
+During this project, you will **build a program like Google Maps**. The user must be able to input a source address (`F`) and a destination addresses (`T`). Then, the program must print a list of directions guiding them from `F` to `T`. For example, if the user wants to go from `Passatge de la Dra. Remeis, 2` to `Avinguda Vertical, 4`, your program should print something like (simplified):
 
 ```
 Route from Passatge de la Dra. Remeis, 2 (17.000000,30.666667) to Avinguda Vertical, 4 (12.333333,37.000000).
 
-- Turn left in C. del Baixant
-- Turn right in C. Pompeu Fabra
-- Turn left in Av. Vertical
+- Turn left in C. del Baixant and continue for 100m
+- Turn right in C. Pompeu Fabra and continue for 100m
+- Turn left in Av. Vertical and continue for 100m
 - You have reached your destination
-
-The ETA is 3 minutes (600 meters).
 ```
 
 <picture>
@@ -29,6 +27,56 @@ The ETA is 3 minutes (600 meters).
 </picture>
 
 This lab is inspired by the [Google Maps (2019)](https://www.ijcaonline.org/archives/volume178/number8/mehta-2019-ijca-918791.pdf) paper.
+
+# Example
+
+This is a comprehensive example of what using the program should look like after finishing the implementation.
+
+```
+Enter map name (e.g. 'xs_2' or 'xl_1'): xl_1
+71092 houses loaded
+21349 places loaded
+18828 streets loaded
+
+
+--- ORIGIN ---
+Where are you? Address (1), Place (2) or Coordinate (3)? 2
+Enter place name (e.g. "Universitat Pompeu Fabra–Campus del Poblenou" or "L'Illa Diagonal"): Universitat Pompeu Fabra–Campus del Poblenou
+
+    Found at (41.403782, 2.193446)
+    Closest street: Carrer de Roc Boronat
+    Between 5726734762 (41.404389, 2.192402) and 7476306084 (41.403429, 2.193660)
+
+
+--- DESTINATION ---
+Where do you want to go? Address (1), Place (2) or Coordinate (3)? 2
+Enter place name (e.g. "Universitat Pompeu Fabra–Campus del Poblenou" or "L'Illa Diagonal"): L'Illa Diagonal
+
+    Found at (41.389559, 2.135112)
+    Closest street: Carrer de Constança
+    Between 269380768 (41.389292, 2.134767) and 12081570881 (41.389332, 2.134730)
+
+
+--- ROUTE ---
+  Start at Carrer de Roc Boronat
+  Turn left to Carrer de Roc Boronat and continue for 24m
+  Turn right to Carrer de Tànger and continue for 244m
+  Turn right to Carrer de Badajoz and continue for 383m
+  Turn right to Carrer de la Independència and continue for 408m
+  Turn left to Carrer d'Aragó and continue for 1463m
+  Turn right to Passeig de Sant Joan and continue for 212m
+  Turn right to Plaça de Mossèn Jacint Verdaguer and continue for 71m
+  Turn left to Avinguda Diagonal and continue for 869m
+  Turn left to Plaça del Cinc d'Oros and continue for 26m
+  Turn left to Avinguda Diagonal and continue for 795m
+  Turn right to Carrer de Casanova and continue for 3m
+  Turn left to Avinguda Diagonal (lateral muntanya) and continue for 239m
+  Turn right to Plaça de Francesc Macià and continue for 92m
+  Turn right to Avinguda de Josep Tarradellas and continue for 196m
+  Turn right to Avinguda de Sarrià and continue for 170m
+  Turn left to Travessera de les Corts and continue for 538m
+  You have arrived to Carrer de Constança
+```
 
 # Deliverables
 
@@ -131,17 +179,44 @@ We store streets in `streets.txt` files. Each line represents a street. Two-way 
 
 The full file can be found in [./maps/xs_1/streets.txt](./maps/xs_1/streets.txt).
 
+# Design
+
+The program consists of 3 parts:
+
+1. **Positioning**
+
+    - Positioning is used to let the user enter the source and destination points of their route. They can do so:
+      - By coordinate (e.g. `(41.403782, 2.193446)`)
+      - By place (e.g. `Universitat Pompeu Fabra–Campus del Poblenou`)
+      - Or by street number (e.g. `Carrer de Roc Boronat, 138`)
+
+2. **Closest street finding**
+
+    - After a user has selected a place or street number, they are translated to a coordinate.
+    - Then, we find the street closest to the user source and destination position amongst all streets in the file.
+
+3. **The street graph**
+
+    - To know which streets we can take, and what other streets they connect to, we need to build a street graph.
+    - The graph is implemented using a map and adjacency lists, which allow finding all other streets you can go to given any intersection id efficiently.
+
+4. **Path finding**
+
+    - Once we have the source and destination streets, as well as a proper street graph, we use path finding algorithms to find the best route for the user.
+
+
 # Work breakdown
 
 We have divided all tasks into four categories so you can prioritize implementing them accordingly.
 
 | Weight               | Description                              | Symbol   |
 |----------------------|------------------------------------------|----------|
-| 60% | Essential, needed to get something working       | (^)      |
+| 50% | Essential, needed to get something working       | (^)      |
 | 20% | Nice-to-haves, not required to get something working | (^^)     |
-| 10% | Difficult, complex exercises             | (^^^)    |
-| 10% | Advanced, challenges for diving deep       | (^^^^)   |
+| 20% | Difficult, complex exercises             | (^^^)    |
+| 20% | Advanced, challenges for diving deep       | (^^^^)   |
 
+While this adds up to 110%, the grade is capped at 10. The extra 10% in (^^^^) can help you in case you make minor mistakes elsewhere.
 
 ## Lab 0: Developer Setup
 
@@ -162,43 +237,51 @@ Start setting up before the session:
 
 After this lab session, your program should:
 - Ask the user for a map (`xs_1`, `xs_2`, `md_1`, `lg_1` or `xl_1`). (^)
-- Ask the user for a street name and house number (e.g. `Carrer de Roc Boronat, 138`). Print its coordinates. (^)
-- Print its coordinates. (^)
+- Allow the user to pick between an address, coordinate or a place. (^)
+- If the user chooses to describe the source with an address, ask the user for a street name and house number (e.g. `Carrer de Roc Boronat, 138`). Print its coordinates. (^)
+- Find streets even if casing does not match (e.g. `Carrer de roc boronat` instead of `Carrer de Roc Boronat`) or using abbreviations (e.g. `C. de Roc Boronat` instead of `Carrer de Roc Boronat`). (^^)
+- If the user writes a known street but an invalid number, allow the user to choose between the valid street numbers in the street. (^^)
+- If the user writes a street which is not known (e.g. `Carrer de Roc Voronat` instead of `Carrer de Roc Boronat`), allow the user to choose between the most similar streets. (^^^)
 
 To do so, you will need to implement:
 - Reading and parsing `houses.txt` files (^)
 - Storing houses in a house linked list (^)
 - Sequential search amongst the houses linked list (^)
-- Find streets even if casing does not match (e.g. `Carrer de roc boronat` instead of `Carrer de Roc Boronat`) or using abbreviations (e.g. `C. de Roc Boronat` instead of `Carrer de Roc Boronat`). (^^)
-- If the user writes a known street but an invalid number, print the valid street numbers in the street. If the user writes a street which is not known (e.g. `Carrer de Roc Voronat` instead of `Carrer de Roc Boronat`), print the most similar streets and their numbers. To do so, calculate the [Levenshtein distance](#levenshtein-distance) with all streets and print all streets with a Levenshtein distance below 3. (^^^)
+- To find similarly named places, use the [Levenshtein distance](#levenshtein-distance) and an adequate sorting algorithm. (^^^)
+- Unit test the houses linked list. (^^^)
 
 ## Lab 2: Finding the coordinates of a place
 
 After this lab session, your program should:
-- Allow the user to pick between an address, coordinate or a place. If the user picks a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
+- If the chooses to describe the source with a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
+- If the user writes a place which is not known (e.g. `Area Tallers` instead of `Àrea Tallers`), allow choosing from the most similar places. (^^^)
 
 To do so, you will need to implement:
 - Reading and parsing `places.txt` files (^^)
 - Storing places in a place linked list (^^)
 - Sequential search amongst the places linked list (^^)
-- If the user writes a place which is not known (e.g. `Area Tallers` instead of `Àrea Tallers`), print the most similar places. To do so, calculate the [Levenshtein distance](#levenshtein-distance) with all places and print all places less than 3 edits away. (^^^)
+- To find similarly named places, use the [Levenshtein distance](#levenshtein-distance) and an adequate sorting algorithm. (^^^)
+- Unit test the places list. (^^^)
 
-## Lab 3: Finding the closest street segment
+## Lab 3: Finding connected streets
 
 After this lab session, your program should:
-- Print between which two intersections is that street number located. (^)
+- Print between which two intersections the source coordinates are located. (^)
+- Print which street segments are connected to this one. (^)
 
 To do so, you will need to implement:
 - Reading and parsing `streets.txt` files (^)
 - Storing all street segments in a linked list (^)
 - Compute the distance between the user position and every street to find the closest one. You need to calculate the [midpoint of every street segment](#midpoint-between-coordinates) and use the [Haversine formula](#haversine-formula) to compute the distance between the user coordinates and each street midpoint. (^)
-- Print which streets are connected to this one. E.g. to which streets can the user immediately go from his position. (^)
+- Make finding the closest street faster by choosing and implementing a better data structure than a list. Learn about geohashes or quad trees for inspiration. (^^^^)
+- Unit test the streets linked list. (^^^)
 
 ## Lab 4: Finding connected streets efficiently
 
 To do so, you will need to implement:
-- Load all streets from the list into an intersection hashmap, with the key being the intersection id and the value being a list of street segments it is connected to. (^)
-- A hash map (^)
+- A hash map, with the key being the intersection id and the value being a list of street segments it is connected to (^)
+- Load all streets from the list into an intersection graph (the hashmap). (^)
+- Unit test the intersection hashmap. (^^^)
 
 > [!NOTE]
 > Don't remove the old version finding connected streets from the list. You will need it to compare Lab 3 and Lab 4 for the report.
@@ -208,14 +291,22 @@ To do so, you will need to implement:
 After this lab session, your program should:
 - Ask the user for a destination (coordinates, place or address like the source). (^)
 - Print the step by step directions. (^)
+- Extend the directions by saying `Turn left to` or `Turn right to`. (^^)
+- Extend the directions by saying `and continue for Xm`. (^^)
 
 To do so, you will need to implement:
+- A queue of street lists (^)
 - Breadth first search in a graph (^)
-- A queue (^)
+- Use the [cross product](#turning-right-or-left) to know whether the route turns left or right (^^).
+- Unit test the path finding algorithm. (^^^)
+- Make the [BFS algorithm](#breadth-first-search) more efficient by implementing a better data structure for the existing `visited` street list. (^^^)
+- Consider the street length as the weight of edges in the graph. Choose a suitable algorithm other than BFS and implement it. (^^^^)
+- Extend your path finding algorithm above with support for traffic congestion and temporary road closures. (^^^^)
+- Implement adequate path caching and/or graph contraction to speed up path finding. (^^^^)
 
 ## Lab 6 & 7: Make it your own
 
-Use these two sessions to finish work from previous labs. Once you are done, implement some of the suggested difficult challenges or some suggested by you.
+Use these two sessions to finish work from previous labs. Focus on implementing tasks with (^^) or more difficulty once you have finished the basic ones. Feel free to discuss with your lab TA / Professor for advice!
 
 ## Lab 8 & 9: Interviews
 
@@ -286,7 +377,30 @@ An extra large real map of Barcelona with 15378 intersections.
 
 # Report
 
-TODO
+You must deliver a report by the end of the project.
+
+- Write the report using [Markdown](https://www.markdownguide.org/) in the [REPORT.md file](./REPORT.md).
+- The report must contain:
+  - Worst-case runtime analysis of initializing the intersections map in Big-O.
+  - Worst-case runtime analysis of finding the coordinates of a street or place given the name in Big-O.
+  - A plot comparing the latency to find connected streets by sequentially looking through the list (lab 3) compared to using the intersections map (lab 4), depending on the map size.
+    - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
+    - Explain the results.
+  - Worst-case runtime analysis of your path-finding algorithm in Big-O.
+  - A plot comparing the latency to find a path between two points that are close in the map compared to two points that are very far in the map, for different scenarios.
+    - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
+    - Explain the results.
+  - A plot comparing the latency to find a path between two points that are very far in the map, depending on the map size and the data structure used for the visited list (e.g. a list vs your improvement).
+    - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
+    - Explain the results.
+  - Describe an improvement to the `visited` data structure in the BFS algorithm to improve runtime complexity / latency. 
+    - Justify which data structure you would use / have used instead of a list to improve performance.
+    - Describe its current runtime complexity and the improved runtime complexity.
+    - Describe any trade-offs or downsides of your approach regarding latency or memory usage.
+  - Describe an improvement to the algorithm to find the street segment given a latitude and longitude to improve its runtime complexity / latency.
+    - Justify which data structure or algorithm you would use / have used to improve runtime complexity / latency.
+    - Describe its current runtime complexity and the improved runtime complexity.
+    - Describe any trade-offs or downsides of your approach regarding latency or memory usage.
 
 # Reference
 
@@ -330,6 +444,8 @@ function LevenshteinDistance(a, b):
 This formula allows approximately calculating the distance between any two coordinates.
 
 ```c
+#define EARTH_RADIUS 6371.0
+
 typedef struct position {
   double lat;
   double lon;
@@ -446,6 +562,39 @@ BFS(intersections_graph, fromStreet, toStreet):
                     enqueue new_path into Q
 
     return NULL   # no path found
+```
+
+## Turning right or left
+
+Given two neighbouring streets, `AB` and `BC`, we can use the cross product `AB x BC = (Bx-Ax)*(Cy-By)-(By-Ay)*(Cx-Bx)` to determine whether the street turns left  (`> 0`) or right (`< 0`).
+
+You can approximately convert latitude and longitude to x and y coordinates like this:
+
+```c
+#include <stdio.h>
+#include <math.h>
+
+#define EARTH_RADIUS 6371.0
+
+typedef struct position {
+  double lat;
+  double lon;
+} Position;
+
+
+double toRadians(double degree) {
+    return degree * (M_PI / 180.0);
+}
+
+void latlon_to_xy(double lat_ref, double lon_ref,
+                  double lat, double lon,
+                  double *x, double *y) {
+    double lat_ref_rad = toRadians(lat_ref);
+    double dlat = toRadians(lat - lat_ref);
+    double dlon = toRadians(lon - lon_ref);
+    *x = EARTH_RADIUS * dlon * cos(lat_ref_rad);
+    *y = EARTH_RADIUS * dlat;
+}
 ```
 
 # FAQ 

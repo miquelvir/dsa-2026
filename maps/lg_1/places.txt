@@ -1377,7 +1377,7 @@ d2fc3471-4db0-4cfe-9f25-81dba3558f02,Bonpreu,shop:supermarket,41.401451699999996
 7c52306d-eb35-419d-934b-61db887dbad4,Bar 27,amenity:bar,41.40594170000001,2.1860262
 b805f943-b47d-4908-840f-f3c64392a617,Hookah Arts,shop:hookah,41.40069530000001,2.1748368
 d6a1b03a-140b-46ce-98b9-bf36c8fcd5cf,IberExchange,amenity:bureau_de_change,41.390894200000005,2.1783254
-3118ce2e-e807-4191-b01e-5eef8636362c,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.4043275,2.1937054
+3118ce2e-e807-4191-b01e-5eef8636362c,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.403782,2.193446
 f7db4da8-48ec-4106-bb6a-9d77cd0334a7,El Cortijo,shop:deli,41.40728409999999,2.1872456999999996
 05b17ec9-2253-468d-9e34-5d7ba2657f75,Bingbing Café,amenity:cafe,41.38978539999999,2.1745197
 9d686539-d9a3-40fa-ba61-e51e0b38297d,Restaurant Corea,amenity:restaurant,41.3898262,2.1746493
@@ -3399,12 +3399,12 @@ dede97d3-2c88-4347-93b5-dcb224ed6cda,Jardins de Remedios Varo,leisure:park,41.40
 1b1fac2b-c889-489e-8f46-3f268cef9589,Fundació Palo Alto,amenity:coworking_space,41.404497328431695,2.210846098401377
 942fe8da-ec31-4a2f-a6e4-b187380f6e2a,Escola Superior d'Hosteleria de Barcelona,amenity:school,41.40432587018007,2.2114303214221205
 1d563187-86b2-49f8-92c4-de1893bbedc2,DTIC,amenity:university,41.403551217419384,2.1945906422265025
-0bedd85c-a55a-4c79-8cfe-be34dac52caa,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.4039683021222,2.1940569665796366
+0bedd85c-a55a-4c79-8cfe-be34dac52caa,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.403782,2.193446
 89d83a75-39eb-4511-b4ab-bb4f28c771ee,La Fàbrica,amenity:library,41.40420056521786,2.194394336188654
 f06887cf-1f1c-4c38-a28e-fb364feabf48,Edifici La Nau,amenity:university,41.403792021993624,2.194284381506132
 6e047f09-1a5f-4c9e-9697-67b6707fdd4f,Edifici Roc Boronat,amenity:university,41.40377823888533,2.1935747360338307
 b800d8d8-04f3-46ef-b6cb-c1ab13bd5ca3,RBA,office:company,41.40422982346338,2.1929359642349877
-92ab0314-2fd4-4861-94ce-e9f0474a5bfe,Àrea Tallers,amenity:university,41.404371909913145,2.193772437052622
+92ab0314-2fd4-4861-94ce-e9f0474a5bfe,Àrea Tallers,amenity:university,41.403782,2.193446
 697a1f76-da15-4de5-b0af-ba5272f41d32,Glòries,shop:mall,41.40534146791912,2.1913207388567404
 71614b61-66ab-4e6b-8604-dd164c406025,Centre d'Atenció Primària Ramon Turró,amenity:clinic,41.40646101792463,2.2110019240646888
 de2f18a3-e2f7-4a11-bb2e-bedf9e13131a,Centre de Dia - Residència Assistida per a Gent Gran Poblenou,amenity:social_facility,41.4068236033925,2.210527266814295

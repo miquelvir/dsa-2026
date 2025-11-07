@@ -45,7 +45,7 @@ aa57d415-d0bc-46b0-b31b-405bcfe73b47,342 - Roc Boronat 134,amenity:bicycle_renta
 fcdbe802-9ce9-4d84-ae71-b7cac8ac64b5,Jovani & System Bike,shop:motorcycle,41.40087489999999,2.1953089999999995
 2c7cb594-6a92-4c21-81a9-da6b5a715c66,Enterprise,amenity:car_rental,41.4010326,2.1960761
 4df2b7e7-71fd-4ca9-ade4-970d69ecbc62,Barnacip,shop:car_repair,41.401277099999994,2.1961639
-b27e0d8f-3e81-4993-aefc-786c3a1c135f,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.4043275,2.1937054
+b27e0d8f-3e81-4993-aefc-786c3a1c135f,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.403782,2.193446
 a4e4d657-6196-4097-a91a-1f4966df7ea9,MyKasa,amenity:restaurant,41.40192799999999,2.1945021
 02d8ad9e-3cab-497c-bf66-215086698b49,AOC consorci Adminitraciò Oberta de Catalunya,office:government,41.402716,2.1933514
 0ac27e16-82e5-4562-bcaf-e389bf70cfea,McCann,office:company,41.40218579999999,2.1927255
@@ -85,7 +85,7 @@ f2ad73a3-abcb-4bcb-b373-10f174b1492d,Juguettos,shop:toys,41.4058176,2.1959109000
 9311d6b8-79bf-4b96-92ba-76615929c928,Condis,shop:supermarket,41.40111250000001,2.195251
 ff2d88e4-7382-4202-9407-82cc9d2b04ad,Centre per a la Iniciativa Emprenedora Glòries,office:government,41.40625659999999,2.1926246999999996
 fd8eacee-39dc-4f97-beec-ece2102da330,DTIC,amenity:university,41.403551217419384,2.1945906422265025
-c8de9154-fa02-4238-8b0f-6f51db6d9ff5,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.4039683021222,2.1940569665796366
+c8de9154-fa02-4238-8b0f-6f51db6d9ff5,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.403782,2.193446
 0ea012ff-c5cd-414b-bad2-f4c5b83f1f18,La Fàbrica,amenity:library,41.40420056521786,2.194394336188654
 316bce21-e639-45b2-ad7f-2bbc1520d76d,Edifici La Nau,amenity:university,41.403792021993624,2.194284381506132
 6ff6bd0a-feb7-452a-9466-7a99ee1e448a,Edifici Roc Boronat,amenity:university,41.40377823888533,2.1935747360338307

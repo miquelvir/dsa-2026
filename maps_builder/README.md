@@ -13,6 +13,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 python3 houses.py --osm path_to_downloaded_file
 python3 streets.py --osm path_to_downloaded_file
-python3 normalize.py --txt path_to_streets_txt_file
 python3 places.py --osm path_to_downloaded_file
 ```

@@ -531,7 +531,7 @@ d6fe004f-0065-47e4-8758-31fa7b1974b4,Boheme,shop:bakery,41.40149709999999,2.2008
 3df0066a-84c4-4bcb-963e-0a399264b073,UNITE hotel,tourism:hostel,41.3909971,2.1963474
 8849494f-d637-463f-a217-6cd7543ac5b1,Bigas Group,office:architect,41.391695600000006,2.1945037999999997
 aef04db8-2ee9-49a0-affc-54dd69fd6401,Apk2 Melià - Sky,amenity:parking,41.4060191,2.200645
-e2280e7b-43a8-4452-835d-502d66280e14,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.4043275,2.1937054
+e2280e7b-43a8-4452-835d-502d66280e14,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.403782,2.193446
 1eb5b9ea-d1d8-499c-ab28-6127e3180f0f,EZ English,amenity:language_school,41.4041329,2.2011079
 4aa9791f-7375-4ff5-abdf-402a2e376564,Merit School,amenity:language_school,41.414052,2.1943868
 3d7b2747-84b6-43e1-acd9-adbdc139e166,MyKasa,amenity:restaurant,41.40192799999999,2.1945021
@@ -1363,12 +1363,12 @@ dd6881d6-a3e8-4626-ab6f-3bb9865c8c4a,Centre Escolar San Francisco,amenity:school
 309730ff-579d-4e8a-bb6a-941a7cace7aa,Parroquia Sant LLuís Gonzaga,amenity:place_of_worship,41.41616296466702,2.200470074081913
 25d7fcd6-9a84-4b52-9770-e2f123c9899d,Plaça de Montserrat Garriga,leisure:park,41.41487172712028,2.1958878178453265
 f8b73098-a251-4895-9d17-ad2d8de27b72,DTIC,amenity:university,41.403551217419384,2.1945906422265025
-bbd3d507-ce71-4543-ae41-360f20c32849,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.4039683021222,2.1940569665796366
+bbd3d507-ce71-4543-ae41-360f20c32849,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.403782,2.193446
 3f622e2c-bc6a-4e64-84e3-2816e791e597,La Fàbrica,amenity:library,41.40420056521786,2.194394336188654
 4b8cce63-fa68-4271-ac31-f6da66d58cea,Edifici La Nau,amenity:university,41.403792021993624,2.194284381506132
 cbefdac6-7bc6-446b-a22b-f063eaf4c48b,Edifici Roc Boronat,amenity:university,41.40377823888533,2.1935747360338307
 63fbb4c1-f4b3-4e3e-8089-df4f8819e01f,RBA,office:company,41.40422982346338,2.1929359642349877
-dbf6ff7a-5a2a-4e74-857b-d74edceec4e2,Àrea Tallers,amenity:university,41.404371909913145,2.193772437052622
+dbf6ff7a-5a2a-4e74-857b-d74edceec4e2,Àrea Tallers,amenity:university,41.403782,2.193446
 e78af20f-d707-4344-89a6-81d342265f06,Glòries,shop:mall,41.40534146791912,2.1913207388567404
 ee8294c6-8abb-457b-9f42-ae9f4ed37a4e,Escola Catalònia,amenity:school,41.41253958977201,2.2008323540301484
 6fe09448-be73-4e53-9b3e-98f1bf56021c,Complex Esportiu Municipal Olimpia,leisure:sports_centre,41.41332146890333,2.2018369928596684

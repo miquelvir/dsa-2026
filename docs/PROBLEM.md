@@ -175,38 +175,47 @@ To do so, you will need to implement:
 ## Lab 2: Finding the coordinates of a place
 
 After this lab session, your program should:
-- Allow the user to pick between an address or a place. If the user picks a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
+- Allow the user to pick between an address, coordinate or a place. If the user picks a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
 
 To do so, you will need to implement:
 - Reading and parsing `places.txt` files (^^)
 - Storing places in a place linked list (^^)
 - Sequential search amongst the places linked list (^^)
-- Create your own `reviews.txt` files (with a place ID, rating and comment). When the user chooses a place, print its reviews. (^^^)
 - If the user writes a place which is not known (e.g. `Area Tallers` instead of `Àrea Tallers`), print the most similar places. To do so, calculate the [Levenshtein distance](#levenshtein-distance) with all places and print all places less than 3 edits away. (^^^)
 
-## Lab 3: Finding the neighbouring intersections of an address
+## Lab 3: Finding the closest street segment
 
 After this lab session, your program should:
 - Print between which two intersections is that street number located. (^)
-- Print which streets are connected to this one. E.g. to which streets can a car in that position turn. (^)
 
 To do so, you will need to implement:
 - Reading and parsing `streets.txt` files (^)
-- Storing intersections in a hashmap (^)
+- Storing all street segments in a linked list (^)
+- Compute the distance between the user position and every street to find the closest one. You need to calculate the [midpoint of every street segment](#midpoint-between-coordinates) and use the [Haversine formula](#haversine-formula) to compute the distance between the user coordinates and each street midpoint. (^)
+- Print which streets are connected to this one. E.g. to which streets can the user immediately go from his position. (^)
 
-## Lab 4 & 5: Finding a path between two addresses
+## Lab 4: Finding connected streets efficiently
 
-After this lab session,  your program should:
-- Ask the user for a destination street name and house number. (^)
+To do so, you will need to implement:
+- Load all streets from the list into an intersection hashmap, with the key being the intersection id and the value being a list of street segments it is connected to. (^)
+- A hash map (^)
+
+> [!NOTE]
+> Don't remove the old version finding connected streets from the list. You will need it to compare Lab 3 and Lab 4 for the report.
+
+## Lab 5: The path between two positions
+
+After this lab session, your program should:
+- Ask the user for a destination (coordinates, place or address like the source). (^)
 - Print the step by step directions. (^)
 
 To do so, you will need to implement:
 - Breadth first search in a graph (^)
 - A queue (^)
 
-## Lab 6 & 7: Building difficult challenges & final touches
+## Lab 6 & 7: Make it your own
 
-Use these two sessions to finish work from previous labs. Once you are done, implement some of the suggested difficult challenges. Finally, start the report.
+Use these two sessions to finish work from previous labs. Once you are done, implement some of the suggested difficult challenges or some suggested by you.
 
 ## Lab 8 & 9: Interviews
 
@@ -239,12 +248,7 @@ A small synthetic map with 11 intersections.
 
 A small real map of a couple of city blocks around the University with 71 intersections.
 
-<picture>
-  <img 
-    alt="xs2 map" 
-    srcset="./problem_images/xs_2_map.png"
-    style="display: block; margin: 0 auto; max-width: 500px; height: auto;">
-</picture>
+![map](./problem_images/xs_2_map.png)
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=18/41.403585/2.194433)
 
@@ -254,12 +258,7 @@ A small real map of a couple of city blocks around the University with 71 inters
 
 A medium real map of the city blocks around the University with 1122 intersections.
 
-<picture>
-  <img 
-    alt="md1 map" 
-    srcset="./problem_images/md_1_map.png"
-    style="display: block; margin: 0 auto; max-width: 500px; height: auto;">
-</picture>
+![map](./problem_images/md_1_map.png)
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=16/41.40354/2.19729)
 
@@ -269,12 +268,7 @@ A medium real map of the city blocks around the University with 1122 intersectio
 
 A large real map of Poblenou with 3283 intersections.
 
-<picture>
-  <img 
-    alt="lg1 map" 
-    srcset="./problem_images/lg_1_map.png"
-    style="display: block; margin: 0 auto; max-width: 500px; height: auto;">
-</picture>
+![map](./problem_images/lg_1_map.png)
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=15/41.39820/2.19744)
 
@@ -284,12 +278,7 @@ A large real map of Poblenou with 3283 intersections.
 
 An extra large real map of Barcelona with 15378 intersections.
 
-<picture>
-  <img 
-    alt="xl1 map" 
-    srcset="./problem_images/xl_1_map.png"
-    style="display: block; margin: 0 auto; max-width: 500px; height: auto;">
-</picture>
+![map](./problem_images/xl_1_map.png)
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=14/41.39532/2.16680)
 
@@ -307,7 +296,7 @@ This algorithm computes how many edits there are between two strings `a` and `b`
 
 If two strings have a low Levensthein Distance, it is probably that `a` is a version with typos of `b` (the correct string).
 
-```
+```c
 function LevenshteinDistance(a, b):
     m ← length(a)
     n ← length(b)
@@ -334,6 +323,129 @@ function LevenshteinDistance(a, b):
             )
 
     return D[m][n]
+```
+
+## Haversine formula
+
+This formula allows approximately calculating the distance between any two coordinates.
+
+```c
+typedef struct position {
+  double lat;
+  double lon;
+} Position;
+
+double toRadians(double degree) {
+    return degree * (M_PI / 180.0);
+}
+
+double haversine(Position posA, Position posB) {
+    double lat1 = toRadians(posA.lat);
+    double lon1 = toRadians(posA.lon);
+    double lat2 = toRadians(posB.lat);
+    double lon2 = toRadians(posB.lon);
+
+    double dLat = lat2 - lat1;
+    double dLon = lon2 - lon1;
+    double a = pow(sin(dLat / 2), 2) +
+    cos(lat1) * cos(lat2) * pow(sin(dLon / 2), 2);
+    double c = 2 * atan2(sqrt(a), sqrt(1 - a));
+    return EARTH_RADIUS * c;
+}
+```
+
+
+## Midpoint between coordinates
+
+You need to compute the distance between the user position and each street to decide which street is the user closest to. I.e. many user positions will be close to `3` or `4`, but only positions close to both `3` and `4` are located in the `3-4` segment. The easiest way is to calculate the midpoint coordinate, and then check the distance between the user position and the midpoint.
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="./problem_images/example_map_midpoint_dark.svg">
+  <source 
+    media="(prefers-color-scheme: light)"
+    srcset="./problem_images/example_map_midpoint.svg">
+  <img 
+    alt="xs1 map" 
+    srcset="./problem_images/example_map_midpoint.svg"
+    style="display: block; margin: 0 auto; max-width: 300px; height: auto;">
+</picture>
+
+
+This formula allows calculating the coordinate in the midpoint of two other coordinates.
+
+```c
+typedef struct position {
+  double lat;
+  double lon;
+} Position;
+
+double toDegrees(double radians) {
+    return radians * (180.0 / M_PI);
+}
+
+double toRadians(double degree) {
+    return degree * (M_PI / 180.0);
+}
+
+Position midpoint(Position a, Position b) {
+    double lat1 = toRadians(a.lat);
+    double lon1 = toRadians(a.lon);
+    double lat2 = toRadians(b.lat);
+    double lon2 = toRadians(b.lon);
+
+    double x1 = cos(lat1) * cos(lon1);
+    double y1 = cos(lat1) * sin(lon1);
+    double z1 = sin(lat1);
+
+    double x2 = cos(lat2) * cos(lon2);
+    double y2 = cos(lat2) * sin(lon2);
+    double z2 = sin(lat2);
+
+    double x = (x1 + x2) / 2.0;
+    double y = (y1 + y2) / 2.0;
+    double z = (z1 + z2) / 2.0;
+
+    double lon = atan2(y, x);
+    double hyp = sqrt(x * x + y * y);
+    double lat = atan2(z, hyp);
+
+    Position mid;
+    mid.lat = toDegrees(lat);
+    mid.lon = toDegrees(lon);
+    return mid;
+}
+```
+
+## Breadth First Search
+
+You can use Breadth First Search (BFS) to find a path between two intersections in the street graph.
+
+```
+BFS(intersections_graph, fromStreet, toStreet):
+    create an empty queue of street lists, Q
+
+    create a street list [fromStreet], initial_path
+    enqueue initial_path into Q
+    create a street list [], visited
+
+    while Q is not empty:
+        path = dequeue(Q)
+        current_street = path[-1]
+
+        if current_street == toStreet:
+            return path
+        
+        if current_street not in visited:
+            add current_street to visited
+
+            for connected_street in intersections_graph[current_street.to_intersection_id]:
+                if connected_street not in visited:
+                    new_path = path + [connected_street]
+                    enqueue new_path into Q
+
+    return NULL   # no path found
 ```
 
 # FAQ 

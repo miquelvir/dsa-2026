@@ -7713,7 +7713,7 @@ fded8fdf-1a32-47f0-86a2-2aede3eae3bb,Guspi,amenity:cafe,41.389296900000005,2.147
 8bf718de-6a80-46ad-8b7c-f3d4ec2fa2f1,Farmàcia Clapés Serentill - Billoch Clapés,amenity:pharmacy,41.3931056,2.1551833
 bc1cfb85-67c3-4729-8393-41835b3b91f8,MacxiPa,shop:bakery,41.39315619999999,2.1555629
 9be628da-632b-4e7e-bfe4-b2cbfdbecd90,Fermentum Italian Bistrot,amenity:restaurant,41.393066299999994,2.1552715
-3ff979b5-3328-4880-b4f9-977bb19d39f5,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.4043275,2.1937054
+3ff979b5-3328-4880-b4f9-977bb19d39f5,Universitat Pompeu Fabra–Campus del Poblenou,amenity:university,41.403782,2.193446
 71392344-c391-4142-a5e1-e9354709fec7,McDonald's,amenity:fast_food,41.392098399999995,2.1445773
 a417a5ab-7057-4e4b-a4a6-d89d40fbfe41,Basar Moda,shop:variety_store,41.4093188,2.1738786999999995
 fb84ed27-932e-4beb-bb26-bc5755812cee,Estrella de Istanbul,amenity:restaurant,41.40983750000001,2.1751295999999996
@@ -19685,12 +19685,12 @@ dca7725c-b27c-4749-b87c-86a41081ddff,Centre Escolar San Francisco,amenity:school
 b9acef9f-caf1-4a8e-889f-4165e853cd3c,Parroquia Sant LLuís Gonzaga,amenity:place_of_worship,41.41616296466702,2.200470074081913
 65b3e65b-5ba2-4279-8866-45dddbeb4e37,Plaça de Montserrat Garriga,leisure:park,41.41487172712028,2.1958878178453265
 74f7f3a8-2b24-43c0-82a4-c031b2d549a1,DTIC,amenity:university,41.403551217419384,2.1945906422265025
-774f7977-511e-454f-976b-ac4dd2d3b7d0,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.4039683021222,2.1940569665796366
+774f7977-511e-454f-976b-ac4dd2d3b7d0,Universitat Pompeu Fabra Campus del Poblenou,amenity:university,41.403782,2.193446
 65ed1ece-317e-4044-8c6c-fdb51b27a05a,La Fàbrica,amenity:library,41.40420056521786,2.194394336188654
 39c12853-fefc-4927-975f-87a46acb728b,Edifici La Nau,amenity:university,41.403792021993624,2.194284381506132
 4b2e9d0d-799f-4863-9c54-fcf96e74ab6d,Edifici Roc Boronat,amenity:university,41.40377823888533,2.1935747360338307
 71d79add-def8-46d8-9bbc-965d55c0a4d4,RBA,office:company,41.40422982346338,2.1929359642349877
-33ec2268-b812-490f-9582-e2fb3e046226,Àrea Tallers,amenity:university,41.404371909913145,2.193772437052622
+33ec2268-b812-490f-9582-e2fb3e046226,Àrea Tallers,amenity:university,41.403782,2.193446
 2dca8d00-8966-4ee8-99f0-aaadce3d733b,Glòries,shop:mall,41.40534146791912,2.1913207388567404
 a3719b60-6470-4baa-9f86-7626e721380d,Centre d'Atenció Primària Ramon Turró,amenity:clinic,41.40646101792463,2.2110019240646888
 9d11abf5-4556-4403-ba6b-825e0a6555a7,Centre de Dia - Residència Assistida per a Gent Gran Poblenou,amenity:social_facility,41.4068236033925,2.210527266814295

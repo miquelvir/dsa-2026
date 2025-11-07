@@ -26,8 +26,6 @@ Route from Passatge de la Dra. Remeis, 2 (17.000000,30.666667) to Avinguda Verti
     style="display: block; margin: 0 auto; max-width: 600px; height: auto;">
 </picture>
 
-This lab is inspired by the [Google Maps (2019)](https://www.ijcaonline.org/archives/volume178/number8/mehta-2019-ijca-918791.pdf) paper.
-
 # Example
 
 This is a comprehensive example of what using the program should look like after finishing the implementation.

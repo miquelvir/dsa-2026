@@ -74,6 +74,11 @@ down
 print x
 ```
 
+- Print a structure
+```zsh
+display *x
+```
+
 - Add breakpoint
 ```zsh
 break myfile.c:42

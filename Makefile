@@ -12,7 +12,7 @@ v:
 	valgrind --leak-check=yes ./main.out
 
 compiledebug:
-	gcc src/main.c $(SRC_FILES) -g -o main.out -lm
+	gcc src/main.c $(SRC_FILES) -fsanitize=address -g -o main.out -lm
 
 d:
 	make compiledebug

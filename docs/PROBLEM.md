@@ -192,12 +192,12 @@ The program consists of 4 parts:
 2. **Closest street finding**
 
     - After a user has selected a place or street number, they are translated to a coordinate.
-    - Then, we find the street closest to the user source and destination position amongst all streets in the file.
+    - Then, we find the street segment closest to that coordinate amongst all street segments in the file.
 
 3. **The street graph**
 
     - To know which streets we can take, and what other streets they connect to, we need to build a street graph.
-    - The graph is implemented using a map and adjacency lists, which allow finding all other streets you can go to given any intersection id efficiently.
+    - The graph is implemented using a map and a street adjacency lists. It allows finding all other streets you can go to given any intersection id.
 
 4. **Path finding**
 

@@ -73,7 +73,8 @@ Enter place name (e.g. "Universitat Pompeu Fabra–Campus del Poblenou" or "L'Il
   Turn right to Avinguda de Josep Tarradellas and continue for 196m
   Turn right to Avinguda de Sarrià and continue for 170m
   Turn left to Travessera de les Corts and continue for 538m
-  You have arrived to Carrer de Constança
+  Turn right to Carrer de Constança for 72m
+  You have arrived to your destination
 ```
 
 # Deliverables

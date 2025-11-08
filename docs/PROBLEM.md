@@ -180,7 +180,7 @@ The full file can be found in [./maps/xs_1/streets.txt](./maps/xs_1/streets.txt)
 
 # Design
 
-The program consists of 3 parts:
+The program consists of 4 parts:
 
 1. **Positioning**
 
@@ -303,7 +303,7 @@ To do so, you will need to implement:
 - Extend your path finding algorithm above with support for traffic congestion and temporary road closures. (^^^^)
 - Implement adequate path caching and/or graph contraction to speed up path finding. (^^^^)
 
-## Lab 6 & 7: Make it your own
+## Lab 6 & 7: Finish it up
 
 Use these two sessions to finish work from previous labs. Focus on implementing tasks with (^^) or more difficulty once you have finished the basic ones. Feel free to discuss with your lab TA / Professor for advice!
 

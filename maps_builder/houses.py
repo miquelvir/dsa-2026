@@ -1,40 +1,58 @@
-import osmnx as ox
-import geopandas as gpd
+import osmium
 import pandas as pd
 import argparse
+import re
 
-parser = argparse.ArgumentParser(description="Example CLI parser")
-parser.add_argument("--osm", required=True, help="The path to an OSM XML file")
+parser = argparse.ArgumentParser(description="Extract building addresses from an OSM XML/PBF file")
+parser.add_argument("--osm", required=True, help="The path to an OSM or PBF file")
 args = parser.parse_args()
 FILE_NAME = args.osm
 
-tags = {"addr:housenumber": True, "addr:street": True, "building": True}
-houses = ox.features_from_xml(FILE_NAME, tags=tags)
-houses = houses[['addr:housenumber', 'addr:street', 'geometry']]
-houses = houses.dropna(subset=['addr:housenumber', 'addr:street'])
-houses['addr:street'] = houses['addr:street'].apply(lambda x: str(x).strip())
+class AddressExtractor(osmium.SimpleHandler):
+    def __init__(self):
+        super().__init__()
+        self.rows = []
 
-def parse_numbers(n):
-    try:
-        if '-' in str(n):
-            return [int(x) for x in str(n).split('-')]
+    def node(self, n):
+        tags = n.tags
+        if 'addr:housenumber' in tags and 'addr:street' in tags:
+            lat = n.location.lat
+            lon = n.location.lon
+            self.add_entry(tags['addr:street'], tags['addr:housenumber'], lat, lon)
+
+    def way(self, w):
+        tags = w.tags
+        if 'addr:housenumber' in tags and 'addr:street' in tags and w.nodes:
+            # Compute centroid of way geometry (approximate average)
+            lats = [n.lat for n in w.nodes if n.location.valid()]
+            lons = [n.lon for n in w.nodes if n.location.valid()]
+            if not lats or not lons:
+                return
+            lat = sum(lats) / len(lats)
+            lon = sum(lons) / len(lons)
+            self.add_entry(tags['addr:street'], tags['addr:housenumber'], lat, lon)
+
+    def add_entry(self, street, housenumber, lat, lon):
+        housenumber = str(housenumber).strip()
+        street = str(street).strip()
+        if not housenumber or not street:
+            return
+
+        match = re.match(r'(\d+)', housenumber)
+        if match:
+            number_only = int(match.group(1))
+            self.rows.append((street, number_only, lat, lon))
         else:
-            return [int(n)]
-    except:
-        return []
+            print(f"Skipping malformed line: {street},{housenumber},{lat},{lon}")
 
-houses['numbers'] = houses['addr:housenumber'].apply(parse_numbers)
-houses = houses.explode('numbers')
-houses = houses.rename(columns={'numbers': 'housenumber'})
-houses = houses[houses['housenumber'].notna()]
-houses = houses[houses['housenumber'] != '']
 
-houses = houses.to_crs(epsg=3857)
-houses['geometry'] = houses.geometry.centroid
-houses = houses.to_crs(epsg=4326)
-houses['lat'] = houses.geometry.y
-houses['lon'] = houses.geometry.x
 
-houses[['addr:street', 'housenumber', 'lat', 'lon']].to_csv(f"{FILE_NAME.replace('.osm', '')}_houses.csv", 
-    header=False,index=False)
-print("✅ Extracted", len(houses), "house numbers with coordinates")
+handler = AddressExtractor()
+handler.apply_file(FILE_NAME, locations=True)
+
+houses_df = pd.DataFrame(handler.rows, columns=["street", "housenumber", "lat", "lon"])
+
+output_csv = f"{FILE_NAME.replace('.osm', '')}_houses.csv"
+houses_df.to_csv(output_csv, header=False, index=False)
+
+print(f"✅ Extracted {len(houses_df)} house numbers with coordinates to {output_csv}")

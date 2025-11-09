@@ -12,6 +12,9 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 houses.py --osm path_to_downloaded_file
-python3 streets.py --osm path_to_downloaded_file
+
+osmium tags-filter   -o filtered_streets.osm   path_to_downloaded_file   w/highway=motorway,trunk,primary,secondary,tertiary,residential,unclassified
+python3 streets.py --osm filtered_streets.osm
+
 python3 places.py --osm path_to_downloaded_file
 ```

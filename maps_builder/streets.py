@@ -15,8 +15,8 @@ edges_df = edges[cols].copy()
 
 def normalize_name(x):
     if isinstance(x, list):
-        return x[0]
-    return x
+        return str(x[0]).replace(", ", " ").replace(",", " ")
+    return str(x).replace(", ", " ").replace(",", " ")
 
 def normalize_highway(x):
     if isinstance(x, list):

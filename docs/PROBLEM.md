@@ -374,6 +374,16 @@ An extra large real map of Barcelona with 15378 intersections.
 
 [View files.](./maps/xl_1/)
 
+### 2xl_1
+
+A map of Barcelona and neighbouring cities.
+
+![map](./problem_images/2xl_1_map.png)
+
+[View in OpenStreetMap](https://www.openstreetmap.org/export#map=12/41.4086/2.0668)
+
+[View files.](./maps/2xl_1/)
+
 # Report
 
 You must deliver a report by the end of the project.

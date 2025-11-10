@@ -77,12 +77,32 @@ Enter place name (e.g. "Universitat Pompeu Fabra–Campus del Poblenou" or "L'Il
   You have arrived to your destination
 ```
 
-# Deliverables
+# Deliverables & grade
 
 By the end of the project, every team must deliver:
 
-- Source code for the program in your GitHub repository
-- [A report](#report)
+- Source code for the program in your GitHub repository. (40% of the labs grade)
+  - This grade includes using GitHub branches, PRs and proper commit names.
+- [A report](#report). (10% of the labs grade)
+
+After each lab, there is a small individual test (10% of the labs grade). At the end of the project, we will also interview each member individually (40% of the labs grade). You must pass the interview to pass the labs.
+
+## Use of AI
+
+You may use AI to ask questions, clarifications or troubleshoot issues. You should not use AI in agentic mode, as it will be considered plagiarism. 
+
+If you use AI to generate a piece of code, you should add a code comment next to it explicitely crediting it.
+
+Failure to answer questions during the interviews, may prompt the professors to report you due to plagiarism to the Engineering School's board.
+
+## The interview
+
+During the interview, we expect you to understand and be able to explain any part of the codebase:
+- Implementation details
+- Design decisions
+- Conceptual understanding about the algorithms and data structures you use
+- Runtime complexity and trade-offs
+- Any answer from your report
 
 # Introduction to maps
 
@@ -215,7 +235,7 @@ We have divided all tasks into four categories so you can prioritize implementin
 | 20% | Difficult, complex exercises             | (^^^)    |
 | 20% | Advanced, challenges for diving deep       | (^^^^)   |
 
-While this adds up to 110%, the grade is capped at 10. The extra 10% in (^^^^) can help you in case you make minor mistakes elsewhere.
+While this adds up to 110%, the grade is capped at 10 before being weighted for the lab's grade. The extra 10% in (^^^^) can help you in case you make minor mistakes elsewhere.
 
 ## Lab 0: Developer Setup
 
@@ -235,7 +255,7 @@ Start setting up before the session:
 ## Lab 1: Finding the coordinates of an address
 
 After this lab session, your program should:
-- Ask the user for a map (`xs_1`, `xs_2`, `md_1`, `lg_1` or `xl_1`). (^)
+- Ask the user for a map (`xs_1`, `xs_2`, `md_1`, `lg_1`, `xl_1` or `2xl_1`). (^)
 - Allow the user to pick between an address, coordinate or a place. (^)
 - If the user chooses to describe the source with an address, ask the user for a street name and house number (e.g. `Carrer de Roc Boronat, 138`). Print its coordinates. (^)
 - Find streets even if casing does not match (e.g. `Carrer de roc boronat` instead of `Carrer de Roc Boronat`) or using abbreviations (e.g. `C. de Roc Boronat` instead of `Carrer de Roc Boronat`). (^^)
@@ -272,8 +292,8 @@ To do so, you will need to implement:
 - Reading and parsing `streets.txt` files (^)
 - Storing all street segments in a linked list (^)
 - Compute the distance between the user position and every street to find the closest one. You need to calculate the [midpoint of every street segment](#midpoint-between-coordinates) and use the [Haversine formula](#haversine-formula) to compute the distance between the user coordinates and each street midpoint. (^)
-- Make finding the closest street faster by choosing and implementing a better data structure than a list. Learn about geohashes or quad trees for inspiration. (^^^^)
 - Unit test the streets linked list. (^^^)
+- Make finding the closest street faster by choosing and implementing a better data structure than a list. (^^^^)
 
 ## Lab 4: Finding connected streets efficiently
 
@@ -300,8 +320,8 @@ To do so, you will need to implement:
 - Unit test the path finding algorithm. (^^^)
 - Make the [BFS algorithm](#breadth-first-search) more efficient by implementing a better data structure for the existing `visited` street list. (^^^)
 - Consider the street length as the weight of edges in the graph. Choose a suitable algorithm other than BFS and implement it. (^^^^)
-- Extend your path finding algorithm above with support for traffic congestion and temporary road closures. (^^^^)
-- Implement adequate path caching and/or graph contraction to speed up path finding. (^^^^)
+- Extend your path finding algorithm above with support for traffic congestion and temporary road closures by designing your own algorithm or formula. (^^^^)
+- Speed up pathfinding through path caching and/or graph contraction. Design and implement an adequate data structure or algorithm. (^^^^)
 
 ## Lab 6 & 7: Finish it up
 

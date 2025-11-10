@@ -411,13 +411,13 @@ A map of Barcelona and neighbouring cities.
 You must deliver a report by the end of the project.
 
 - Write the report using [Markdown](https://www.markdownguide.org/) in the [REPORT.md file](./REPORT.md).
-- The report must contain:
-  - Worst-case runtime analysis of initializing the intersections map in Big-O.
-  - Worst-case runtime analysis of finding the coordinates of a street or place given the name in Big-O.
+- The report must contain answers to the following (and only the following) questions:
+  - Runtime complexity analysis of initializing the intersections map in Big-O.
+  - Runtime complexity analysis of finding the coordinates of a street or place given the name in Big-O.
+  - Runtime complexity analysis of your path-finding algorithm in Big-O.
   - A plot comparing the latency to find connected streets by sequentially looking through the list (lab 3) compared to using the intersections map (lab 4), depending on the map size.
     - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
     - Explain the results.
-  - Worst-case runtime analysis of your path-finding algorithm in Big-O.
   - A plot comparing the latency to find a path between two points that are close in the map compared to two points that are very far in the map, for different scenarios.
     - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
     - Explain the results.

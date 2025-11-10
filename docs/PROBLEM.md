@@ -272,7 +272,7 @@ To do so, you will need to implement:
 ## Lab 2: Finding the coordinates of a place
 
 After this lab session, your program should:
-- If the chooses to describe the source with a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
+- If the user chooses to describe the source with a place, ask the user for the name of a place (e.g. `Àrea Tallers`). Print its coordinates. (^^)
 - If the user writes a place which is not known (e.g. `Area Tallers` instead of `Àrea Tallers`), allow choosing from the most similar places. (^^^)
 
 To do so, you will need to implement:

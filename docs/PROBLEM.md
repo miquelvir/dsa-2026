@@ -196,7 +196,7 @@ We store streets in `streets.txt` files. Each line represents a street. Two-way 
 11,20.000000,40.000000,10,20.000000,36.666667,100,Av. Horitzontal
 ```
 
-The full file can be found in [./maps/xs_1/streets.txt](./maps/xs_1/streets.txt).
+The full file can be found in [./maps/xs_1/streets.txt](./../maps/xs_1/streets.txt).
 
 # Design
 

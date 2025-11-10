@@ -323,6 +323,8 @@ To do so, you will need to implement:
 - Extend your path finding algorithm above with support for traffic congestion and temporary road closures by designing your own algorithm or formula. (^^^^)
 - Speed up pathfinding through path caching and/or graph contraction. Design and implement an adequate data structure or algorithm. (^^^^)
 
+You may suggest another task of similar scope to any of the (^^^^) tasks and implement that one instead. To do so, ask your lab's professor for permission. Once they have agreed to it, send your task suggestion to `miquel.vazquez@upf.edu` to get approval (for fairness purposes, we need to make sure tasks across all groups meet or raise the bar).
+
 ## Lab 6 & 7: Finish it up
 
 Use these two sessions to finish work from previous labs. Focus on implementing tasks with (^^) or more difficulty once you have finished the basic ones. Feel free to discuss with your lab TA / Professor for advice!

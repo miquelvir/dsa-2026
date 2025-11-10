@@ -107,7 +107,7 @@ During the interview, we expect you to understand and be able to explain any par
 # Introduction to maps
 
 Maps are composed of three components:
-- Boxes wth the dashed outline represent **city blocks**. 
+- Boxes with the dashed outline represent **city blocks**. 
 - City blocks are separated by **streets**. 
 - An **intersection** is the place where two or more streets meet.
 
@@ -144,7 +144,7 @@ C. del Baixant,10,16.000000,34.000000
 C. del Baixant,12,17.000000,34.000000
 ```
 
-The full file can be found in [./maps/xs_1/houses.txt](./maps/xs_1/houses.txt).
+The full file can be found in [./maps/xs_1/houses.txt](./../maps/xs_1/houses.txt).
 
 ## Streets
 
@@ -364,7 +364,7 @@ A small real map of a couple of city blocks around the University with 71 inters
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=18/41.403585/2.194433)
 
-[View files.](./maps/xs_2/)
+[View files.](./../maps/xs_2/)
 
 ## md_1
 
@@ -374,7 +374,7 @@ A medium real map of the city blocks around the University with 1122 intersectio
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=16/41.40354/2.19729)
 
-[View files.](./maps/md_1/)
+[View files.](./../maps/md_1/)
 
 ## lg_1
 
@@ -384,7 +384,7 @@ A large real map of Poblenou with 3283 intersections.
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=15/41.39820/2.19744)
 
-[View files.](./maps/lg_1/)
+[View files.](./../maps/lg_1/)
 
 ## xl_1
 
@@ -394,7 +394,7 @@ An extra large real map of Barcelona with 15378 intersections.
 
 [View in OpenStreetMap.](https://www.openstreetmap.org/export#map=14/41.39532/2.16680)
 
-[View files.](./maps/xl_1/)
+[View files.](./../maps/xl_1/)
 
 ### 2xl_1
 
@@ -404,7 +404,7 @@ A map of Barcelona and neighbouring cities.
 
 [View in OpenStreetMap](https://www.openstreetmap.org/export#map=12/41.4086/2.0668)
 
-[View files.](./maps/2xl_1/)
+[View files.](./../maps/2xl_1/)
 
 # Report
 

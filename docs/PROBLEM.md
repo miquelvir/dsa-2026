@@ -8,7 +8,7 @@
 1. 🚀 [Goal](#goal)
 2. 🗺️ [Introduction to maps](#introduction-to-maps)
 3. 🏗️ [Design](#design)
-4. 🖼️ [Class Diagram](#class-diagram)
+4. 🖼️ [Solution overview](#solution-overview)
 5. 🧩 [Work breakdown](#work-breakdown)
    * 🛠️ [Lab 1: Developer Setup](#lab-1-developer-setup)
    * 📍 [Lab 2: Finding the coordinates of an address](#lab-2-finding-the-coordinates-of-an-address)
@@ -199,9 +199,9 @@ The program consists of 4 parts:
 
     - Once we have the source and destination streets, as well as a proper street graph, we use path finding algorithms to find the best route for the user.
 
-# Class Diagram
+# Solution overview
 
-Class diagram as an example and overview of how to structure code, files and structs.
+The following diagram shows an example of how to structure your solution. You are free to deviate from it and we include it just for reference.
 
 ![Diagram](./problem_images/class_diagram.png)
 

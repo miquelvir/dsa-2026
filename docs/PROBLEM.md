@@ -471,6 +471,7 @@ You must deliver a report by the end of the project.
   - A plot comparing the latency to find a path between two points finding connected streets sequentially looking through the list compared to using the intersections map, depending on the distance between the origin and destination (but using the same map).
     - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
     - Explain the results.
+    - [Fit a curve](https://www.statology.org/curve-fitting-in-google-sheets/) and justify it based on the runtime complexity from question 3.
   - Describe an improvement to the `visited` data structure in the BFS algorithm to improve latency. 
     - Justify which data structure you would use / have used instead of a list to improve performance.
     - Describe its current runtime complexity and the improved runtime complexity.

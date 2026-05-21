@@ -328,7 +328,7 @@ To do so, you will need to implement:
 - Print which street segments are connected to this one in the street graph faster. (^)
  
 > [!NOTE]
-> Don't remove the old version finding connected streets from the list using linear search. You will need it to compare Lab 3 and Lab 4 for the report.
+> Don't remove the old version finding connected streets from the list using linear search. You will need it to compare Lab 4 and Lab 5 for the report.
 
 ### Notes
 
@@ -462,7 +462,7 @@ You must deliver a report by the end of the project.
   - Runtime complexity analysis of initializing the intersections map in Big-O. Include the average, best and worst cases if they are different.
   - Runtime complexity analysis of finding the coordinates of a street or place given the name in Big-O. Include the average, best and worst cases if they are different.
   - Runtime complexity analysis of your path-finding algorithm in Big-O. Include the average, best and worst cases if they are different.
-  - A plot comparing the latency to find connected streets by sequentially looking through the list (lab 3) compared to using the intersections map (lab 4), depending on the map size.
+  - A plot comparing the latency to find connected streets by sequentially looking through the list (lab 4) compared to using the intersections map (lab 5), depending on the map size.
     - Experimentally determine the results by measuring multiple times your program's behaviour with different relevant scenarios in the same machine. Include your raw data in the report, besides the plot.
     - Explain the results.
   - A plot comparing the latency to find a path between two points finding connected streets sequentially looking through the list compared to using the intersections map, depending on the map size (but keeping the same origin and destination).

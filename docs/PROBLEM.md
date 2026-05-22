@@ -8,14 +8,15 @@
 1. 🚀 [Goal](#goal)
 2. 🗺️ [Introduction to maps](#introduction-to-maps)
 3. 🏗️ [Design](#design)
-4. 🧩 [Work breakdown](#work-breakdown)
+4. 🖼️ [Solution overview](#solution-overview)
+5. 🧩 [Work breakdown](#work-breakdown)
    * 🛠️ [Lab 1: Developer Setup](#lab-1-developer-setup)
    * 📍 [Lab 2: Finding the coordinates of an address](#lab-2-finding-the-coordinates-of-an-address)
    * 🏛️ [Lab 3: Finding the coordinates of a place](#lab-3-finding-the-coordinates-of-a-place)
    * 🔗 [Lab 4: Finding connected streets](#lab-4-finding-connected-streets)
    * ⚡ [Lab 5: Finding connected streets efficiently](#lab-5-finding-connected-streets-efficiently)
    * 🧭 [Lab 6: The path between two positions](#lab-6-the-path-between-two-positions)
-5. 🎓 [Deliverables & grade](#deliverables--grade)
+6. 🎓 [Deliverables & grade](#deliverables--grade)
    * 🤖 [Use of AI](#use-of-ai)
    * 📝 [Report](#report)
    * 🧑‍🏫 [Interview](#interview)
@@ -198,6 +199,11 @@ The program consists of 4 parts:
 
     - Once we have the source and destination streets, as well as a proper street graph, we use path finding algorithms to find the best route for the user.
 
+# Solution overview
+
+The following diagram shows an example of how to structure your solution. You are free to deviate from it and we include it just for reference.
+
+![Diagram](./problem_images/class_diagram.png)
 
 # Work breakdown
 
